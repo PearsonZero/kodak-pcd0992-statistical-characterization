@@ -1,0 +1,134 @@
+{
+  "metadata": {
+    "image_id": "kodim19",
+    "subject": "Lighthouse and Coast",
+    "suite": "Kodak Lossless True Color Image Suite (PCD0992)",
+    "resolution": "512x768",
+    "resolution_array": [
+      512,
+      768
+    ],
+    "pixel_count": 393216,
+    "bit_depth": 24,
+    "color_space": "sRGB",
+    "color_mode": "RGB",
+    "format": "PNG (lossless)",
+    "provenance": "Kodak PCD Film Scanner 2000, 35mm film, PhotoYCC decode to 8-bit RGB"
+  },
+  "channel_statistics": {
+    "red": {
+      "mean": 122.4976,
+      "std_dev": 51.1987,
+      "variance": 2621.3117,
+      "kurtosis": 0.2442,
+      "skewness": 0.855,
+      "min": 0,
+      "max": 255
+    },
+    "green": {
+      "mean": 115.5019,
+      "std_dev": 46.253,
+      "variance": 2139.3377,
+      "kurtosis": 0.053,
+      "skewness": 0.5868,
+      "min": 0,
+      "max": 255
+    },
+    "blue": {
+      "mean": 98.17,
+      "std_dev": 45.4169,
+      "variance": 2062.6919,
+      "kurtosis": -0.9406,
+      "skewness": -0.2592,
+      "min": 0,
+      "max": 255
+    }
+  },
+  "covariance_matrix": {
+    "RR": 2621.3184,
+    "RG": 2289.5494,
+    "RB": 1896.1883,
+    "GG": 2139.3431,
+    "GB": 1922.263,
+    "BB": 2062.6971
+  },
+  "correlations": {
+    "R_G": 0.96683,
+    "R_B": 0.815462,
+    "G_B": 0.915071,
+    "average_absolute": 0.899121
+  },
+  "eigendecomposition": {
+    "PC1": {
+      "eigenvalue": 6370.5766,
+      "variance_explained_pct": 93.36,
+      "eigenvector": {
+        "R": -0.6208,
+        "G": -0.577,
+        "B": -0.5307
+      }
+    },
+    "PC2": {
+      "eigenvalue": 428.1205,
+      "variance_explained_pct": 6.27,
+      "eigenvector": {
+        "R": -0.612,
+        "G": -0.0664,
+        "B": 0.7881
+      }
+    },
+    "PC3": {
+      "eigenvalue": 24.6615,
+      "variance_explained_pct": 0.36,
+      "eigenvector": {
+        "R": 0.49,
+        "G": -0.814,
+        "B": 0.3119
+      }
+    }
+  },
+  "derived_metrics": {
+    "condition_number": 258.32,
+    "eigenvalue_ratio_PC1_PC2": 14.88,
+    "eigenvalue_ratio_PC2_PC3": 17.36,
+    "dimensionality_tier": "Strongly One-Dimensional",
+    "pc1_dominant_channel": "Red",
+    "pc1_dominant_loading": -0.6208,
+    "blue_channel_independence_pct": 13.0,
+    "eigenvector_pattern": "Red dominant"
+  },
+  "spatial_autocorrelation": {
+    "red": {
+      "horizontal": 0.934066,
+      "vertical": 0.952822,
+      "average": 0.943444
+    },
+    "green": {
+      "horizontal": 0.921641,
+      "vertical": 0.941917,
+      "average": 0.931779
+    },
+    "blue": {
+      "horizontal": 0.926385,
+      "vertical": 0.945151,
+      "average": 0.935768
+    }
+  },
+  "average_local_variance_3x3": {
+    "red": 247.2722,
+    "green": 239.9454,
+    "blue": 211.154
+  },
+  "residual_correlations_pca_space": {
+    "PC1_PC2": 0.0,
+    "PC1_PC3": 0.0,
+    "PC2_PC3": 0.0
+  },
+  "redundancy_profile": {
+    "classification": "Strongly One-Dimensional  |  Condition Number: 258.32  |  PC1: 93.36%",
+    "correlation_structure": "R\u2013G pair dominates at r = 0.966830  |  G\u2013B: 0.915071  |  R\u2013B: 0.815462",
+    "blue_channel": "13.0% independent  |  Moderate decoupling from PC1",
+    "spatial_structure": "Avg autocorrelation: 0.936997  |  Avg local variance: 232.7905",
+    "eigenvector_pattern": "Red dominant  |  R (-0.6208) leads  |  G (-0.5770), B (-0.5307)"
+  }
+}

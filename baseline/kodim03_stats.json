@@ -1,0 +1,134 @@
+{
+  "metadata": {
+    "image_id": "kodim03",
+    "subject": "Neon Bahamas Hats on Fence",
+    "suite": "Kodak Lossless True Color Image Suite (PCD0992)",
+    "resolution": "768x512",
+    "resolution_array": [
+      768,
+      512
+    ],
+    "pixel_count": 393216,
+    "bit_depth": 24,
+    "color_space": "sRGB",
+    "color_mode": "RGB",
+    "format": "PNG (lossless)",
+    "provenance": "Kodak PCD Film Scanner 2000, 35mm film, PhotoYCC decode to 8-bit RGB"
+  },
+  "channel_statistics": {
+    "red": {
+      "mean": 111.6838,
+      "std_dev": 44.0323,
+      "variance": 1938.8418,
+      "kurtosis": 0.5779,
+      "skewness": 0.851,
+      "min": 0,
+      "max": 255
+    },
+    "green": {
+      "mean": 101.9713,
+      "std_dev": 44.6306,
+      "variance": 1991.8898,
+      "kurtosis": 0.6233,
+      "skewness": 0.6694,
+      "min": 0,
+      "max": 255
+    },
+    "blue": {
+      "mean": 76.0347,
+      "std_dev": 42.5095,
+      "variance": 1807.059,
+      "kurtosis": -1.0205,
+      "skewness": -0.051,
+      "min": 0,
+      "max": 255
+    }
+  },
+  "covariance_matrix": {
+    "RR": 1938.8467,
+    "RG": 1412.0611,
+    "RB": 540.9428,
+    "GG": 1991.8949,
+    "GB": 1049.9428,
+    "BB": 1807.0636
+  },
+  "correlations": {
+    "R_G": 0.718536,
+    "R_B": 0.288997,
+    "G_B": 0.553408,
+    "average_absolute": 0.520314
+  },
+  "eigendecomposition": {
+    "PC1": {
+      "eigenvalue": 3974.7495,
+      "variance_explained_pct": 69.27,
+      "eigenvector": {
+        "R": -0.5843,
+        "G": -0.6635,
+        "B": -0.4672
+      }
+    },
+    "PC2": {
+      "eigenvalue": 1338.2911,
+      "variance_explained_pct": 23.32,
+      "eigenvector": {
+        "R": -0.5749,
+        "G": -0.0679,
+        "B": 0.8154
+      }
+    },
+    "PC3": {
+      "eigenvalue": 424.7647,
+      "variance_explained_pct": 7.4,
+      "eigenvector": {
+        "R": -0.5728,
+        "G": 0.7451,
+        "B": -0.3418
+      }
+    }
+  },
+  "derived_metrics": {
+    "condition_number": 9.36,
+    "eigenvalue_ratio_PC1_PC2": 2.97,
+    "eigenvalue_ratio_PC2_PC3": 3.15,
+    "dimensionality_tier": "Three-Dimensional",
+    "pc1_dominant_channel": "Green",
+    "pc1_dominant_loading": -0.6635,
+    "blue_channel_independence_pct": 52.0,
+    "eigenvector_pattern": "Green dominant"
+  },
+  "spatial_autocorrelation": {
+    "red": {
+      "horizontal": 0.98337,
+      "vertical": 0.968858,
+      "average": 0.976114
+    },
+    "green": {
+      "horizontal": 0.984021,
+      "vertical": 0.96987,
+      "average": 0.976945
+    },
+    "blue": {
+      "horizontal": 0.985672,
+      "vertical": 0.970529,
+      "average": 0.978101
+    }
+  },
+  "average_local_variance_3x3": {
+    "red": 75.4177,
+    "green": 73.9969,
+    "blue": 58.517
+  },
+  "residual_correlations_pca_space": {
+    "PC1_PC2": 0.0,
+    "PC1_PC3": 0.0,
+    "PC2_PC3": 0.0
+  },
+  "redundancy_profile": {
+    "classification": "Three-Dimensional  |  Condition Number: 9.36  |  PC1: 69.27%",
+    "correlation_structure": "R\u2013G pair leads at r = 0.718536  |  G\u2013B: 0.553408  |  R\u2013B: 0.288997",
+    "blue_channel": "52.0% independent  |  3D color; major blue variance",
+    "spatial_structure": "Avg autocorrelation: 0.977053  |  Avg local variance: 69.3105",
+    "eigenvector_pattern": "Green dominant  |  G (-0.6635) leads  |  R (-0.5843), B (-0.4672)"
+  }
+}

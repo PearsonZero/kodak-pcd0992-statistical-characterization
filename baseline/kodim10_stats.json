@@ -1,0 +1,134 @@
+{
+  "metadata": {
+    "image_id": "kodim10",
+    "subject": "Sailboat Race Close-Up",
+    "suite": "Kodak Lossless True Color Image Suite (PCD0992)",
+    "resolution": "512x768",
+    "resolution_array": [
+      512,
+      768
+    ],
+    "pixel_count": 393216,
+    "bit_depth": 24,
+    "color_space": "sRGB",
+    "color_mode": "RGB",
+    "format": "PNG (lossless)",
+    "provenance": "Kodak PCD Film Scanner 2000, 35mm film, PhotoYCC decode to 8-bit RGB"
+  },
+  "channel_statistics": {
+    "red": {
+      "mean": 115.6475,
+      "std_dev": 40.3658,
+      "variance": 1629.3985,
+      "kurtosis": 1.1267,
+      "skewness": 0.4697,
+      "min": 0,
+      "max": 255
+    },
+    "green": {
+      "mean": 124.7658,
+      "std_dev": 40.9145,
+      "variance": 1673.9978,
+      "kurtosis": 0.992,
+      "skewness": 0.1665,
+      "min": 0,
+      "max": 255
+    },
+    "blue": {
+      "mean": 118.2671,
+      "std_dev": 33.891,
+      "variance": 1148.6022,
+      "kurtosis": 1.3551,
+      "skewness": 0.2009,
+      "min": 0,
+      "max": 255
+    }
+  },
+  "covariance_matrix": {
+    "RR": 1629.4026,
+    "RG": 1577.9784,
+    "RB": 1217.8063,
+    "GG": 1674.0021,
+    "GB": 1344.3638,
+    "BB": 1148.6052
+  },
+  "correlations": {
+    "R_G": 0.955452,
+    "R_B": 0.890182,
+    "G_B": 0.969513,
+    "average_absolute": 0.938382
+  },
+  "eigendecomposition": {
+    "PC1": {
+      "eigenvalue": 4279.3978,
+      "variance_explained_pct": 96.12,
+      "eigenvector": {
+        "R": -0.601,
+        "G": -0.6226,
+        "B": -0.5011
+      }
+    },
+    "PC2": {
+      "eigenvalue": 153.9494,
+      "variance_explained_pct": 3.46,
+      "eigenvector": {
+        "R": -0.7275,
+        "G": 0.1666,
+        "B": 0.6656
+      }
+    },
+    "PC3": {
+      "eigenvalue": 18.6628,
+      "variance_explained_pct": 0.42,
+      "eigenvector": {
+        "R": 0.3309,
+        "G": -0.7646,
+        "B": 0.553
+      }
+    }
+  },
+  "derived_metrics": {
+    "condition_number": 229.3,
+    "eigenvalue_ratio_PC1_PC2": 27.8,
+    "eigenvalue_ratio_PC2_PC3": 8.25,
+    "dimensionality_tier": "Strongly One-Dimensional",
+    "pc1_dominant_channel": "Green",
+    "pc1_dominant_loading": -0.6226,
+    "blue_channel_independence_pct": 6.4,
+    "eigenvector_pattern": "Green dominant"
+  },
+  "spatial_autocorrelation": {
+    "red": {
+      "horizontal": 0.953891,
+      "vertical": 0.965941,
+      "average": 0.959916
+    },
+    "green": {
+      "horizontal": 0.953087,
+      "vertical": 0.963732,
+      "average": 0.95841
+    },
+    "blue": {
+      "horizontal": 0.93553,
+      "vertical": 0.951529,
+      "average": 0.943529
+    }
+  },
+  "average_local_variance_3x3": {
+    "red": 107.2469,
+    "green": 116.0858,
+    "blue": 103.432
+  },
+  "residual_correlations_pca_space": {
+    "PC1_PC2": 0.0,
+    "PC1_PC3": 0.0,
+    "PC2_PC3": 0.0
+  },
+  "redundancy_profile": {
+    "classification": "Strongly One-Dimensional  |  Condition Number: 229.30  |  PC1: 96.12%",
+    "correlation_structure": "G\u2013B pair dominates at r = 0.969513  |  R\u2013G: 0.955452  |  R\u2013B: 0.890182",
+    "blue_channel": "6.4% independent  |  Moderate decoupling from PC1",
+    "spatial_structure": "Avg autocorrelation: 0.953952  |  Avg local variance: 108.9216",
+    "eigenvector_pattern": "Green dominant  |  G (-0.6226) leads  |  R (-0.6010), B (-0.5011)"
+  }
+}

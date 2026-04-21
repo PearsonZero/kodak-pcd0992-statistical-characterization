@@ -1,0 +1,134 @@
+{
+  "metadata": {
+    "image_id": "kodim22",
+    "subject": "Red Barn and Fences",
+    "suite": "Kodak Lossless True Color Image Suite (PCD0992)",
+    "resolution": "768x512",
+    "resolution_array": [
+      768,
+      512
+    ],
+    "pixel_count": 393216,
+    "bit_depth": 24,
+    "color_space": "sRGB",
+    "color_mode": "RGB",
+    "format": "PNG (lossless)",
+    "provenance": "Kodak PCD Film Scanner 2000, 35mm film, PhotoYCC decode to 8-bit RGB"
+  },
+  "channel_statistics": {
+    "red": {
+      "mean": 121.783,
+      "std_dev": 44.5188,
+      "variance": 1981.9227,
+      "kurtosis": 1.1508,
+      "skewness": 0.9451,
+      "min": 0,
+      "max": 255
+    },
+    "green": {
+      "mean": 112.4031,
+      "std_dev": 40.9399,
+      "variance": 1676.0753,
+      "kurtosis": 0.4604,
+      "skewness": 0.4691,
+      "min": 0,
+      "max": 255
+    },
+    "blue": {
+      "mean": 88.6816,
+      "std_dev": 46.6028,
+      "variance": 2171.818,
+      "kurtosis": -0.7035,
+      "skewness": 0.7033,
+      "min": 0,
+      "max": 255
+    }
+  },
+  "covariance_matrix": {
+    "RR": 1981.9277,
+    "RG": 1588.2027,
+    "RB": 1659.882,
+    "GG": 1676.0796,
+    "GB": 1669.754,
+    "BB": 2171.8235
+  },
+  "correlations": {
+    "R_G": 0.871394,
+    "R_B": 0.800057,
+    "G_B": 0.875171,
+    "average_absolute": 0.848874
+  },
+  "eigendecomposition": {
+    "PC1": {
+      "eigenvalue": 5232.6152,
+      "variance_explained_pct": 89.76,
+      "eigenvector": {
+        "R": -0.5769,
+        "G": -0.5438,
+        "B": -0.6095
+      }
+    },
+    "PC2": {
+      "eigenvalue": 414.479,
+      "variance_explained_pct": 7.11,
+      "eigenvector": {
+        "R": -0.7151,
+        "G": -0.0243,
+        "B": 0.6986
+      }
+    },
+    "PC3": {
+      "eigenvalue": 182.7367,
+      "variance_explained_pct": 3.13,
+      "eigenvector": {
+        "R": 0.3947,
+        "G": -0.8389,
+        "B": 0.3748
+      }
+    }
+  },
+  "derived_metrics": {
+    "condition_number": 28.63,
+    "eigenvalue_ratio_PC1_PC2": 12.62,
+    "eigenvalue_ratio_PC2_PC3": 2.27,
+    "dimensionality_tier": "Weakly One-Dimensional",
+    "pc1_dominant_channel": "Blue",
+    "pc1_dominant_loading": -0.6095,
+    "blue_channel_independence_pct": 10.5,
+    "eigenvector_pattern": "Blue dominant"
+  },
+  "spatial_autocorrelation": {
+    "red": {
+      "horizontal": 0.955737,
+      "vertical": 0.959898,
+      "average": 0.957817
+    },
+    "green": {
+      "horizontal": 0.94379,
+      "vertical": 0.948469,
+      "average": 0.94613
+    },
+    "blue": {
+      "horizontal": 0.956775,
+      "vertical": 0.963268,
+      "average": 0.960022
+    }
+  },
+  "average_local_variance_3x3": {
+    "red": 129.035,
+    "green": 137.59,
+    "blue": 130.4296
+  },
+  "residual_correlations_pca_space": {
+    "PC1_PC2": 0.0,
+    "PC1_PC3": 0.0,
+    "PC2_PC3": 0.0
+  },
+  "redundancy_profile": {
+    "classification": "Weakly One-Dimensional  |  Condition Number: 28.63  |  PC1: 89.76%",
+    "correlation_structure": "G\u2013B pair leads at r = 0.875171  |  R\u2013G: 0.871394  |  R\u2013B: 0.800057",
+    "blue_channel": "10.5% independent  |  Moderate decoupling from PC1",
+    "spatial_structure": "Avg autocorrelation: 0.954656  |  Avg local variance: 132.3515",
+    "eigenvector_pattern": "Blue dominant  |  B (-0.6095) leads  |  R (-0.5769), G (-0.5438)"
+  }
+}

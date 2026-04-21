@@ -1,0 +1,134 @@
+{
+  "metadata": {
+    "image_id": "kodim13",
+    "subject": "Mountain Stream and Rocks",
+    "suite": "Kodak Lossless True Color Image Suite (PCD0992)",
+    "resolution": "768x512",
+    "resolution_array": [
+      768,
+      512
+    ],
+    "pixel_count": 393216,
+    "bit_depth": 24,
+    "color_space": "sRGB",
+    "color_mode": "RGB",
+    "format": "PNG (lossless)",
+    "provenance": "Kodak PCD Film Scanner 2000, 35mm film, PhotoYCC decode to 8-bit RGB"
+  },
+  "channel_statistics": {
+    "red": {
+      "mean": 112.2371,
+      "std_dev": 52.0095,
+      "variance": 2704.984,
+      "kurtosis": 0.5293,
+      "skewness": 0.9326,
+      "min": 0,
+      "max": 255
+    },
+    "green": {
+      "mean": 110.5166,
+      "std_dev": 53.5862,
+      "variance": 2871.4856,
+      "kurtosis": 0.6601,
+      "skewness": 0.9991,
+      "min": 0,
+      "max": 255
+    },
+    "blue": {
+      "mean": 82.2896,
+      "std_dev": 54.7389,
+      "variance": 2996.3458,
+      "kurtosis": 0.9736,
+      "skewness": 1.2191,
+      "min": 0,
+      "max": 255
+    }
+  },
+  "covariance_matrix": {
+    "RR": 2704.9909,
+    "RG": 2736.24,
+    "RB": 2695.8463,
+    "GG": 2871.4929,
+    "GB": 2827.3473,
+    "BB": 2996.3535
+  },
+  "correlations": {
+    "R_G": 0.981787,
+    "R_B": 0.946925,
+    "G_B": 0.963893,
+    "average_absolute": 0.964202
+  },
+  "eigendecomposition": {
+    "PC1": {
+      "eigenvalue": 8367.1677,
+      "variance_explained_pct": 97.6,
+      "eigenvector": {
+        "R": -0.5614,
+        "G": -0.5821,
+        "B": -0.5882
+      }
+    },
+    "PC2": {
+      "eigenvalue": 161.629,
+      "variance_explained_pct": 1.89,
+      "eigenvector": {
+        "R": -0.5688,
+        "G": -0.2449,
+        "B": 0.7852
+      }
+    },
+    "PC3": {
+      "eigenvalue": 44.0405,
+      "variance_explained_pct": 0.51,
+      "eigenvector": {
+        "R": -0.6011,
+        "G": 0.7754,
+        "B": -0.1936
+      }
+    }
+  },
+  "derived_metrics": {
+    "condition_number": 189.99,
+    "eigenvalue_ratio_PC1_PC2": 51.77,
+    "eigenvalue_ratio_PC2_PC3": 3.67,
+    "dimensionality_tier": "Near-Degenerate",
+    "pc1_dominant_channel": "Blue",
+    "pc1_dominant_loading": -0.5882,
+    "blue_channel_independence_pct": 3.4,
+    "eigenvector_pattern": "Balanced"
+  },
+  "spatial_autocorrelation": {
+    "red": {
+      "horizontal": 0.894298,
+      "vertical": 0.83718,
+      "average": 0.865739
+    },
+    "green": {
+      "horizontal": 0.897359,
+      "vertical": 0.841415,
+      "average": 0.869387
+    },
+    "blue": {
+      "horizontal": 0.903094,
+      "vertical": 0.852387,
+      "average": 0.87774
+    }
+  },
+  "average_local_variance_3x3": {
+    "red": 497.599,
+    "green": 519.2852,
+    "blue": 492.1569
+  },
+  "residual_correlations_pca_space": {
+    "PC1_PC2": 0.0,
+    "PC1_PC3": 0.0,
+    "PC2_PC3": 0.0
+  },
+  "redundancy_profile": {
+    "classification": "Near-Degenerate  |  Condition Number: 189.99  |  PC1: 97.60%",
+    "correlation_structure": "R\u2013G pair dominates at r = 0.981787  |  G\u2013B: 0.963893  |  R\u2013B: 0.946925",
+    "blue_channel": "3.4% independent  |  96.6% captured by PC1",
+    "spatial_structure": "Avg autocorrelation: 0.870955  |  Avg local variance: 503.0137",
+    "eigenvector_pattern": "Balanced  |  R (-0.5614), G (-0.5821), B (-0.5882) near-equal loading"
+  }
+}

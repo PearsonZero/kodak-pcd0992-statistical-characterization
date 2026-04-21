@@ -1,0 +1,134 @@
+{
+  "metadata": {
+    "image_id": "kodim18",
+    "subject": "Fashion Portrait Woman",
+    "suite": "Kodak Lossless True Color Image Suite (PCD0992)",
+    "resolution": "512x768",
+    "resolution_array": [
+      512,
+      768
+    ],
+    "pixel_count": 393216,
+    "bit_depth": 24,
+    "color_space": "sRGB",
+    "color_mode": "RGB",
+    "format": "PNG (lossless)",
+    "provenance": "Kodak PCD Film Scanner 2000, 35mm film, PhotoYCC decode to 8-bit RGB"
+  },
+  "channel_statistics": {
+    "red": {
+      "mean": 80.5698,
+      "std_dev": 47.3467,
+      "variance": 2241.7069,
+      "kurtosis": 2.1586,
+      "skewness": 1.3143,
+      "min": 0,
+      "max": 255
+    },
+    "green": {
+      "mean": 71.8574,
+      "std_dev": 37.852,
+      "variance": 1432.7776,
+      "kurtosis": 4.2459,
+      "skewness": 1.6283,
+      "min": 0,
+      "max": 255
+    },
+    "blue": {
+      "mean": 49.5295,
+      "std_dev": 30.7754,
+      "variance": 947.1238,
+      "kurtosis": 9.5076,
+      "skewness": 2.0417,
+      "min": 0,
+      "max": 255
+    }
+  },
+  "covariance_matrix": {
+    "RR": 2241.7126,
+    "RG": 1641.3123,
+    "RB": 1096.5581,
+    "GG": 1432.7812,
+    "GB": 972.9193,
+    "BB": 947.1262
+  },
+  "correlations": {
+    "R_G": 0.915823,
+    "R_B": 0.752554,
+    "G_B": 0.835186,
+    "average_absolute": 0.834521
+  },
+  "eigendecomposition": {
+    "PC1": {
+      "eigenvalue": 4188.5703,
+      "variance_explained_pct": 90.63,
+      "eigenvector": {
+        "R": -0.7117,
+        "G": -0.5692,
+        "B": -0.4116
+      }
+    },
+    "PC2": {
+      "eigenvalue": 324.0742,
+      "variance_explained_pct": 7.01,
+      "eigenvector": {
+        "R": -0.5547,
+        "G": 0.0959,
+        "B": 0.8265
+      }
+    },
+    "PC3": {
+      "eigenvalue": 108.9754,
+      "variance_explained_pct": 2.36,
+      "eigenvector": {
+        "R": 0.431,
+        "G": -0.8166,
+        "B": 0.384
+      }
+    }
+  },
+  "derived_metrics": {
+    "condition_number": 38.44,
+    "eigenvalue_ratio_PC1_PC2": 12.92,
+    "eigenvalue_ratio_PC2_PC3": 2.97,
+    "dimensionality_tier": "Weakly One-Dimensional",
+    "pc1_dominant_channel": "Red",
+    "pc1_dominant_loading": -0.7117,
+    "blue_channel_independence_pct": 25.1,
+    "eigenvector_pattern": "Red dominant"
+  },
+  "spatial_autocorrelation": {
+    "red": {
+      "horizontal": 0.925773,
+      "vertical": 0.93564,
+      "average": 0.930707
+    },
+    "green": {
+      "horizontal": 0.879187,
+      "vertical": 0.894688,
+      "average": 0.886937
+    },
+    "blue": {
+      "horizontal": 0.82905,
+      "vertical": 0.848442,
+      "average": 0.838746
+    }
+  },
+  "average_local_variance_3x3": {
+    "red": 232.2003,
+    "green": 238.0022,
+    "blue": 212.52
+  },
+  "residual_correlations_pca_space": {
+    "PC1_PC2": 0.0,
+    "PC1_PC3": 0.0,
+    "PC2_PC3": 0.0
+  },
+  "redundancy_profile": {
+    "classification": "Weakly One-Dimensional  |  Condition Number: 38.44  |  PC1: 90.63%",
+    "correlation_structure": "R\u2013G pair leads at r = 0.915823  |  G\u2013B: 0.835186  |  R\u2013B: 0.752554",
+    "blue_channel": "25.1% independent  |  Substantial independence from PC1",
+    "spatial_structure": "Avg autocorrelation: 0.885463  |  Avg local variance: 227.5742",
+    "eigenvector_pattern": "Red dominant  |  R (-0.7117) leads  |  G (-0.5692), B (-0.4116)"
+  }
+}

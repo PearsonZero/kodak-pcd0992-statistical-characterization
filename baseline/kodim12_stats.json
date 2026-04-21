@@ -1,0 +1,134 @@
+{
+  "metadata": {
+    "image_id": "kodim12",
+    "subject": "Beach Couple Walking",
+    "suite": "Kodak Lossless True Color Image Suite (PCD0992)",
+    "resolution": "768x512",
+    "resolution_array": [
+      768,
+      512
+    ],
+    "pixel_count": 393216,
+    "bit_depth": 24,
+    "color_space": "sRGB",
+    "color_mode": "RGB",
+    "format": "PNG (lossless)",
+    "provenance": "Kodak PCD Film Scanner 2000, 35mm film, PhotoYCC decode to 8-bit RGB"
+  },
+  "channel_statistics": {
+    "red": {
+      "mean": 161.5734,
+      "std_dev": 40.3806,
+      "variance": 1630.5965,
+      "kurtosis": 1.1058,
+      "skewness": -0.7565,
+      "min": 0,
+      "max": 255
+    },
+    "green": {
+      "mean": 166.9964,
+      "std_dev": 50.1228,
+      "variance": 2512.2992,
+      "kurtosis": 0.3809,
+      "skewness": -0.7898,
+      "min": 0,
+      "max": 255
+    },
+    "blue": {
+      "mean": 137.8578,
+      "std_dev": 46.17,
+      "variance": 2131.6692,
+      "kurtosis": 0.2495,
+      "skewness": -0.4877,
+      "min": 0,
+      "max": 255
+    }
+  },
+  "covariance_matrix": {
+    "RR": 1630.6007,
+    "RG": 1848.5032,
+    "RB": 1625.9443,
+    "GG": 2512.3056,
+    "GB": 2238.7707,
+    "BB": 2131.6746
+  },
+  "correlations": {
+    "R_G": 0.913293,
+    "R_B": 0.87211,
+    "G_B": 0.967415,
+    "average_absolute": 0.917606
+  },
+  "eigendecomposition": {
+    "PC1": {
+      "eigenvalue": 5966.2169,
+      "variance_explained_pct": 95.09,
+      "eigenvector": {
+        "R": -0.4937,
+        "G": -0.6434,
+        "B": -0.585
+      }
+    },
+    "PC2": {
+      "eigenvalue": 245.8155,
+      "variance_explained_pct": 3.92,
+      "eigenvector": {
+        "R": -0.8389,
+        "G": 0.1752,
+        "B": 0.5153
+      }
+    },
+    "PC3": {
+      "eigenvalue": 62.5484,
+      "variance_explained_pct": 1.0,
+      "eigenvector": {
+        "R": 0.229,
+        "G": -0.7452,
+        "B": 0.6263
+      }
+    }
+  },
+  "derived_metrics": {
+    "condition_number": 95.39,
+    "eigenvalue_ratio_PC1_PC2": 24.27,
+    "eigenvalue_ratio_PC2_PC3": 3.93,
+    "dimensionality_tier": "Strongly One-Dimensional",
+    "pc1_dominant_channel": "Green",
+    "pc1_dominant_loading": -0.6434,
+    "blue_channel_independence_pct": 4.2,
+    "eigenvector_pattern": "Green-Blue coupled"
+  },
+  "spatial_autocorrelation": {
+    "red": {
+      "horizontal": 0.97519,
+      "vertical": 0.959391,
+      "average": 0.96729
+    },
+    "green": {
+      "horizontal": 0.981558,
+      "vertical": 0.971839,
+      "average": 0.976698
+    },
+    "blue": {
+      "horizontal": 0.979094,
+      "vertical": 0.969349,
+      "average": 0.974221
+    }
+  },
+  "average_local_variance_3x3": {
+    "red": 88.4865,
+    "green": 101.6072,
+    "blue": 91.8665
+  },
+  "residual_correlations_pca_space": {
+    "PC1_PC2": 0.0,
+    "PC1_PC3": 0.0,
+    "PC2_PC3": 0.0
+  },
+  "redundancy_profile": {
+    "classification": "Strongly One-Dimensional  |  Condition Number: 95.39  |  PC1: 95.09%",
+    "correlation_structure": "G\u2013B pair dominates at r = 0.967415  |  R\u2013G: 0.913293  |  R\u2013B: 0.872110",
+    "blue_channel": "4.2% independent  |  95.8% captured by PC1",
+    "spatial_structure": "Avg autocorrelation: 0.972736  |  Avg local variance: 93.9867",
+    "eigenvector_pattern": "Green-Blue coupled  |  G (-0.6434), B (-0.5850) co-load  |  R offset (-0.4937)"
+  }
+}

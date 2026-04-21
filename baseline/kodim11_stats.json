@@ -1,0 +1,134 @@
+{
+  "metadata": {
+    "image_id": "kodim11",
+    "subject": "Zentime Pier and Dock",
+    "suite": "Kodak Lossless True Color Image Suite (PCD0992)",
+    "resolution": "768x512",
+    "resolution_array": [
+      768,
+      512
+    ],
+    "pixel_count": 393216,
+    "bit_depth": 24,
+    "color_space": "sRGB",
+    "color_mode": "RGB",
+    "format": "PNG (lossless)",
+    "provenance": "Kodak PCD Film Scanner 2000, 35mm film, PhotoYCC decode to 8-bit RGB"
+  },
+  "channel_statistics": {
+    "red": {
+      "mean": 93.0274,
+      "std_dev": 39.8342,
+      "variance": 1586.7655,
+      "kurtosis": 1.2927,
+      "skewness": 0.4763,
+      "min": 0,
+      "max": 255
+    },
+    "green": {
+      "mean": 95.0619,
+      "std_dev": 45.2329,
+      "variance": 2046.0129,
+      "kurtosis": -0.6104,
+      "skewness": -0.3633,
+      "min": 0,
+      "max": 255
+    },
+    "blue": {
+      "mean": 82.3172,
+      "std_dev": 43.0273,
+      "variance": 1851.3476,
+      "kurtosis": -0.9188,
+      "skewness": -0.4345,
+      "min": 0,
+      "max": 255
+    }
+  },
+  "covariance_matrix": {
+    "RR": 1586.7695,
+    "RG": 1482.0621,
+    "RB": 1355.076,
+    "GG": 2046.0181,
+    "GB": 1896.4575,
+    "BB": 1851.3523
+  },
+  "correlations": {
+    "R_G": 0.822536,
+    "R_B": 0.79061,
+    "G_B": 0.974415,
+    "average_absolute": 0.86252
+  },
+  "eigendecomposition": {
+    "PC1": {
+      "eigenvalue": 5021.4392,
+      "variance_explained_pct": 91.56,
+      "eigenvector": {
+        "R": -0.5047,
+        "G": -0.6286,
+        "B": -0.5918
+      }
+    },
+    "PC2": {
+      "eigenvalue": 416.0334,
+      "variance_explained_pct": 7.59,
+      "eigenvector": {
+        "R": -0.8596,
+        "G": 0.3027,
+        "B": 0.4116
+      }
+    },
+    "PC3": {
+      "eigenvalue": 46.6673,
+      "variance_explained_pct": 0.85,
+      "eigenvector": {
+        "R": 0.0796,
+        "G": -0.7164,
+        "B": 0.6931
+      }
+    }
+  },
+  "derived_metrics": {
+    "condition_number": 107.6,
+    "eigenvalue_ratio_PC1_PC2": 12.07,
+    "eigenvalue_ratio_PC2_PC3": 8.91,
+    "dimensionality_tier": "Weakly One-Dimensional",
+    "pc1_dominant_channel": "Green",
+    "pc1_dominant_loading": -0.6286,
+    "blue_channel_independence_pct": 5.0,
+    "eigenvector_pattern": "Green-Blue coupled"
+  },
+  "spatial_autocorrelation": {
+    "red": {
+      "horizontal": 0.936451,
+      "vertical": 0.914191,
+      "average": 0.925321
+    },
+    "green": {
+      "horizontal": 0.950674,
+      "vertical": 0.934059,
+      "average": 0.942366
+    },
+    "blue": {
+      "horizontal": 0.949338,
+      "vertical": 0.932529,
+      "average": 0.940933
+    }
+  },
+  "average_local_variance_3x3": {
+    "red": 182.4999,
+    "green": 181.8437,
+    "blue": 163.2886
+  },
+  "residual_correlations_pca_space": {
+    "PC1_PC2": 0.0,
+    "PC1_PC3": 0.0,
+    "PC2_PC3": 0.0
+  },
+  "redundancy_profile": {
+    "classification": "Weakly One-Dimensional  |  Condition Number: 107.60  |  PC1: 91.56%",
+    "correlation_structure": "G\u2013B pair dominates at r = 0.974415  |  R\u2013G: 0.822536  |  R\u2013B: 0.790610",
+    "blue_channel": "5.0% independent  |  Moderate decoupling from PC1",
+    "spatial_structure": "Avg autocorrelation: 0.936207  |  Avg local variance: 175.8774",
+    "eigenvector_pattern": "Green-Blue coupled  |  G (-0.6286), B (-0.5918) co-load  |  R offset (-0.5047)"
+  }
+}

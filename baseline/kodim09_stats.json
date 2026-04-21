@@ -1,0 +1,134 @@
+{
+  "metadata": {
+    "image_id": "kodim09",
+    "subject": "Spinnaker Sailboats Racing",
+    "suite": "Kodak Lossless True Color Image Suite (PCD0992)",
+    "resolution": "512x768",
+    "resolution_array": [
+      512,
+      768
+    ],
+    "pixel_count": 393216,
+    "bit_depth": 24,
+    "color_space": "sRGB",
+    "color_mode": "RGB",
+    "format": "PNG (lossless)",
+    "provenance": "Kodak PCD Film Scanner 2000, 35mm film, PhotoYCC decode to 8-bit RGB"
+  },
+  "channel_statistics": {
+    "red": {
+      "mean": 129.2367,
+      "std_dev": 40.6342,
+      "variance": 1651.1352,
+      "kurtosis": 0.5117,
+      "skewness": -0.345,
+      "min": 0,
+      "max": 255
+    },
+    "green": {
+      "mean": 134.352,
+      "std_dev": 39.5654,
+      "variance": 1565.4214,
+      "kurtosis": 0.4616,
+      "skewness": -0.4582,
+      "min": 0,
+      "max": 255
+    },
+    "blue": {
+      "mean": 125.9906,
+      "std_dev": 33.2819,
+      "variance": 1107.6857,
+      "kurtosis": 0.7139,
+      "skewness": -0.5961,
+      "min": 0,
+      "max": 255
+    }
+  },
+  "covariance_matrix": {
+    "RR": 1651.1394,
+    "RG": 1525.0105,
+    "RB": 991.2362,
+    "GG": 1565.4254,
+    "GB": 1127.231,
+    "BB": 1107.6885
+  },
+  "correlations": {
+    "R_G": 0.94856,
+    "R_B": 0.732954,
+    "G_B": 0.856028,
+    "average_absolute": 0.845847
+  },
+  "eigendecomposition": {
+    "PC1": {
+      "eigenvalue": 3928.741,
+      "variance_explained_pct": 90.85,
+      "eigenvector": {
+        "R": -0.6232,
+        "G": -0.6258,
+        "B": -0.469
+      }
+    },
+    "PC2": {
+      "eigenvalue": 353.1306,
+      "variance_explained_pct": 8.17,
+      "eigenvector": {
+        "R": -0.566,
+        "G": -0.053,
+        "B": 0.8227
+      }
+    },
+    "PC3": {
+      "eigenvalue": 42.3817,
+      "variance_explained_pct": 0.98,
+      "eigenvector": {
+        "R": 0.5398,
+        "G": -0.7781,
+        "B": 0.3211
+      }
+    }
+  },
+  "derived_metrics": {
+    "condition_number": 92.7,
+    "eigenvalue_ratio_PC1_PC2": 11.13,
+    "eigenvalue_ratio_PC2_PC3": 8.33,
+    "dimensionality_tier": "Weakly One-Dimensional",
+    "pc1_dominant_channel": "Green",
+    "pc1_dominant_loading": -0.6258,
+    "blue_channel_independence_pct": 22.0,
+    "eigenvector_pattern": "Green dominant"
+  },
+  "spatial_autocorrelation": {
+    "red": {
+      "horizontal": 0.952365,
+      "vertical": 0.966268,
+      "average": 0.959316
+    },
+    "green": {
+      "horizontal": 0.946314,
+      "vertical": 0.962531,
+      "average": 0.954422
+    },
+    "blue": {
+      "horizontal": 0.934099,
+      "vertical": 0.953785,
+      "average": 0.943942
+    }
+  },
+  "average_local_variance_3x3": {
+    "red": 117.563,
+    "green": 126.2179,
+    "blue": 104.9096
+  },
+  "residual_correlations_pca_space": {
+    "PC1_PC2": 0.0,
+    "PC1_PC3": 0.0,
+    "PC2_PC3": 0.0
+  },
+  "redundancy_profile": {
+    "classification": "Weakly One-Dimensional  |  Condition Number: 92.70  |  PC1: 90.85%",
+    "correlation_structure": "R\u2013G pair leads at r = 0.948560  |  G\u2013B: 0.856028  |  R\u2013B: 0.732954",
+    "blue_channel": "22.0% independent  |  Substantial independence from PC1",
+    "spatial_structure": "Avg autocorrelation: 0.952560  |  Avg local variance: 116.2302",
+    "eigenvector_pattern": "Green dominant  |  G (-0.6258) leads  |  R (-0.6232), B (-0.4690)"
+  }
+}

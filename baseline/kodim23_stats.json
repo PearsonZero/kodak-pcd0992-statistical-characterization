@@ -1,0 +1,134 @@
+{
+  "metadata": {
+    "image_id": "kodim23",
+    "subject": "Macaw Pair on Perch",
+    "suite": "Kodak Lossless True Color Image Suite (PCD0992)",
+    "resolution": "768x512",
+    "resolution_array": [
+      768,
+      512
+    ],
+    "pixel_count": 393216,
+    "bit_depth": 24,
+    "color_space": "sRGB",
+    "color_mode": "RGB",
+    "format": "PNG (lossless)",
+    "provenance": "Kodak PCD Film Scanner 2000, 35mm film, PhotoYCC decode to 8-bit RGB"
+  },
+  "channel_statistics": {
+    "red": {
+      "mean": 121.6621,
+      "std_dev": 57.4511,
+      "variance": 3300.6241,
+      "kurtosis": -0.3263,
+      "skewness": 0.8485,
+      "min": 0,
+      "max": 255
+    },
+    "green": {
+      "mean": 109.596,
+      "std_dev": 50.801,
+      "variance": 2580.7367,
+      "kurtosis": -0.3619,
+      "skewness": 0.5988,
+      "min": 0,
+      "max": 255
+    },
+    "blue": {
+      "mean": 75.794,
+      "std_dev": 53.6149,
+      "variance": 2874.5523,
+      "kurtosis": 1.5599,
+      "skewness": 1.4627,
+      "min": 0,
+      "max": 255
+    }
+  },
+  "covariance_matrix": {
+    "RR": 3300.6325,
+    "RG": 1794.1847,
+    "RB": 1303.31,
+    "GG": 2580.7432,
+    "GB": 1745.2565,
+    "BB": 2874.5596
+  },
+  "correlations": {
+    "R_G": 0.614747,
+    "R_B": 0.42312,
+    "G_B": 0.640769,
+    "average_absolute": 0.559545
+  },
+  "eigendecomposition": {
+    "PC1": {
+      "eigenvalue": 6155.8496,
+      "variance_explained_pct": 70.3,
+      "eigenvector": {
+        "R": -0.61,
+        "G": -0.5732,
+        "B": -0.5472
+      }
+    },
+    "PC2": {
+      "eigenvalue": 1784.8463,
+      "variance_explained_pct": 20.38,
+      "eigenvector": {
+        "R": -0.717,
+        "G": 0.1051,
+        "B": 0.6891
+      }
+    },
+    "PC3": {
+      "eigenvalue": 815.2394,
+      "variance_explained_pct": 9.31,
+      "eigenvector": {
+        "R": 0.3375,
+        "G": -0.8126,
+        "B": 0.4751
+      }
+    }
+  },
+  "derived_metrics": {
+    "condition_number": 7.55,
+    "eigenvalue_ratio_PC1_PC2": 3.45,
+    "eigenvalue_ratio_PC2_PC3": 2.19,
+    "dimensionality_tier": "Three-Dimensional",
+    "pc1_dominant_channel": "Red",
+    "pc1_dominant_loading": -0.61,
+    "blue_channel_independence_pct": 35.9,
+    "eigenvector_pattern": "Red dominant"
+  },
+  "spatial_autocorrelation": {
+    "red": {
+      "horizontal": 0.988969,
+      "vertical": 0.98464,
+      "average": 0.986804
+    },
+    "green": {
+      "horizontal": 0.986138,
+      "vertical": 0.980135,
+      "average": 0.983137
+    },
+    "blue": {
+      "horizontal": 0.986545,
+      "vertical": 0.984012,
+      "average": 0.985279
+    }
+  },
+  "average_local_variance_3x3": {
+    "red": 76.9947,
+    "green": 75.5735,
+    "blue": 75.0538
+  },
+  "residual_correlations_pca_space": {
+    "PC1_PC2": 0.0,
+    "PC1_PC3": 0.0,
+    "PC2_PC3": 0.0
+  },
+  "redundancy_profile": {
+    "classification": "Three-Dimensional  |  Condition Number: 7.55  |  PC1: 70.30%",
+    "correlation_structure": "G\u2013B pair leads at r = 0.640769  |  R\u2013G: 0.614747  |  R\u2013B: 0.423120",
+    "blue_channel": "35.9% independent  |  3D color; major blue variance",
+    "spatial_structure": "Avg autocorrelation: 0.985073  |  Avg local variance: 75.8740",
+    "eigenvector_pattern": "Red dominant  |  R (-0.6100) leads  |  G (-0.5732), B (-0.5472)"
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "metadata": {
+    "image_id": "kodim04",
+    "subject": "Portrait, Woman in Red Hat",
+    "suite": "Kodak Lossless True Color Image Suite (PCD0992)",
+    "resolution": "512x768",
+    "resolution_array": [
+      512,
+      768
+    ],
+    "pixel_count": 393216,
+    "bit_depth": 24,
+    "color_space": "sRGB",
+    "color_mode": "RGB",
+    "format": "PNG (lossless)",
+    "provenance": "Kodak PCD Film Scanner 2000, 35mm film, PhotoYCC decode to 8-bit RGB"
+  },
+  "channel_statistics": {
+    "red": {
+      "mean": 131.8947,
+      "std_dev": 34.388,
+      "variance": 1182.5358,
+      "kurtosis": 0.6795,
+      "skewness": 0.1836,
+      "min": 0,
+      "max": 255
+    },
+    "green": {
+      "mean": 84.1262,
+      "std_dev": 43.7589,
+      "variance": 1914.8435,
+      "kurtosis": -0.1743,
+      "skewness": 0.5638,
+      "min": 0,
+      "max": 255
+    },
+    "blue": {
+      "mean": 78.3804,
+      "std_dev": 45.3034,
+      "variance": 2052.4016,
+      "kurtosis": 0.3873,
+      "skewness": 0.8186,
+      "min": 0,
+      "max": 255
+    }
+  },
+  "covariance_matrix": {
+    "RR": 1182.5388,
+    "RG": 903.5425,
+    "RB": 1067.1069,
+    "GG": 1914.8484,
+    "GB": 1896.8578,
+    "BB": 2052.4069
+  },
+  "correlations": {
+    "R_G": 0.600446,
+    "R_B": 0.684965,
+    "G_B": 0.956832,
+    "average_absolute": 0.747414
+  },
+  "eigendecomposition": {
+    "PC1": {
+      "eigenvalue": 4473.6423,
+      "variance_explained_pct": 86.87,
+      "eigenvector": {
+        "R": -0.3905,
+        "G": -0.6332,
+        "B": -0.6682
+      }
+    },
+    "PC2": {
+      "eigenvalue": 604.2539,
+      "variance_explained_pct": 11.73,
+      "eigenvector": {
+        "R": -0.9085,
+        "G": 0.3824,
+        "B": 0.1685
+      }
+    },
+    "PC3": {
+      "eigenvalue": 71.8979,
+      "variance_explained_pct": 1.4,
+      "eigenvector": {
+        "R": -0.1488,
+        "G": -0.6729,
+        "B": 0.7246
+      }
+    }
+  },
+  "derived_metrics": {
+    "condition_number": 62.22,
+    "eigenvalue_ratio_PC1_PC2": 7.4,
+    "eigenvalue_ratio_PC2_PC3": 8.4,
+    "dimensionality_tier": "Weakly One-Dimensional",
+    "pc1_dominant_channel": "Blue",
+    "pc1_dominant_loading": -0.6682,
+    "blue_channel_independence_pct": 2.7,
+    "eigenvector_pattern": "Green-Blue coupled"
+  },
+  "spatial_autocorrelation": {
+    "red": {
+      "horizontal": 0.953348,
+      "vertical": 0.957096,
+      "average": 0.955222
+    },
+    "green": {
+      "horizontal": 0.971137,
+      "vertical": 0.974165,
+      "average": 0.972651
+    },
+    "blue": {
+      "horizontal": 0.97282,
+      "vertical": 0.975482,
+      "average": 0.974151
+    }
+  },
+  "average_local_variance_3x3": {
+    "red": 85.9222,
+    "green": 86.4162,
+    "blue": 87.7434
+  },
+  "residual_correlations_pca_space": {
+    "PC1_PC2": 0.0,
+    "PC1_PC3": 0.0,
+    "PC2_PC3": 0.0
+  },
+  "redundancy_profile": {
+    "classification": "Weakly One-Dimensional  |  Condition Number: 62.22  |  PC1: 86.87%",
+    "correlation_structure": "G\u2013B pair dominates at r = 0.956832  |  R\u2013B: 0.684965  |  R\u2013G: 0.600446",
+    "blue_channel": "2.7% independent  |  97.3% captured by PC1",
+    "spatial_structure": "Avg autocorrelation: 0.967341  |  Avg local variance: 86.6939",
+    "eigenvector_pattern": "Green-Blue coupled  |  G (-0.6332), B (-0.6682) co-load  |  R offset (-0.3905)"
+  }
+}

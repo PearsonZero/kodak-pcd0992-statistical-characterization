@@ -1,0 +1,134 @@
+{
+  "metadata": {
+    "image_id": "kodim14",
+    "subject": "Whitewater Rafting Group",
+    "suite": "Kodak Lossless True Color Image Suite (PCD0992)",
+    "resolution": "768x512",
+    "resolution_array": [
+      768,
+      512
+    ],
+    "pixel_count": 393216,
+    "bit_depth": 24,
+    "color_space": "sRGB",
+    "color_mode": "RGB",
+    "format": "PNG (lossless)",
+    "provenance": "Kodak PCD Film Scanner 2000, 35mm film, PhotoYCC decode to 8-bit RGB"
+  },
+  "channel_statistics": {
+    "red": {
+      "mean": 105.7633,
+      "std_dev": 54.3565,
+      "variance": 2954.6247,
+      "kurtosis": -0.4082,
+      "skewness": 0.5211,
+      "min": 0,
+      "max": 255
+    },
+    "green": {
+      "mean": 94.2856,
+      "std_dev": 50.9241,
+      "variance": 2593.2623,
+      "kurtosis": -0.7031,
+      "skewness": 0.3936,
+      "min": 0,
+      "max": 255
+    },
+    "blue": {
+      "mean": 68.6271,
+      "std_dev": 41.052,
+      "variance": 1685.269,
+      "kurtosis": -0.0027,
+      "skewness": 0.6833,
+      "min": 0,
+      "max": 255
+    }
+  },
+  "covariance_matrix": {
+    "RR": 2954.6322,
+    "RG": 2384.1802,
+    "RB": 1019.293,
+    "GG": 2593.2689,
+    "GB": 1485.8409,
+    "BB": 1685.2732
+  },
+  "correlations": {
+    "R_G": 0.861318,
+    "R_B": 0.456785,
+    "G_B": 0.710744,
+    "average_absolute": 0.676283
+  },
+  "eigendecomposition": {
+    "PC1": {
+      "eigenvalue": 5902.5075,
+      "variance_explained_pct": 81.6,
+      "eigenvector": {
+        "R": -0.6571,
+        "G": -0.647,
+        "B": -0.3868
+      }
+    },
+    "PC2": {
+      "eigenvalue": 1130.1467,
+      "variance_explained_pct": 15.62,
+      "eigenvector": {
+        "R": -0.5608,
+        "G": 0.0768,
+        "B": 0.8244
+      }
+    },
+    "PC3": {
+      "eigenvalue": 200.5202,
+      "variance_explained_pct": 2.77,
+      "eigenvector": {
+        "R": 0.5037,
+        "G": -0.7586,
+        "B": 0.4133
+      }
+    }
+  },
+  "derived_metrics": {
+    "condition_number": 29.44,
+    "eigenvalue_ratio_PC1_PC2": 5.22,
+    "eigenvalue_ratio_PC2_PC3": 5.64,
+    "dimensionality_tier": "Two-Dimensional",
+    "pc1_dominant_channel": "Red",
+    "pc1_dominant_loading": -0.6571,
+    "blue_channel_independence_pct": 47.6,
+    "eigenvector_pattern": "Red dominant"
+  },
+  "spatial_autocorrelation": {
+    "red": {
+      "horizontal": 0.96158,
+      "vertical": 0.942926,
+      "average": 0.952253
+    },
+    "green": {
+      "horizontal": 0.959062,
+      "vertical": 0.938324,
+      "average": 0.948693
+    },
+    "blue": {
+      "horizontal": 0.94584,
+      "vertical": 0.91484,
+      "average": 0.93034
+    }
+  },
+  "average_local_variance_3x3": {
+    "red": 228.0342,
+    "green": 209.8691,
+    "blue": 177.3103
+  },
+  "residual_correlations_pca_space": {
+    "PC1_PC2": 0.0,
+    "PC1_PC3": 0.0,
+    "PC2_PC3": 0.0
+  },
+  "redundancy_profile": {
+    "classification": "Two-Dimensional  |  Condition Number: 29.44  |  PC1: 81.60%",
+    "correlation_structure": "R\u2013G pair leads at r = 0.861318  |  G\u2013B: 0.710744  |  R\u2013B: 0.456785",
+    "blue_channel": "47.6% independent  |  3D color; major blue variance",
+    "spatial_structure": "Avg autocorrelation: 0.943762  |  Avg local variance: 205.0712",
+    "eigenvector_pattern": "Red dominant  |  R (-0.6571) leads  |  G (-0.6470), B (-0.3868)"
+  }
+}

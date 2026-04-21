@@ -1,0 +1,134 @@
+{
+  "metadata": {
+    "image_id": "kodim02",
+    "subject": "Red Door Latch and Bolt",
+    "suite": "Kodak Lossless True Color Image Suite (PCD0992)",
+    "resolution": "768x512",
+    "resolution_array": [
+      768,
+      512
+    ],
+    "pixel_count": 393216,
+    "bit_depth": 24,
+    "color_space": "sRGB",
+    "color_mode": "RGB",
+    "format": "PNG (lossless)",
+    "provenance": "Kodak PCD Film Scanner 2000, 35mm film, PhotoYCC decode to 8-bit RGB"
+  },
+  "channel_statistics": {
+    "red": {
+      "mean": 142.8563,
+      "std_dev": 27.8074,
+      "variance": 773.2493,
+      "kurtosis": 3.8056,
+      "skewness": -1.3758,
+      "min": 0,
+      "max": 255
+    },
+    "green": {
+      "mean": 56.364,
+      "std_dev": 21.6586,
+      "variance": 469.0935,
+      "kurtosis": 30.1578,
+      "skewness": 4.5648,
+      "min": 0,
+      "max": 255
+    },
+    "blue": {
+      "mean": 31.2092,
+      "std_dev": 20.9966,
+      "variance": 440.8553,
+      "kurtosis": 20.499,
+      "skewness": 3.8692,
+      "min": 0,
+      "max": 254
+    }
+  },
+  "covariance_matrix": {
+    "RR": 773.2513,
+    "RG": 317.9436,
+    "RB": 237.2061,
+    "GG": 469.0947,
+    "GB": 442.921,
+    "BB": 440.8564
+  },
+  "correlations": {
+    "R_G": 0.52791,
+    "R_B": 0.406272,
+    "G_B": 0.973974,
+    "average_absolute": 0.636052
+  },
+  "eigendecomposition": {
+    "PC1": {
+      "eigenvalue": 1234.9118,
+      "variance_explained_pct": 73.37,
+      "eigenvector": {
+        "R": -0.6501,
+        "G": -0.5642,
+        "B": -0.5089
+      }
+    },
+    "PC2": {
+      "eigenvalue": 440.825,
+      "variance_explained_pct": 26.19,
+      "eigenvector": {
+        "R": -0.755,
+        "G": 0.4043,
+        "B": 0.5162
+      }
+    },
+    "PC3": {
+      "eigenvalue": 7.4656,
+      "variance_explained_pct": 0.44,
+      "eigenvector": {
+        "R": 0.0855,
+        "G": -0.7198,
+        "B": 0.6889
+      }
+    }
+  },
+  "derived_metrics": {
+    "condition_number": 165.41,
+    "eigenvalue_ratio_PC1_PC2": 2.8,
+    "eigenvalue_ratio_PC2_PC3": 59.05,
+    "dimensionality_tier": "Three-Dimensional",
+    "pc1_dominant_channel": "Red",
+    "pc1_dominant_loading": -0.6501,
+    "blue_channel_independence_pct": 27.4,
+    "eigenvector_pattern": "Red dominant"
+  },
+  "spatial_autocorrelation": {
+    "red": {
+      "horizontal": 0.936186,
+      "vertical": 0.916138,
+      "average": 0.926162
+    },
+    "green": {
+      "horizontal": 0.913504,
+      "vertical": 0.8849,
+      "average": 0.899202
+    },
+    "blue": {
+      "horizontal": 0.907388,
+      "vertical": 0.874535,
+      "average": 0.890961
+    }
+  },
+  "average_local_variance_3x3": {
+    "red": 91.0137,
+    "green": 68.9827,
+    "blue": 69.9345
+  },
+  "residual_correlations_pca_space": {
+    "PC1_PC2": 0.0,
+    "PC1_PC3": 0.0,
+    "PC2_PC3": 0.0
+  },
+  "redundancy_profile": {
+    "classification": "Three-Dimensional  |  Condition Number: 165.41  |  PC1: 73.37%",
+    "correlation_structure": "G\u2013B pair dominates at r = 0.973974  |  R\u2013G: 0.527910  |  R\u2013B: 0.406272",
+    "blue_channel": "27.4% independent  |  Substantial independence from PC1",
+    "spatial_structure": "Avg autocorrelation: 0.905442  |  Avg local variance: 76.6436",
+    "eigenvector_pattern": "Red dominant  |  R (-0.6501) leads  |  G (-0.5642), B (-0.5089)"
+  }
+}

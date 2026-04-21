@@ -1,0 +1,134 @@
+{
+  "metadata": {
+    "image_id": "kodim20",
+    "subject": "P-51 Six-Shooter Aircraft",
+    "suite": "Kodak Lossless True Color Image Suite (PCD0992)",
+    "resolution": "768x512",
+    "resolution_array": [
+      768,
+      512
+    ],
+    "pixel_count": 393216,
+    "bit_depth": 24,
+    "color_space": "sRGB",
+    "color_mode": "RGB",
+    "format": "PNG (lossless)",
+    "provenance": "Kodak PCD Film Scanner 2000, 35mm film, PhotoYCC decode to 8-bit RGB"
+  },
+  "channel_statistics": {
+    "red": {
+      "mean": 180.5355,
+      "std_dev": 86.6838,
+      "variance": 7514.0811,
+      "kurtosis": -1.4473,
+      "skewness": -0.5175,
+      "min": 0,
+      "max": 255
+    },
+    "green": {
+      "mean": 176.2617,
+      "std_dev": 87.3215,
+      "variance": 7625.0418,
+      "kurtosis": -1.4833,
+      "skewness": -0.4703,
+      "min": 0,
+      "max": 255
+    },
+    "blue": {
+      "mean": 154.6573,
+      "std_dev": 90.9038,
+      "variance": 8263.5089,
+      "kurtosis": -1.6533,
+      "skewness": -0.3103,
+      "min": 0,
+      "max": 255
+    }
+  },
+  "covariance_matrix": {
+    "RR": 7514.1002,
+    "RG": 7535.4115,
+    "RB": 7551.8563,
+    "GG": 7625.0611,
+    "GB": 7750.8951,
+    "BB": 8263.53
+  },
+  "correlations": {
+    "R_G": 0.995513,
+    "R_B": 0.958368,
+    "G_B": 0.976444,
+    "average_absolute": 0.976775
+  },
+  "eigendecomposition": {
+    "PC1": {
+      "eigenvalue": 23033.4748,
+      "variance_explained_pct": 98.42,
+      "eigenvector": {
+        "R": -0.5664,
+        "G": -0.5743,
+        "B": -0.591
+      }
+    },
+    "PC2": {
+      "eigenvalue": 355.9724,
+      "variance_explained_pct": 1.52,
+      "eigenvector": {
+        "R": -0.5779,
+        "G": -0.2345,
+        "B": 0.7817
+      }
+    },
+    "PC3": {
+      "eigenvalue": 13.244,
+      "variance_explained_pct": 0.06,
+      "eigenvector": {
+        "R": -0.5875,
+        "G": 0.7843,
+        "B": -0.1991
+      }
+    }
+  },
+  "derived_metrics": {
+    "condition_number": 1739.16,
+    "eigenvalue_ratio_PC1_PC2": 64.71,
+    "eigenvalue_ratio_PC2_PC3": 26.88,
+    "dimensionality_tier": "Near-Degenerate",
+    "pc1_dominant_channel": "Blue",
+    "pc1_dominant_loading": -0.591,
+    "blue_channel_independence_pct": 2.6,
+    "eigenvector_pattern": "Balanced"
+  },
+  "spatial_autocorrelation": {
+    "red": {
+      "horizontal": 0.990422,
+      "vertical": 0.986693,
+      "average": 0.988557
+    },
+    "green": {
+      "horizontal": 0.990321,
+      "vertical": 0.986742,
+      "average": 0.988531
+    },
+    "blue": {
+      "horizontal": 0.991471,
+      "vertical": 0.988794,
+      "average": 0.990133
+    }
+  },
+  "average_local_variance_3x3": {
+    "red": 141.6667,
+    "green": 142.8929,
+    "blue": 129.5373
+  },
+  "residual_correlations_pca_space": {
+    "PC1_PC2": 0.0,
+    "PC1_PC3": 0.0,
+    "PC2_PC3": 0.0
+  },
+  "redundancy_profile": {
+    "classification": "Near-Degenerate  |  Condition Number: 1739.16  |  PC1: 98.42%",
+    "correlation_structure": "R\u2013G pair dominates at r = 0.995513  |  G\u2013B: 0.976444  |  R\u2013B: 0.958368",
+    "blue_channel": "2.6% independent  |  97.4% captured by PC1",
+    "spatial_structure": "Avg autocorrelation: 0.989074  |  Avg local variance: 138.0323",
+    "eigenvector_pattern": "Balanced  |  R (-0.5664), G (-0.5743), B (-0.5910) near-equal loading"
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "metadata": {
+    "image_id": "kodim24",
+    "subject": "Bavarian Painted House",
+    "suite": "Kodak Lossless True Color Image Suite (PCD0992)",
+    "resolution": "768x512",
+    "resolution_array": [
+      768,
+      512
+    ],
+    "pixel_count": 393216,
+    "bit_depth": 24,
+    "color_space": "sRGB",
+    "color_mode": "RGB",
+    "format": "PNG (lossless)",
+    "provenance": "Kodak PCD Film Scanner 2000, 35mm film, PhotoYCC decode to 8-bit RGB"
+  },
+  "channel_statistics": {
+    "red": {
+      "mean": 113.4662,
+      "std_dev": 53.345,
+      "variance": 2845.6931,
+      "kurtosis": 1.3742,
+      "skewness": 1.3082,
+      "min": 20,
+      "max": 255
+    },
+    "green": {
+      "mean": 109.5455,
+      "std_dev": 54.5518,
+      "variance": 2975.8954,
+      "kurtosis": 1.1848,
+      "skewness": 1.2183,
+      "min": 10,
+      "max": 255
+    },
+    "blue": {
+      "mean": 94.2684,
+      "std_dev": 53.1052,
+      "variance": 2820.1571,
+      "kurtosis": 2.3358,
+      "skewness": 1.5677,
+      "min": 0,
+      "max": 255
+    }
+  },
+  "covariance_matrix": {
+    "RR": 2845.7003,
+    "RG": 2840.4995,
+    "RB": 2659.7188,
+    "GG": 2975.9029,
+    "GB": 2795.3752,
+    "BB": 2820.1643
+  },
+  "correlations": {
+    "R_G": 0.976092,
+    "R_B": 0.938867,
+    "G_B": 0.964925,
+    "average_absolute": 0.959961
+  },
+  "eigendecomposition": {
+    "PC1": {
+      "eigenvalue": 8413.5006,
+      "variance_explained_pct": 97.36,
+      "eigenvector": {
+        "R": -0.5728,
+        "G": -0.5911,
+        "B": -0.5678
+      }
+    },
+    "PC2": {
+      "eigenvalue": 175.8511,
+      "variance_explained_pct": 2.03,
+      "eigenvector": {
+        "R": -0.6349,
+        "G": -0.1181,
+        "B": 0.7635
+      }
+    },
+    "PC3": {
+      "eigenvalue": 52.4158,
+      "variance_explained_pct": 0.61,
+      "eigenvector": {
+        "R": 0.5184,
+        "G": -0.7979,
+        "B": 0.3077
+      }
+    }
+  },
+  "derived_metrics": {
+    "condition_number": 160.51,
+    "eigenvalue_ratio_PC1_PC2": 47.84,
+    "eigenvalue_ratio_PC2_PC3": 3.35,
+    "dimensionality_tier": "Near-Degenerate",
+    "pc1_dominant_channel": "Green",
+    "pc1_dominant_loading": -0.5911,
+    "blue_channel_independence_pct": 3.8,
+    "eigenvector_pattern": "Balanced"
+  },
+  "spatial_autocorrelation": {
+    "red": {
+      "horizontal": 0.942699,
+      "vertical": 0.932641,
+      "average": 0.93767
+    },
+    "green": {
+      "horizontal": 0.936831,
+      "vertical": 0.926359,
+      "average": 0.931595
+    },
+    "blue": {
+      "horizontal": 0.925966,
+      "vertical": 0.914864,
+      "average": 0.920415
+    }
+  },
+  "average_local_variance_3x3": {
+    "red": 253.8905,
+    "green": 292.1783,
+    "blue": 312.6529
+  },
+  "residual_correlations_pca_space": {
+    "PC1_PC2": 0.0,
+    "PC1_PC3": 0.0,
+    "PC2_PC3": 0.0
+  },
+  "redundancy_profile": {
+    "classification": "Near-Degenerate  |  Condition Number: 160.51  |  PC1: 97.36%",
+    "correlation_structure": "R\u2013G pair dominates at r = 0.976092  |  G\u2013B: 0.964925  |  R\u2013B: 0.938867",
+    "blue_channel": "3.8% independent  |  96.2% captured by PC1",
+    "spatial_structure": "Avg autocorrelation: 0.929893  |  Avg local variance: 286.2406",
+    "eigenvector_pattern": "Balanced  |  R (-0.5728), G (-0.5911), B (-0.5678) near-equal loading"
+  }
+}

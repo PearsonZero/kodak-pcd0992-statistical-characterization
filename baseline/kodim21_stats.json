@@ -1,0 +1,134 @@
+{
+  "metadata": {
+    "image_id": "kodim21",
+    "subject": "Portland Head Lighthouse",
+    "suite": "Kodak Lossless True Color Image Suite (PCD0992)",
+    "resolution": "768x512",
+    "resolution_array": [
+      768,
+      512
+    ],
+    "pixel_count": 393216,
+    "bit_depth": 24,
+    "color_space": "sRGB",
+    "color_mode": "RGB",
+    "format": "PNG (lossless)",
+    "provenance": "Kodak PCD Film Scanner 2000, 35mm film, PhotoYCC decode to 8-bit RGB"
+  },
+  "channel_statistics": {
+    "red": {
+      "mean": 111.6135,
+      "std_dev": 41.6961,
+      "variance": 1738.5686,
+      "kurtosis": 1.8853,
+      "skewness": 0.8139,
+      "min": 0,
+      "max": 255
+    },
+    "green": {
+      "mean": 118.0137,
+      "std_dev": 44.594,
+      "variance": 1988.6265,
+      "kurtosis": 0.5278,
+      "skewness": 0.0245,
+      "min": 0,
+      "max": 255
+    },
+    "blue": {
+      "mean": 114.5361,
+      "std_dev": 47.97,
+      "variance": 2301.1177,
+      "kurtosis": -0.9321,
+      "skewness": -0.4663,
+      "min": 0,
+      "max": 255
+    }
+  },
+  "covariance_matrix": {
+    "RR": 1738.573,
+    "RG": 1665.4993,
+    "RB": 1330.2193,
+    "GG": 1988.6316,
+    "GB": 1958.391,
+    "BB": 2301.1235
+  },
+  "correlations": {
+    "R_G": 0.895717,
+    "R_B": 0.665054,
+    "G_B": 0.915487,
+    "average_absolute": 0.825419
+  },
+  "eigendecomposition": {
+    "PC1": {
+      "eigenvalue": 5346.8877,
+      "variance_explained_pct": 88.7,
+      "eigenvector": {
+        "R": -0.5061,
+        "G": -0.6078,
+        "B": -0.6119
+      }
+    },
+    "PC2": {
+      "eigenvalue": 663.5249,
+      "variance_explained_pct": 11.01,
+      "eigenvector": {
+        "R": -0.7421,
+        "G": -0.0545,
+        "B": 0.668
+      }
+    },
+    "PC3": {
+      "eigenvalue": 17.9155,
+      "variance_explained_pct": 0.3,
+      "eigenvector": {
+        "R": 0.4394,
+        "G": -0.7922,
+        "B": 0.4235
+      }
+    }
+  },
+  "derived_metrics": {
+    "condition_number": 298.45,
+    "eigenvalue_ratio_PC1_PC2": 8.06,
+    "eigenvalue_ratio_PC2_PC3": 37.04,
+    "dimensionality_tier": "Weakly One-Dimensional",
+    "pc1_dominant_channel": "Blue",
+    "pc1_dominant_loading": -0.6119,
+    "blue_channel_independence_pct": 13.0,
+    "eigenvector_pattern": "Green-Blue coupled"
+  },
+  "spatial_autocorrelation": {
+    "red": {
+      "horizontal": 0.94597,
+      "vertical": 0.89427,
+      "average": 0.92012
+    },
+    "green": {
+      "horizontal": 0.951766,
+      "vertical": 0.905705,
+      "average": 0.928736
+    },
+    "blue": {
+      "horizontal": 0.960706,
+      "vertical": 0.924619,
+      "average": 0.942662
+    }
+  },
+  "average_local_variance_3x3": {
+    "red": 216.4076,
+    "green": 220.4911,
+    "blue": 197.4763
+  },
+  "residual_correlations_pca_space": {
+    "PC1_PC2": 0.0,
+    "PC1_PC3": 0.0,
+    "PC2_PC3": 0.0
+  },
+  "redundancy_profile": {
+    "classification": "Weakly One-Dimensional  |  Condition Number: 298.45  |  PC1: 88.70%",
+    "correlation_structure": "G\u2013B pair leads at r = 0.915487  |  R\u2013G: 0.895717  |  R\u2013B: 0.665054",
+    "blue_channel": "13.0% independent  |  Moderate decoupling from PC1",
+    "spatial_structure": "Avg autocorrelation: 0.930506  |  Avg local variance: 211.4583",
+    "eigenvector_pattern": "Green-Blue coupled  |  G (-0.6078), B (-0.6119) co-load  |  R offset (-0.5061)"
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "metadata": {
+    "image_id": "kodim06",
+    "subject": "Boat Zentime in Harbor",
+    "suite": "Kodak Lossless True Color Image Suite (PCD0992)",
+    "resolution": "768x512",
+    "resolution_array": [
+      768,
+      512
+    ],
+    "pixel_count": 393216,
+    "bit_depth": 24,
+    "color_space": "sRGB",
+    "color_mode": "RGB",
+    "format": "PNG (lossless)",
+    "provenance": "Kodak PCD Film Scanner 2000, 35mm film, PhotoYCC decode to 8-bit RGB"
+  },
+  "channel_statistics": {
+    "red": {
+      "mean": 133.1676,
+      "std_dev": 65.6483,
+      "variance": 4309.6945,
+      "kurtosis": -0.954,
+      "skewness": 0.5242,
+      "min": 0,
+      "max": 255
+    },
+    "green": {
+      "mean": 139.3122,
+      "std_dev": 60.2086,
+      "variance": 3625.0755,
+      "kurtosis": -0.7381,
+      "skewness": 0.5106,
+      "min": 0,
+      "max": 255
+    },
+    "blue": {
+      "mean": 108.7812,
+      "std_dev": 48.5409,
+      "variance": 2356.2226,
+      "kurtosis": -0.553,
+      "skewness": 0.5034,
+      "min": 0,
+      "max": 255
+    }
+  },
+  "covariance_matrix": {
+    "RR": 4309.7055,
+    "RG": 3862.3529,
+    "RB": 3060.22,
+    "GG": 3625.0847,
+    "GB": 2896.459,
+    "BB": 2356.2285
+  },
+  "correlations": {
+    "R_G": 0.977168,
+    "R_B": 0.960329,
+    "G_B": 0.991059,
+    "average_absolute": 0.976185
+  },
+  "eigendecomposition": {
+    "PC1": {
+      "eigenvalue": 10128.6724,
+      "variance_explained_pct": 98.42,
+      "eigenvector": {
+        "R": -0.6462,
+        "G": -0.596,
+        "B": -0.4766
+      }
+    },
+    "PC2": {
+      "eigenvalue": 143.6789,
+      "variance_explained_pct": 1.4,
+      "eigenvector": {
+        "R": -0.7417,
+        "G": 0.3436,
+        "B": 0.576
+      }
+    },
+    "PC3": {
+      "eigenvalue": 18.6675,
+      "variance_explained_pct": 0.18,
+      "eigenvector": {
+        "R": 0.1796,
+        "G": -0.7257,
+        "B": 0.6642
+      }
+    }
+  },
+  "derived_metrics": {
+    "condition_number": 542.58,
+    "eigenvalue_ratio_PC1_PC2": 70.5,
+    "eigenvalue_ratio_PC2_PC3": 7.7,
+    "dimensionality_tier": "Near-Degenerate",
+    "pc1_dominant_channel": "Red",
+    "pc1_dominant_loading": -0.6462,
+    "blue_channel_independence_pct": 2.4,
+    "eigenvector_pattern": "Red dominant"
+  },
+  "spatial_autocorrelation": {
+    "red": {
+      "horizontal": 0.979433,
+      "vertical": 0.946378,
+      "average": 0.962905
+    },
+    "green": {
+      "horizontal": 0.974956,
+      "vertical": 0.937302,
+      "average": 0.956129
+    },
+    "blue": {
+      "horizontal": 0.963681,
+      "vertical": 0.911326,
+      "average": 0.937503
+    }
+  },
+  "average_local_variance_3x3": {
+    "red": 244.0803,
+    "green": 241.0629,
+    "blue": 213.1997
+  },
+  "residual_correlations_pca_space": {
+    "PC1_PC2": 0.0,
+    "PC1_PC3": 0.0,
+    "PC2_PC3": 0.0
+  },
+  "redundancy_profile": {
+    "classification": "Near-Degenerate  |  Condition Number: 542.58  |  PC1: 98.42%",
+    "correlation_structure": "G\u2013B pair dominates at r = 0.991059  |  R\u2013G: 0.977168  |  R\u2013B: 0.960329",
+    "blue_channel": "2.4% independent  |  97.6% captured by PC1",
+    "spatial_structure": "Avg autocorrelation: 0.952179  |  Avg local variance: 232.7810",
+    "eigenvector_pattern": "Red dominant  |  R (-0.6462) leads  |  G (-0.5960), B (-0.4766)"
+  }
+}

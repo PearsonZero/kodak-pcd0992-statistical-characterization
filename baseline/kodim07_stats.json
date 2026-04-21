@@ -1,0 +1,134 @@
+{
+  "metadata": {
+    "image_id": "kodim07",
+    "subject": "Hibiscus and Shuttered Window",
+    "suite": "Kodak Lossless True Color Image Suite (PCD0992)",
+    "resolution": "768x512",
+    "resolution_array": [
+      768,
+      512
+    ],
+    "pixel_count": 393216,
+    "bit_depth": 24,
+    "color_space": "sRGB",
+    "color_mode": "RGB",
+    "format": "PNG (lossless)",
+    "provenance": "Kodak PCD Film Scanner 2000, 35mm film, PhotoYCC decode to 8-bit RGB"
+  },
+  "channel_statistics": {
+    "red": {
+      "mean": 117.559,
+      "std_dev": 41.0769,
+      "variance": 1687.3098,
+      "kurtosis": -0.1489,
+      "skewness": -0.0814,
+      "min": 0,
+      "max": 255
+    },
+    "green": {
+      "mean": 110.7168,
+      "std_dev": 37.6093,
+      "variance": 1414.4593,
+      "kurtosis": -0.2555,
+      "skewness": -0.3645,
+      "min": 0,
+      "max": 255
+    },
+    "blue": {
+      "mean": 85.3725,
+      "std_dev": 39.2547,
+      "variance": 1540.9309,
+      "kurtosis": -0.7214,
+      "skewness": -0.5796,
+      "min": 0,
+      "max": 255
+    }
+  },
+  "covariance_matrix": {
+    "RR": 1687.3141,
+    "RG": 1286.8483,
+    "RB": 1231.0152,
+    "GG": 1414.4629,
+    "GB": 1341.0937,
+    "BB": 1540.9348
+  },
+  "correlations": {
+    "R_G": 0.832978,
+    "R_B": 0.763437,
+    "G_B": 0.908388,
+    "average_absolute": 0.834934
+  },
+  "eigendecomposition": {
+    "PC1": {
+      "eigenvalue": 4121.3682,
+      "variance_explained_pct": 88.77,
+      "eigenvector": {
+        "R": -0.5903,
+        "G": -0.5658,
+        "B": -0.5757
+      }
+    },
+    "PC2": {
+      "eigenvalue": 402.8998,
+      "variance_explained_pct": 8.68,
+      "eigenvector": {
+        "R": -0.7823,
+        "G": 0.2253,
+        "B": 0.5807
+      }
+    },
+    "PC3": {
+      "eigenvalue": 118.4439,
+      "variance_explained_pct": 2.55,
+      "eigenvector": {
+        "R": 0.1989,
+        "G": -0.7931,
+        "B": 0.5756
+      }
+    }
+  },
+  "derived_metrics": {
+    "condition_number": 34.8,
+    "eigenvalue_ratio_PC1_PC2": 10.23,
+    "eigenvalue_ratio_PC2_PC3": 3.4,
+    "dimensionality_tier": "Weakly One-Dimensional",
+    "pc1_dominant_channel": "Red",
+    "pc1_dominant_loading": -0.5903,
+    "blue_channel_independence_pct": 11.4,
+    "eigenvector_pattern": "Balanced"
+  },
+  "spatial_autocorrelation": {
+    "red": {
+      "horizontal": 0.968958,
+      "vertical": 0.953892,
+      "average": 0.961425
+    },
+    "green": {
+      "horizontal": 0.963485,
+      "vertical": 0.940606,
+      "average": 0.952046
+    },
+    "blue": {
+      "horizontal": 0.966136,
+      "vertical": 0.947753,
+      "average": 0.956945
+    }
+  },
+  "average_local_variance_3x3": {
+    "red": 117.9877,
+    "green": 124.3319,
+    "blue": 120.8266
+  },
+  "residual_correlations_pca_space": {
+    "PC1_PC2": 0.0,
+    "PC1_PC3": 0.0,
+    "PC2_PC3": 0.0
+  },
+  "redundancy_profile": {
+    "classification": "Weakly One-Dimensional  |  Condition Number: 34.80  |  PC1: 88.77%",
+    "correlation_structure": "G\u2013B pair leads at r = 0.908388  |  R\u2013G: 0.832978  |  R\u2013B: 0.763437",
+    "blue_channel": "11.4% independent  |  Moderate decoupling from PC1",
+    "spatial_structure": "Avg autocorrelation: 0.956805  |  Avg local variance: 121.0487",
+    "eigenvector_pattern": "Balanced  |  R (-0.5903), G (-0.5658), B (-0.5757) near-equal loading"
+  }
+}

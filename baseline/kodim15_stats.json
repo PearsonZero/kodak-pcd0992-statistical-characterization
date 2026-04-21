@@ -1,0 +1,134 @@
+{
+  "metadata": {
+    "image_id": "kodim15",
+    "subject": "Face Paint Girl Portrait",
+    "suite": "Kodak Lossless True Color Image Suite (PCD0992)",
+    "resolution": "768x512",
+    "resolution_array": [
+      768,
+      512
+    ],
+    "pixel_count": 393216,
+    "bit_depth": 24,
+    "color_space": "sRGB",
+    "color_mode": "RGB",
+    "format": "PNG (lossless)",
+    "provenance": "Kodak PCD Film Scanner 2000, 35mm film, PhotoYCC decode to 8-bit RGB"
+  },
+  "channel_statistics": {
+    "red": {
+      "mean": 119.2734,
+      "std_dev": 71.0346,
+      "variance": 5045.9174,
+      "kurtosis": -1.2877,
+      "skewness": 0.2573,
+      "min": 0,
+      "max": 255
+    },
+    "green": {
+      "mean": 105.772,
+      "std_dev": 91.8071,
+      "variance": 8428.5387,
+      "kurtosis": -1.2306,
+      "skewness": 0.6876,
+      "min": 0,
+      "max": 255
+    },
+    "blue": {
+      "mean": 95.8575,
+      "std_dev": 82.3449,
+      "variance": 6780.6804,
+      "kurtosis": -1.1482,
+      "skewness": 0.766,
+      "min": 0,
+      "max": 255
+    }
+  },
+  "covariance_matrix": {
+    "RR": 5045.9302,
+    "RG": 5609.7318,
+    "RB": 5008.4767,
+    "GG": 8428.5601,
+    "GB": 7469.0397,
+    "BB": 6780.6977
+  },
+  "correlations": {
+    "R_G": 0.860191,
+    "R_B": 0.856245,
+    "G_B": 0.987986,
+    "average_absolute": 0.901474
+  },
+  "eigendecomposition": {
+    "PC1": {
+      "eigenvalue": 19133.4408,
+      "variance_explained_pct": 94.46,
+      "eigenvector": {
+        "R": -0.4709,
+        "G": -0.6573,
+        "B": -0.5884
+      }
+    },
+    "PC2": {
+      "eigenvalue": 1031.5917,
+      "variance_explained_pct": 5.09,
+      "eigenvector": {
+        "R": -0.8821,
+        "G": 0.3431,
+        "B": 0.3227
+      }
+    },
+    "PC3": {
+      "eigenvalue": 90.1555,
+      "variance_explained_pct": 0.45,
+      "eigenvector": {
+        "R": 0.0103,
+        "G": -0.671,
+        "B": 0.7414
+      }
+    }
+  },
+  "derived_metrics": {
+    "condition_number": 212.23,
+    "eigenvalue_ratio_PC1_PC2": 18.55,
+    "eigenvalue_ratio_PC2_PC3": 11.44,
+    "dimensionality_tier": "Strongly One-Dimensional",
+    "pc1_dominant_channel": "Green",
+    "pc1_dominant_loading": -0.6573,
+    "blue_channel_independence_pct": 2.3,
+    "eigenvector_pattern": "Green-Blue coupled"
+  },
+  "spatial_autocorrelation": {
+    "red": {
+      "horizontal": 0.981212,
+      "vertical": 0.988164,
+      "average": 0.984688
+    },
+    "green": {
+      "horizontal": 0.988726,
+      "vertical": 0.992572,
+      "average": 0.990649
+    },
+    "blue": {
+      "horizontal": 0.986591,
+      "vertical": 0.991229,
+      "average": 0.98891
+    }
+  },
+  "average_local_variance_3x3": {
+    "red": 124.1846,
+    "green": 130.6691,
+    "blue": 120.906
+  },
+  "residual_correlations_pca_space": {
+    "PC1_PC2": 0.0,
+    "PC1_PC3": 0.0,
+    "PC2_PC3": 0.0
+  },
+  "redundancy_profile": {
+    "classification": "Strongly One-Dimensional  |  Condition Number: 212.23  |  PC1: 94.46%",
+    "correlation_structure": "G\u2013B pair dominates at r = 0.987986  |  R\u2013G: 0.860191  |  R\u2013B: 0.856245",
+    "blue_channel": "2.3% independent  |  97.7% captured by PC1",
+    "spatial_structure": "Avg autocorrelation: 0.988082  |  Avg local variance: 125.2532",
+    "eigenvector_pattern": "Green-Blue coupled  |  G (-0.6573), B (-0.5884) co-load  |  R offset (-0.4709)"
+  }
+}

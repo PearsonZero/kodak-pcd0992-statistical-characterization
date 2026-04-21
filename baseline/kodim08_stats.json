@@ -1,0 +1,134 @@
+{
+  "metadata": {
+    "image_id": "kodim08",
+    "subject": "Seifenfabrikation Street Buildings",
+    "suite": "Kodak Lossless True Color Image Suite (PCD0992)",
+    "resolution": "768x512",
+    "resolution_array": [
+      768,
+      512
+    ],
+    "pixel_count": 393216,
+    "bit_depth": 24,
+    "color_space": "sRGB",
+    "color_mode": "RGB",
+    "format": "PNG (lossless)",
+    "provenance": "Kodak PCD Film Scanner 2000, 35mm film, PhotoYCC decode to 8-bit RGB"
+  },
+  "channel_statistics": {
+    "red": {
+      "mean": 127.9621,
+      "std_dev": 63.7385,
+      "variance": 4062.5961,
+      "kurtosis": -0.7074,
+      "skewness": 0.5369,
+      "min": 0,
+      "max": 255
+    },
+    "green": {
+      "mean": 121.0786,
+      "std_dev": 65.2947,
+      "variance": 4263.4034,
+      "kurtosis": -0.7235,
+      "skewness": 0.5882,
+      "min": 0,
+      "max": 255
+    },
+    "blue": {
+      "mean": 115.9959,
+      "std_dev": 57.3863,
+      "variance": 3293.1915,
+      "kurtosis": -0.2341,
+      "skewness": 0.6954,
+      "min": 0,
+      "max": 255
+    }
+  },
+  "covariance_matrix": {
+    "RR": 4062.6065,
+    "RG": 4022.2107,
+    "RB": 3351.2393,
+    "GG": 4263.4142,
+    "GB": 3651.9205,
+    "BB": 3293.1999
+  },
+  "correlations": {
+    "R_G": 0.96646,
+    "R_B": 0.916208,
+    "G_B": 0.974616,
+    "average_absolute": 0.952428
+  },
+  "eigendecomposition": {
+    "PC1": {
+      "eigenvalue": 11265.8584,
+      "variance_explained_pct": 96.96,
+      "eigenvector": {
+        "R": -0.5879,
+        "G": -0.613,
+        "B": -0.5279
+      }
+    },
+    "PC2": {
+      "eigenvalue": 310.1984,
+      "variance_explained_pct": 2.67,
+      "eigenvector": {
+        "R": -0.7265,
+        "G": 0.113,
+        "B": 0.6778
+      }
+    },
+    "PC3": {
+      "eigenvalue": 43.1638,
+      "variance_explained_pct": 0.37,
+      "eigenvector": {
+        "R": 0.3558,
+        "G": -0.782,
+        "B": 0.5118
+      }
+    }
+  },
+  "derived_metrics": {
+    "condition_number": 261.0,
+    "eigenvalue_ratio_PC1_PC2": 36.32,
+    "eigenvalue_ratio_PC2_PC3": 7.19,
+    "dimensionality_tier": "Strongly One-Dimensional",
+    "pc1_dominant_channel": "Green",
+    "pc1_dominant_loading": -0.613,
+    "blue_channel_independence_pct": 4.7,
+    "eigenvector_pattern": "Green dominant"
+  },
+  "spatial_autocorrelation": {
+    "red": {
+      "horizontal": 0.886158,
+      "vertical": 0.920963,
+      "average": 0.903561
+    },
+    "green": {
+      "horizontal": 0.888479,
+      "vertical": 0.923422,
+      "average": 0.905951
+    },
+    "blue": {
+      "horizontal": 0.862235,
+      "vertical": 0.906698,
+      "average": 0.884466
+    }
+  },
+  "average_local_variance_3x3": {
+    "red": 635.3855,
+    "green": 656.8125,
+    "blue": 605.4027
+  },
+  "residual_correlations_pca_space": {
+    "PC1_PC2": 0.0,
+    "PC1_PC3": 0.0,
+    "PC2_PC3": 0.0
+  },
+  "redundancy_profile": {
+    "classification": "Strongly One-Dimensional  |  Condition Number: 261.00  |  PC1: 96.96%",
+    "correlation_structure": "G\u2013B pair dominates at r = 0.974616  |  R\u2013G: 0.966460  |  R\u2013B: 0.916208",
+    "blue_channel": "4.7% independent  |  95.3% captured by PC1",
+    "spatial_structure": "Avg autocorrelation: 0.897993  |  Avg local variance: 632.5336",
+    "eigenvector_pattern": "Green dominant  |  G (-0.6130) leads  |  R (-0.5879), B (-0.5279)"
+  }
+}

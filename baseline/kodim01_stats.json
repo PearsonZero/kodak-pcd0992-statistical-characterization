@@ -1,0 +1,134 @@
+{
+  "metadata": {
+    "image_id": "kodim01",
+    "subject": "Brick Building with Red Shutters and Door",
+    "suite": "Kodak Lossless True Color Image Suite (PCD0992)",
+    "resolution": "768x512",
+    "resolution_array": [
+      768,
+      512
+    ],
+    "pixel_count": 393216,
+    "bit_depth": 24,
+    "color_space": "sRGB",
+    "color_mode": "RGB",
+    "format": "PNG (lossless)",
+    "provenance": "Kodak PCD Film Scanner 2000, 35mm film, PhotoYCC decode to 8-bit RGB"
+  },
+  "channel_statistics": {
+    "red": {
+      "mean": 119.7613,
+      "std_dev": 34.5326,
+      "variance": 1192.5027,
+      "kurtosis": 0.1725,
+      "skewness": -0.3106,
+      "min": 0,
+      "max": 255
+    },
+    "green": {
+      "mean": 108.7463,
+      "std_dev": 44.7298,
+      "variance": 2000.7507,
+      "kurtosis": -0.9301,
+      "skewness": -0.1048,
+      "min": 0,
+      "max": 255
+    },
+    "blue": {
+      "mean": 88.3865,
+      "std_dev": 40.1137,
+      "variance": 1609.1105,
+      "kurtosis": -0.5851,
+      "skewness": -0.137,
+      "min": 0,
+      "max": 255
+    }
+  },
+  "covariance_matrix": {
+    "RR": 1192.5057,
+    "RG": 1332.5684,
+    "RB": 1163.6043,
+    "GG": 2000.7558,
+    "GB": 1778.7776,
+    "BB": 1609.1146
+  },
+  "correlations": {
+    "R_G": 0.862705,
+    "R_B": 0.840004,
+    "G_B": 0.991359,
+    "average_absolute": 0.898023
+  },
+  "eigendecomposition": {
+    "PC1": {
+      "eigenvalue": 4531.6251,
+      "variance_explained_pct": 94.36,
+      "eigenvector": {
+        "R": -0.4681,
+        "G": -0.6597,
+        "B": -0.5879
+      }
+    },
+    "PC2": {
+      "eigenvalue": 257.0119,
+      "variance_explained_pct": 5.35,
+      "eigenvector": {
+        "R": -0.8806,
+        "G": 0.2927,
+        "B": 0.3727
+      }
+    },
+    "PC3": {
+      "eigenvalue": 13.7391,
+      "variance_explained_pct": 0.29,
+      "eigenvector": {
+        "R": 0.0738,
+        "G": -0.6922,
+        "B": 0.7179
+      }
+    }
+  },
+  "derived_metrics": {
+    "condition_number": 329.83,
+    "eigenvalue_ratio_PC1_PC2": 17.63,
+    "eigenvalue_ratio_PC2_PC3": 18.71,
+    "dimensionality_tier": "Strongly One-Dimensional",
+    "pc1_dominant_channel": "Green",
+    "pc1_dominant_loading": -0.6597,
+    "blue_channel_independence_pct": 2.7,
+    "eigenvector_pattern": "Green-Blue coupled"
+  },
+  "spatial_autocorrelation": {
+    "red": {
+      "horizontal": 0.855063,
+      "vertical": 0.785762,
+      "average": 0.820413
+    },
+    "green": {
+      "horizontal": 0.904122,
+      "vertical": 0.864049,
+      "average": 0.884085
+    },
+    "blue": {
+      "horizontal": 0.886151,
+      "vertical": 0.843665,
+      "average": 0.864908
+    }
+  },
+  "average_local_variance_3x3": {
+    "red": 326.7876,
+    "green": 367.5441,
+    "blue": 335.7166
+  },
+  "residual_correlations_pca_space": {
+    "PC1_PC2": 0.0,
+    "PC1_PC3": 0.0,
+    "PC2_PC3": 0.0
+  },
+  "redundancy_profile": {
+    "classification": "Strongly One-Dimensional  |  Condition Number: 329.83  |  PC1: 94.36%",
+    "correlation_structure": "G\u2013B pair dominates at r = 0.991359  |  R\u2013G: 0.862705  |  R\u2013B: 0.840004",
+    "blue_channel": "2.7% independent  |  97.3% captured by PC1",
+    "spatial_structure": "Avg autocorrelation: 0.856469  |  Avg local variance: 343.3494",
+    "eigenvector_pattern": "Green-Blue coupled  |  G (-0.6597), B (-0.5879) co-load  |  R offset (-0.4681)"
+  }
+}

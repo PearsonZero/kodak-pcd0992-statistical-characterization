@@ -1,0 +1,134 @@
+{
+  "metadata": {
+    "image_id": "kodim17",
+    "subject": "Living Statue Street Performer",
+    "suite": "Kodak Lossless True Color Image Suite (PCD0992)",
+    "resolution": "512x768",
+    "resolution_array": [
+      512,
+      768
+    ],
+    "pixel_count": 393216,
+    "bit_depth": 24,
+    "color_space": "sRGB",
+    "color_mode": "RGB",
+    "format": "PNG (lossless)",
+    "provenance": "Kodak PCD Film Scanner 2000, 35mm film, PhotoYCC decode to 8-bit RGB"
+  },
+  "channel_statistics": {
+    "red": {
+      "mean": 82.6843,
+      "std_dev": 46.9409,
+      "variance": 2203.4435,
+      "kurtosis": -0.4375,
+      "skewness": 0.3475,
+      "min": 1,
+      "max": 255
+    },
+    "green": {
+      "mean": 77.0529,
+      "std_dev": 50.1148,
+      "variance": 2511.4934,
+      "kurtosis": -0.6389,
+      "skewness": 0.434,
+      "min": 0,
+      "max": 255
+    },
+    "blue": {
+      "mean": 69.02,
+      "std_dev": 47.927,
+      "variance": 2296.9984,
+      "kurtosis": -0.675,
+      "skewness": 0.4952,
+      "min": 0,
+      "max": 255
+    }
+  },
+  "covariance_matrix": {
+    "RR": 2203.4491,
+    "RG": 2317.6074,
+    "RB": 2099.9185,
+    "GG": 2511.4998,
+    "GB": 2348.4144,
+    "BB": 2297.0042
+  },
+  "correlations": {
+    "R_G": 0.985194,
+    "R_B": 0.933405,
+    "G_B": 0.977749,
+    "average_absolute": 0.965449
+  },
+  "eigendecomposition": {
+    "PC1": {
+      "eigenvalue": 6856.2614,
+      "variance_explained_pct": 97.78,
+      "eigenvector": {
+        "R": -0.5578,
+        "G": -0.6048,
+        "B": -0.5684
+      }
+    },
+    "PC2": {
+      "eigenvalue": 150.7549,
+      "variance_explained_pct": 2.15,
+      "eigenvector": {
+        "R": -0.6771,
+        "G": -0.0645,
+        "B": 0.733
+      }
+    },
+    "PC3": {
+      "eigenvalue": 4.9369,
+      "variance_explained_pct": 0.07,
+      "eigenvector": {
+        "R": 0.48,
+        "G": -0.7938,
+        "B": 0.3735
+      }
+    }
+  },
+  "derived_metrics": {
+    "condition_number": 1388.78,
+    "eigenvalue_ratio_PC1_PC2": 45.48,
+    "eigenvalue_ratio_PC2_PC3": 30.54,
+    "dimensionality_tier": "Near-Degenerate",
+    "pc1_dominant_channel": "Green",
+    "pc1_dominant_loading": -0.6048,
+    "blue_channel_independence_pct": 3.6,
+    "eigenvector_pattern": "Green dominant"
+  },
+  "spatial_autocorrelation": {
+    "red": {
+      "horizontal": 0.972133,
+      "vertical": 0.969784,
+      "average": 0.970959
+    },
+    "green": {
+      "horizontal": 0.972996,
+      "vertical": 0.970793,
+      "average": 0.971894
+    },
+    "blue": {
+      "horizontal": 0.971203,
+      "vertical": 0.969172,
+      "average": 0.970187
+    }
+  },
+  "average_local_variance_3x3": {
+    "red": 99.4767,
+    "green": 111.5929,
+    "blue": 105.5583
+  },
+  "residual_correlations_pca_space": {
+    "PC1_PC2": 0.0,
+    "PC1_PC3": 0.0,
+    "PC2_PC3": 0.0
+  },
+  "redundancy_profile": {
+    "classification": "Near-Degenerate  |  Condition Number: 1388.78  |  PC1: 97.78%",
+    "correlation_structure": "R\u2013G pair dominates at r = 0.985194  |  G\u2013B: 0.977749  |  R\u2013B: 0.933405",
+    "blue_channel": "3.6% independent  |  96.4% captured by PC1",
+    "spatial_structure": "Avg autocorrelation: 0.971013  |  Avg local variance: 105.5426",
+    "eigenvector_pattern": "Green dominant  |  G (-0.6048) leads  |  R (-0.5578), B (-0.5684)"
+  }
+}

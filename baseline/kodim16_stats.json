@@ -1,0 +1,134 @@
+{
+  "metadata": {
+    "image_id": "kodim16",
+    "subject": "Island Panorama Aerial",
+    "suite": "Kodak Lossless True Color Image Suite (PCD0992)",
+    "resolution": "768x512",
+    "resolution_array": [
+      768,
+      512
+    ],
+    "pixel_count": 393216,
+    "bit_depth": 24,
+    "color_space": "sRGB",
+    "color_mode": "RGB",
+    "format": "PNG (lossless)",
+    "provenance": "Kodak PCD Film Scanner 2000, 35mm film, PhotoYCC decode to 8-bit RGB"
+  },
+  "channel_statistics": {
+    "red": {
+      "mean": 102.8127,
+      "std_dev": 43.8151,
+      "variance": 1919.767,
+      "kurtosis": 1.1627,
+      "skewness": 0.9143,
+      "min": 0,
+      "max": 255
+    },
+    "green": {
+      "mean": 106.6684,
+      "std_dev": 44.019,
+      "variance": 1937.6721,
+      "kurtosis": 0.6672,
+      "skewness": 0.6923,
+      "min": 0,
+      "max": 255
+    },
+    "blue": {
+      "mean": 95.16,
+      "std_dev": 39.7373,
+      "variance": 1579.0502,
+      "kurtosis": -0.7313,
+      "skewness": -0.0325,
+      "min": 0,
+      "max": 249
+    }
+  },
+  "covariance_matrix": {
+    "RR": 1919.7718,
+    "RG": 1898.2915,
+    "RB": 1553.634,
+    "GG": 1937.6771,
+    "GB": 1663.6101,
+    "BB": 1579.0542
+  },
+  "correlations": {
+    "R_G": 0.984232,
+    "R_B": 0.89233,
+    "G_B": 0.95107,
+    "average_absolute": 0.942544
+  },
+  "eigendecomposition": {
+    "PC1": {
+      "eigenvalue": 5240.9414,
+      "variance_explained_pct": 96.4,
+      "eigenvector": {
+        "R": -0.5939,
+        "G": -0.6071,
+        "B": -0.5278
+      }
+    },
+    "PC2": {
+      "eigenvalue": 189.2029,
+      "variance_explained_pct": 3.48,
+      "eigenvector": {
+        "R": -0.6045,
+        "G": -0.0962,
+        "B": 0.7908
+      }
+    },
+    "PC3": {
+      "eigenvalue": 6.3588,
+      "variance_explained_pct": 0.12,
+      "eigenvector": {
+        "R": 0.5309,
+        "G": -0.7887,
+        "B": 0.3099
+      }
+    }
+  },
+  "derived_metrics": {
+    "condition_number": 824.2,
+    "eigenvalue_ratio_PC1_PC2": 27.7,
+    "eigenvalue_ratio_PC2_PC3": 29.75,
+    "dimensionality_tier": "Strongly One-Dimensional",
+    "pc1_dominant_channel": "Green",
+    "pc1_dominant_loading": -0.6071,
+    "blue_channel_independence_pct": 7.5,
+    "eigenvector_pattern": "Green dominant"
+  },
+  "spatial_autocorrelation": {
+    "red": {
+      "horizontal": 0.9837,
+      "vertical": 0.943618,
+      "average": 0.963659
+    },
+    "green": {
+      "horizontal": 0.983997,
+      "vertical": 0.945143,
+      "average": 0.96457
+    },
+    "blue": {
+      "horizontal": 0.981362,
+      "vertical": 0.935445,
+      "average": 0.958404
+    }
+  },
+  "average_local_variance_3x3": {
+    "red": 103.5563,
+    "green": 101.1993,
+    "blue": 94.582
+  },
+  "residual_correlations_pca_space": {
+    "PC1_PC2": 0.0,
+    "PC1_PC3": 0.0,
+    "PC2_PC3": 0.0
+  },
+  "redundancy_profile": {
+    "classification": "Strongly One-Dimensional  |  Condition Number: 824.20  |  PC1: 96.40%",
+    "correlation_structure": "R\u2013G pair dominates at r = 0.984232  |  G\u2013B: 0.951070  |  R\u2013B: 0.892330",
+    "blue_channel": "7.5% independent  |  Moderate decoupling from PC1",
+    "spatial_structure": "Avg autocorrelation: 0.962211  |  Avg local variance: 99.7792",
+    "eigenvector_pattern": "Green dominant  |  G (-0.6071) leads  |  R (-0.5939), B (-0.5278)"
+  }
+}

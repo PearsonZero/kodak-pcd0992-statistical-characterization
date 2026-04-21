@@ -1,0 +1,134 @@
+{
+  "metadata": {
+    "image_id": "kodim05",
+    "subject": "Motocross Starting Lineup",
+    "suite": "Kodak Lossless True Color Image Suite (PCD0992)",
+    "resolution": "768x512",
+    "resolution_array": [
+      768,
+      512
+    ],
+    "pixel_count": 393216,
+    "bit_depth": 24,
+    "color_space": "sRGB",
+    "color_mode": "RGB",
+    "format": "PNG (lossless)",
+    "provenance": "Kodak PCD Film Scanner 2000, 35mm film, PhotoYCC decode to 8-bit RGB"
+  },
+  "channel_statistics": {
+    "red": {
+      "mean": 91.5034,
+      "std_dev": 49.0693,
+      "variance": 2407.8009,
+      "kurtosis": 0.9401,
+      "skewness": 0.9473,
+      "min": 0,
+      "max": 255
+    },
+    "green": {
+      "mean": 81.0216,
+      "std_dev": 51.4019,
+      "variance": 2642.1585,
+      "kurtosis": 1.2491,
+      "skewness": 1.0591,
+      "min": 0,
+      "max": 255
+    },
+    "blue": {
+      "mean": 67.516,
+      "std_dev": 44.7156,
+      "variance": 1999.4804,
+      "kurtosis": 0.9117,
+      "skewness": 1.0294,
+      "min": 0,
+      "max": 255
+    }
+  },
+  "covariance_matrix": {
+    "RR": 2407.8071,
+    "RG": 2265.3215,
+    "RB": 1802.5027,
+    "GG": 2642.1652,
+    "GB": 2076.4827,
+    "BB": 1999.4855
+  },
+  "correlations": {
+    "R_G": 0.89813,
+    "R_B": 0.821497,
+    "G_B": 0.903419,
+    "average_absolute": 0.874349
+  },
+  "eigendecomposition": {
+    "PC1": {
+      "eigenvalue": 6478.8129,
+      "variance_explained_pct": 91.91,
+      "eigenvector": {
+        "R": -0.5794,
+        "G": -0.6251,
+        "B": -0.523
+      }
+    },
+    "PC2": {
+      "eigenvalue": 394.0318,
+      "variance_explained_pct": 5.59,
+      "eigenvector": {
+        "R": -0.7287,
+        "G": 0.11,
+        "B": 0.6759
+      }
+    },
+    "PC3": {
+      "eigenvalue": 176.613,
+      "variance_explained_pct": 2.51,
+      "eigenvector": {
+        "R": 0.3651,
+        "G": -0.7727,
+        "B": 0.5193
+      }
+    }
+  },
+  "derived_metrics": {
+    "condition_number": 36.68,
+    "eigenvalue_ratio_PC1_PC2": 16.44,
+    "eigenvalue_ratio_PC2_PC3": 2.23,
+    "dimensionality_tier": "Weakly One-Dimensional",
+    "pc1_dominant_channel": "Green",
+    "pc1_dominant_loading": -0.6251,
+    "blue_channel_independence_pct": 11.4,
+    "eigenvector_pattern": "Green dominant"
+  },
+  "spatial_autocorrelation": {
+    "red": {
+      "horizontal": 0.904243,
+      "vertical": 0.892715,
+      "average": 0.898479
+    },
+    "green": {
+      "horizontal": 0.908033,
+      "vertical": 0.89585,
+      "average": 0.901942
+    },
+    "blue": {
+      "horizontal": 0.89108,
+      "vertical": 0.877531,
+      "average": 0.884306
+    }
+  },
+  "average_local_variance_3x3": {
+    "red": 389.2025,
+    "green": 420.3867,
+    "blue": 360.1707
+  },
+  "residual_correlations_pca_space": {
+    "PC1_PC2": 0.0,
+    "PC1_PC3": 0.0,
+    "PC2_PC3": 0.0
+  },
+  "redundancy_profile": {
+    "classification": "Weakly One-Dimensional  |  Condition Number: 36.68  |  PC1: 91.91%",
+    "correlation_structure": "G\u2013B pair leads at r = 0.903419  |  R\u2013G: 0.898130  |  R\u2013B: 0.821497",
+    "blue_channel": "11.4% independent  |  Moderate decoupling from PC1",
+    "spatial_structure": "Avg autocorrelation: 0.894909  |  Avg local variance: 389.9200",
+    "eigenvector_pattern": "Green dominant  |  G (-0.6251) leads  |  R (-0.5794), B (-0.5230)"
+  }
+}
