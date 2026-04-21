@@ -1,0 +1,3229 @@
+{
+  "kodim01": {
+    "metadata": {
+      "image_id": "kodim01",
+      "subject": "Brick Building with Red Shutters and Door",
+      "suite": "Kodak Lossless True Color Image Suite (PCD0992)",
+      "resolution": "768x512",
+      "resolution_array": [
+        768,
+        512
+      ],
+      "pixel_count": 393216,
+      "bit_depth": 24,
+      "color_space": "sRGB",
+      "color_mode": "RGB",
+      "format": "PNG (lossless)",
+      "provenance": "Kodak PCD Film Scanner 2000, 35mm film, PhotoYCC decode to 8-bit RGB"
+    },
+    "channel_statistics": {
+      "red": {
+        "mean": 119.7613,
+        "std_dev": 34.5326,
+        "variance": 1192.5027,
+        "kurtosis": 0.1725,
+        "skewness": -0.3106,
+        "min": 0,
+        "max": 255
+      },
+      "green": {
+        "mean": 108.7463,
+        "std_dev": 44.7298,
+        "variance": 2000.7507,
+        "kurtosis": -0.9301,
+        "skewness": -0.1048,
+        "min": 0,
+        "max": 255
+      },
+      "blue": {
+        "mean": 88.3865,
+        "std_dev": 40.1137,
+        "variance": 1609.1105,
+        "kurtosis": -0.5851,
+        "skewness": -0.137,
+        "min": 0,
+        "max": 255
+      }
+    },
+    "covariance_matrix": {
+      "RR": 1192.5057,
+      "RG": 1332.5684,
+      "RB": 1163.6043,
+      "GG": 2000.7558,
+      "GB": 1778.7776,
+      "BB": 1609.1146
+    },
+    "correlations": {
+      "R_G": 0.862705,
+      "R_B": 0.840004,
+      "G_B": 0.991359,
+      "average_absolute": 0.898023
+    },
+    "eigendecomposition": {
+      "PC1": {
+        "eigenvalue": 4531.6251,
+        "variance_explained_pct": 94.36,
+        "eigenvector": {
+          "R": -0.4681,
+          "G": -0.6597,
+          "B": -0.5879
+        }
+      },
+      "PC2": {
+        "eigenvalue": 257.0119,
+        "variance_explained_pct": 5.35,
+        "eigenvector": {
+          "R": -0.8806,
+          "G": 0.2927,
+          "B": 0.3727
+        }
+      },
+      "PC3": {
+        "eigenvalue": 13.7391,
+        "variance_explained_pct": 0.29,
+        "eigenvector": {
+          "R": 0.0738,
+          "G": -0.6922,
+          "B": 0.7179
+        }
+      }
+    },
+    "derived_metrics": {
+      "condition_number": 329.83,
+      "eigenvalue_ratio_PC1_PC2": 17.63,
+      "eigenvalue_ratio_PC2_PC3": 18.71,
+      "dimensionality_tier": "Strongly One-Dimensional",
+      "pc1_dominant_channel": "Green",
+      "pc1_dominant_loading": -0.6597,
+      "blue_channel_independence_pct": 2.7,
+      "eigenvector_pattern": "Green-Blue coupled"
+    },
+    "spatial_autocorrelation": {
+      "red": {
+        "horizontal": 0.855063,
+        "vertical": 0.785762,
+        "average": 0.820413
+      },
+      "green": {
+        "horizontal": 0.904122,
+        "vertical": 0.864049,
+        "average": 0.884085
+      },
+      "blue": {
+        "horizontal": 0.886151,
+        "vertical": 0.843665,
+        "average": 0.864908
+      }
+    },
+    "average_local_variance_3x3": {
+      "red": 326.7876,
+      "green": 367.5441,
+      "blue": 335.7166
+    },
+    "residual_correlations_pca_space": {
+      "PC1_PC2": 0.0,
+      "PC1_PC3": 0.0,
+      "PC2_PC3": 0.0
+    },
+    "redundancy_profile": {
+      "classification": "Strongly One-Dimensional  |  Condition Number: 329.83  |  PC1: 94.36%",
+      "correlation_structure": "G\u2013B pair dominates at r = 0.991359  |  R\u2013G: 0.862705  |  R\u2013B: 0.840004",
+      "blue_channel": "2.7% independent  |  97.3% captured by PC1",
+      "spatial_structure": "Avg autocorrelation: 0.856469  |  Avg local variance: 343.3494",
+      "eigenvector_pattern": "Green-Blue coupled  |  G (-0.6597), B (-0.5879) co-load  |  R offset (-0.4681)"
+    }
+  },
+  "kodim02": {
+    "metadata": {
+      "image_id": "kodim02",
+      "subject": "Red Door Latch and Bolt",
+      "suite": "Kodak Lossless True Color Image Suite (PCD0992)",
+      "resolution": "768x512",
+      "resolution_array": [
+        768,
+        512
+      ],
+      "pixel_count": 393216,
+      "bit_depth": 24,
+      "color_space": "sRGB",
+      "color_mode": "RGB",
+      "format": "PNG (lossless)",
+      "provenance": "Kodak PCD Film Scanner 2000, 35mm film, PhotoYCC decode to 8-bit RGB"
+    },
+    "channel_statistics": {
+      "red": {
+        "mean": 142.8563,
+        "std_dev": 27.8074,
+        "variance": 773.2493,
+        "kurtosis": 3.8056,
+        "skewness": -1.3758,
+        "min": 0,
+        "max": 255
+      },
+      "green": {
+        "mean": 56.364,
+        "std_dev": 21.6586,
+        "variance": 469.0935,
+        "kurtosis": 30.1578,
+        "skewness": 4.5648,
+        "min": 0,
+        "max": 255
+      },
+      "blue": {
+        "mean": 31.2092,
+        "std_dev": 20.9966,
+        "variance": 440.8553,
+        "kurtosis": 20.499,
+        "skewness": 3.8692,
+        "min": 0,
+        "max": 254
+      }
+    },
+    "covariance_matrix": {
+      "RR": 773.2513,
+      "RG": 317.9436,
+      "RB": 237.2061,
+      "GG": 469.0947,
+      "GB": 442.921,
+      "BB": 440.8564
+    },
+    "correlations": {
+      "R_G": 0.52791,
+      "R_B": 0.406272,
+      "G_B": 0.973974,
+      "average_absolute": 0.636052
+    },
+    "eigendecomposition": {
+      "PC1": {
+        "eigenvalue": 1234.9118,
+        "variance_explained_pct": 73.37,
+        "eigenvector": {
+          "R": -0.6501,
+          "G": -0.5642,
+          "B": -0.5089
+        }
+      },
+      "PC2": {
+        "eigenvalue": 440.825,
+        "variance_explained_pct": 26.19,
+        "eigenvector": {
+          "R": -0.755,
+          "G": 0.4043,
+          "B": 0.5162
+        }
+      },
+      "PC3": {
+        "eigenvalue": 7.4656,
+        "variance_explained_pct": 0.44,
+        "eigenvector": {
+          "R": 0.0855,
+          "G": -0.7198,
+          "B": 0.6889
+        }
+      }
+    },
+    "derived_metrics": {
+      "condition_number": 165.41,
+      "eigenvalue_ratio_PC1_PC2": 2.8,
+      "eigenvalue_ratio_PC2_PC3": 59.05,
+      "dimensionality_tier": "Three-Dimensional",
+      "pc1_dominant_channel": "Red",
+      "pc1_dominant_loading": -0.6501,
+      "blue_channel_independence_pct": 27.4,
+      "eigenvector_pattern": "Red dominant"
+    },
+    "spatial_autocorrelation": {
+      "red": {
+        "horizontal": 0.936186,
+        "vertical": 0.916138,
+        "average": 0.926162
+      },
+      "green": {
+        "horizontal": 0.913504,
+        "vertical": 0.8849,
+        "average": 0.899202
+      },
+      "blue": {
+        "horizontal": 0.907388,
+        "vertical": 0.874535,
+        "average": 0.890961
+      }
+    },
+    "average_local_variance_3x3": {
+      "red": 91.0137,
+      "green": 68.9827,
+      "blue": 69.9345
+    },
+    "residual_correlations_pca_space": {
+      "PC1_PC2": 0.0,
+      "PC1_PC3": 0.0,
+      "PC2_PC3": 0.0
+    },
+    "redundancy_profile": {
+      "classification": "Three-Dimensional  |  Condition Number: 165.41  |  PC1: 73.37%",
+      "correlation_structure": "G\u2013B pair dominates at r = 0.973974  |  R\u2013G: 0.527910  |  R\u2013B: 0.406272",
+      "blue_channel": "27.4% independent  |  Substantial independence from PC1",
+      "spatial_structure": "Avg autocorrelation: 0.905442  |  Avg local variance: 76.6436",
+      "eigenvector_pattern": "Red dominant  |  R (-0.6501) leads  |  G (-0.5642), B (-0.5089)"
+    }
+  },
+  "kodim03": {
+    "metadata": {
+      "image_id": "kodim03",
+      "subject": "Neon Bahamas Hats on Fence",
+      "suite": "Kodak Lossless True Color Image Suite (PCD0992)",
+      "resolution": "768x512",
+      "resolution_array": [
+        768,
+        512
+      ],
+      "pixel_count": 393216,
+      "bit_depth": 24,
+      "color_space": "sRGB",
+      "color_mode": "RGB",
+      "format": "PNG (lossless)",
+      "provenance": "Kodak PCD Film Scanner 2000, 35mm film, PhotoYCC decode to 8-bit RGB"
+    },
+    "channel_statistics": {
+      "red": {
+        "mean": 111.6838,
+        "std_dev": 44.0323,
+        "variance": 1938.8418,
+        "kurtosis": 0.5779,
+        "skewness": 0.851,
+        "min": 0,
+        "max": 255
+      },
+      "green": {
+        "mean": 101.9713,
+        "std_dev": 44.6306,
+        "variance": 1991.8898,
+        "kurtosis": 0.6233,
+        "skewness": 0.6694,
+        "min": 0,
+        "max": 255
+      },
+      "blue": {
+        "mean": 76.0347,
+        "std_dev": 42.5095,
+        "variance": 1807.059,
+        "kurtosis": -1.0205,
+        "skewness": -0.051,
+        "min": 0,
+        "max": 255
+      }
+    },
+    "covariance_matrix": {
+      "RR": 1938.8467,
+      "RG": 1412.0611,
+      "RB": 540.9428,
+      "GG": 1991.8949,
+      "GB": 1049.9428,
+      "BB": 1807.0636
+    },
+    "correlations": {
+      "R_G": 0.718536,
+      "R_B": 0.288997,
+      "G_B": 0.553408,
+      "average_absolute": 0.520314
+    },
+    "eigendecomposition": {
+      "PC1": {
+        "eigenvalue": 3974.7495,
+        "variance_explained_pct": 69.27,
+        "eigenvector": {
+          "R": -0.5843,
+          "G": -0.6635,
+          "B": -0.4672
+        }
+      },
+      "PC2": {
+        "eigenvalue": 1338.2911,
+        "variance_explained_pct": 23.32,
+        "eigenvector": {
+          "R": -0.5749,
+          "G": -0.0679,
+          "B": 0.8154
+        }
+      },
+      "PC3": {
+        "eigenvalue": 424.7647,
+        "variance_explained_pct": 7.4,
+        "eigenvector": {
+          "R": -0.5728,
+          "G": 0.7451,
+          "B": -0.3418
+        }
+      }
+    },
+    "derived_metrics": {
+      "condition_number": 9.36,
+      "eigenvalue_ratio_PC1_PC2": 2.97,
+      "eigenvalue_ratio_PC2_PC3": 3.15,
+      "dimensionality_tier": "Three-Dimensional",
+      "pc1_dominant_channel": "Green",
+      "pc1_dominant_loading": -0.6635,
+      "blue_channel_independence_pct": 52.0,
+      "eigenvector_pattern": "Green dominant"
+    },
+    "spatial_autocorrelation": {
+      "red": {
+        "horizontal": 0.98337,
+        "vertical": 0.968858,
+        "average": 0.976114
+      },
+      "green": {
+        "horizontal": 0.984021,
+        "vertical": 0.96987,
+        "average": 0.976945
+      },
+      "blue": {
+        "horizontal": 0.985672,
+        "vertical": 0.970529,
+        "average": 0.978101
+      }
+    },
+    "average_local_variance_3x3": {
+      "red": 75.4177,
+      "green": 73.9969,
+      "blue": 58.517
+    },
+    "residual_correlations_pca_space": {
+      "PC1_PC2": 0.0,
+      "PC1_PC3": 0.0,
+      "PC2_PC3": 0.0
+    },
+    "redundancy_profile": {
+      "classification": "Three-Dimensional  |  Condition Number: 9.36  |  PC1: 69.27%",
+      "correlation_structure": "R\u2013G pair leads at r = 0.718536  |  G\u2013B: 0.553408  |  R\u2013B: 0.288997",
+      "blue_channel": "52.0% independent  |  3D color; major blue variance",
+      "spatial_structure": "Avg autocorrelation: 0.977053  |  Avg local variance: 69.3105",
+      "eigenvector_pattern": "Green dominant  |  G (-0.6635) leads  |  R (-0.5843), B (-0.4672)"
+    }
+  },
+  "kodim04": {
+    "metadata": {
+      "image_id": "kodim04",
+      "subject": "Portrait, Woman in Red Hat",
+      "suite": "Kodak Lossless True Color Image Suite (PCD0992)",
+      "resolution": "512x768",
+      "resolution_array": [
+        512,
+        768
+      ],
+      "pixel_count": 393216,
+      "bit_depth": 24,
+      "color_space": "sRGB",
+      "color_mode": "RGB",
+      "format": "PNG (lossless)",
+      "provenance": "Kodak PCD Film Scanner 2000, 35mm film, PhotoYCC decode to 8-bit RGB"
+    },
+    "channel_statistics": {
+      "red": {
+        "mean": 131.8947,
+        "std_dev": 34.388,
+        "variance": 1182.5358,
+        "kurtosis": 0.6795,
+        "skewness": 0.1836,
+        "min": 0,
+        "max": 255
+      },
+      "green": {
+        "mean": 84.1262,
+        "std_dev": 43.7589,
+        "variance": 1914.8435,
+        "kurtosis": -0.1743,
+        "skewness": 0.5638,
+        "min": 0,
+        "max": 255
+      },
+      "blue": {
+        "mean": 78.3804,
+        "std_dev": 45.3034,
+        "variance": 2052.4016,
+        "kurtosis": 0.3873,
+        "skewness": 0.8186,
+        "min": 0,
+        "max": 255
+      }
+    },
+    "covariance_matrix": {
+      "RR": 1182.5388,
+      "RG": 903.5425,
+      "RB": 1067.1069,
+      "GG": 1914.8484,
+      "GB": 1896.8578,
+      "BB": 2052.4069
+    },
+    "correlations": {
+      "R_G": 0.600446,
+      "R_B": 0.684965,
+      "G_B": 0.956832,
+      "average_absolute": 0.747414
+    },
+    "eigendecomposition": {
+      "PC1": {
+        "eigenvalue": 4473.6423,
+        "variance_explained_pct": 86.87,
+        "eigenvector": {
+          "R": -0.3905,
+          "G": -0.6332,
+          "B": -0.6682
+        }
+      },
+      "PC2": {
+        "eigenvalue": 604.2539,
+        "variance_explained_pct": 11.73,
+        "eigenvector": {
+          "R": -0.9085,
+          "G": 0.3824,
+          "B": 0.1685
+        }
+      },
+      "PC3": {
+        "eigenvalue": 71.8979,
+        "variance_explained_pct": 1.4,
+        "eigenvector": {
+          "R": -0.1488,
+          "G": -0.6729,
+          "B": 0.7246
+        }
+      }
+    },
+    "derived_metrics": {
+      "condition_number": 62.22,
+      "eigenvalue_ratio_PC1_PC2": 7.4,
+      "eigenvalue_ratio_PC2_PC3": 8.4,
+      "dimensionality_tier": "Weakly One-Dimensional",
+      "pc1_dominant_channel": "Blue",
+      "pc1_dominant_loading": -0.6682,
+      "blue_channel_independence_pct": 2.7,
+      "eigenvector_pattern": "Green-Blue coupled"
+    },
+    "spatial_autocorrelation": {
+      "red": {
+        "horizontal": 0.953348,
+        "vertical": 0.957096,
+        "average": 0.955222
+      },
+      "green": {
+        "horizontal": 0.971137,
+        "vertical": 0.974165,
+        "average": 0.972651
+      },
+      "blue": {
+        "horizontal": 0.97282,
+        "vertical": 0.975482,
+        "average": 0.974151
+      }
+    },
+    "average_local_variance_3x3": {
+      "red": 85.9222,
+      "green": 86.4162,
+      "blue": 87.7434
+    },
+    "residual_correlations_pca_space": {
+      "PC1_PC2": 0.0,
+      "PC1_PC3": 0.0,
+      "PC2_PC3": 0.0
+    },
+    "redundancy_profile": {
+      "classification": "Weakly One-Dimensional  |  Condition Number: 62.22  |  PC1: 86.87%",
+      "correlation_structure": "G\u2013B pair dominates at r = 0.956832  |  R\u2013B: 0.684965  |  R\u2013G: 0.600446",
+      "blue_channel": "2.7% independent  |  97.3% captured by PC1",
+      "spatial_structure": "Avg autocorrelation: 0.967341  |  Avg local variance: 86.6939",
+      "eigenvector_pattern": "Green-Blue coupled  |  G (-0.6332), B (-0.6682) co-load  |  R offset (-0.3905)"
+    }
+  },
+  "kodim05": {
+    "metadata": {
+      "image_id": "kodim05",
+      "subject": "Motocross Starting Lineup",
+      "suite": "Kodak Lossless True Color Image Suite (PCD0992)",
+      "resolution": "768x512",
+      "resolution_array": [
+        768,
+        512
+      ],
+      "pixel_count": 393216,
+      "bit_depth": 24,
+      "color_space": "sRGB",
+      "color_mode": "RGB",
+      "format": "PNG (lossless)",
+      "provenance": "Kodak PCD Film Scanner 2000, 35mm film, PhotoYCC decode to 8-bit RGB"
+    },
+    "channel_statistics": {
+      "red": {
+        "mean": 91.5034,
+        "std_dev": 49.0693,
+        "variance": 2407.8009,
+        "kurtosis": 0.9401,
+        "skewness": 0.9473,
+        "min": 0,
+        "max": 255
+      },
+      "green": {
+        "mean": 81.0216,
+        "std_dev": 51.4019,
+        "variance": 2642.1585,
+        "kurtosis": 1.2491,
+        "skewness": 1.0591,
+        "min": 0,
+        "max": 255
+      },
+      "blue": {
+        "mean": 67.516,
+        "std_dev": 44.7156,
+        "variance": 1999.4804,
+        "kurtosis": 0.9117,
+        "skewness": 1.0294,
+        "min": 0,
+        "max": 255
+      }
+    },
+    "covariance_matrix": {
+      "RR": 2407.8071,
+      "RG": 2265.3215,
+      "RB": 1802.5027,
+      "GG": 2642.1652,
+      "GB": 2076.4827,
+      "BB": 1999.4855
+    },
+    "correlations": {
+      "R_G": 0.89813,
+      "R_B": 0.821497,
+      "G_B": 0.903419,
+      "average_absolute": 0.874349
+    },
+    "eigendecomposition": {
+      "PC1": {
+        "eigenvalue": 6478.8129,
+        "variance_explained_pct": 91.91,
+        "eigenvector": {
+          "R": -0.5794,
+          "G": -0.6251,
+          "B": -0.523
+        }
+      },
+      "PC2": {
+        "eigenvalue": 394.0318,
+        "variance_explained_pct": 5.59,
+        "eigenvector": {
+          "R": -0.7287,
+          "G": 0.11,
+          "B": 0.6759
+        }
+      },
+      "PC3": {
+        "eigenvalue": 176.613,
+        "variance_explained_pct": 2.51,
+        "eigenvector": {
+          "R": 0.3651,
+          "G": -0.7727,
+          "B": 0.5193
+        }
+      }
+    },
+    "derived_metrics": {
+      "condition_number": 36.68,
+      "eigenvalue_ratio_PC1_PC2": 16.44,
+      "eigenvalue_ratio_PC2_PC3": 2.23,
+      "dimensionality_tier": "Weakly One-Dimensional",
+      "pc1_dominant_channel": "Green",
+      "pc1_dominant_loading": -0.6251,
+      "blue_channel_independence_pct": 11.4,
+      "eigenvector_pattern": "Green dominant"
+    },
+    "spatial_autocorrelation": {
+      "red": {
+        "horizontal": 0.904243,
+        "vertical": 0.892715,
+        "average": 0.898479
+      },
+      "green": {
+        "horizontal": 0.908033,
+        "vertical": 0.89585,
+        "average": 0.901942
+      },
+      "blue": {
+        "horizontal": 0.89108,
+        "vertical": 0.877531,
+        "average": 0.884306
+      }
+    },
+    "average_local_variance_3x3": {
+      "red": 389.2025,
+      "green": 420.3867,
+      "blue": 360.1707
+    },
+    "residual_correlations_pca_space": {
+      "PC1_PC2": 0.0,
+      "PC1_PC3": 0.0,
+      "PC2_PC3": 0.0
+    },
+    "redundancy_profile": {
+      "classification": "Weakly One-Dimensional  |  Condition Number: 36.68  |  PC1: 91.91%",
+      "correlation_structure": "G\u2013B pair leads at r = 0.903419  |  R\u2013G: 0.898130  |  R\u2013B: 0.821497",
+      "blue_channel": "11.4% independent  |  Moderate decoupling from PC1",
+      "spatial_structure": "Avg autocorrelation: 0.894909  |  Avg local variance: 389.9200",
+      "eigenvector_pattern": "Green dominant  |  G (-0.6251) leads  |  R (-0.5794), B (-0.5230)"
+    }
+  },
+  "kodim06": {
+    "metadata": {
+      "image_id": "kodim06",
+      "subject": "Boat Zentime in Harbor",
+      "suite": "Kodak Lossless True Color Image Suite (PCD0992)",
+      "resolution": "768x512",
+      "resolution_array": [
+        768,
+        512
+      ],
+      "pixel_count": 393216,
+      "bit_depth": 24,
+      "color_space": "sRGB",
+      "color_mode": "RGB",
+      "format": "PNG (lossless)",
+      "provenance": "Kodak PCD Film Scanner 2000, 35mm film, PhotoYCC decode to 8-bit RGB"
+    },
+    "channel_statistics": {
+      "red": {
+        "mean": 133.1676,
+        "std_dev": 65.6483,
+        "variance": 4309.6945,
+        "kurtosis": -0.954,
+        "skewness": 0.5242,
+        "min": 0,
+        "max": 255
+      },
+      "green": {
+        "mean": 139.3122,
+        "std_dev": 60.2086,
+        "variance": 3625.0755,
+        "kurtosis": -0.7381,
+        "skewness": 0.5106,
+        "min": 0,
+        "max": 255
+      },
+      "blue": {
+        "mean": 108.7812,
+        "std_dev": 48.5409,
+        "variance": 2356.2226,
+        "kurtosis": -0.553,
+        "skewness": 0.5034,
+        "min": 0,
+        "max": 255
+      }
+    },
+    "covariance_matrix": {
+      "RR": 4309.7055,
+      "RG": 3862.3529,
+      "RB": 3060.22,
+      "GG": 3625.0847,
+      "GB": 2896.459,
+      "BB": 2356.2285
+    },
+    "correlations": {
+      "R_G": 0.977168,
+      "R_B": 0.960329,
+      "G_B": 0.991059,
+      "average_absolute": 0.976185
+    },
+    "eigendecomposition": {
+      "PC1": {
+        "eigenvalue": 10128.6724,
+        "variance_explained_pct": 98.42,
+        "eigenvector": {
+          "R": -0.6462,
+          "G": -0.596,
+          "B": -0.4766
+        }
+      },
+      "PC2": {
+        "eigenvalue": 143.6789,
+        "variance_explained_pct": 1.4,
+        "eigenvector": {
+          "R": -0.7417,
+          "G": 0.3436,
+          "B": 0.576
+        }
+      },
+      "PC3": {
+        "eigenvalue": 18.6675,
+        "variance_explained_pct": 0.18,
+        "eigenvector": {
+          "R": 0.1796,
+          "G": -0.7257,
+          "B": 0.6642
+        }
+      }
+    },
+    "derived_metrics": {
+      "condition_number": 542.58,
+      "eigenvalue_ratio_PC1_PC2": 70.5,
+      "eigenvalue_ratio_PC2_PC3": 7.7,
+      "dimensionality_tier": "Near-Degenerate",
+      "pc1_dominant_channel": "Red",
+      "pc1_dominant_loading": -0.6462,
+      "blue_channel_independence_pct": 2.4,
+      "eigenvector_pattern": "Red dominant"
+    },
+    "spatial_autocorrelation": {
+      "red": {
+        "horizontal": 0.979433,
+        "vertical": 0.946378,
+        "average": 0.962905
+      },
+      "green": {
+        "horizontal": 0.974956,
+        "vertical": 0.937302,
+        "average": 0.956129
+      },
+      "blue": {
+        "horizontal": 0.963681,
+        "vertical": 0.911326,
+        "average": 0.937503
+      }
+    },
+    "average_local_variance_3x3": {
+      "red": 244.0803,
+      "green": 241.0629,
+      "blue": 213.1997
+    },
+    "residual_correlations_pca_space": {
+      "PC1_PC2": 0.0,
+      "PC1_PC3": 0.0,
+      "PC2_PC3": 0.0
+    },
+    "redundancy_profile": {
+      "classification": "Near-Degenerate  |  Condition Number: 542.58  |  PC1: 98.42%",
+      "correlation_structure": "G\u2013B pair dominates at r = 0.991059  |  R\u2013G: 0.977168  |  R\u2013B: 0.960329",
+      "blue_channel": "2.4% independent  |  97.6% captured by PC1",
+      "spatial_structure": "Avg autocorrelation: 0.952179  |  Avg local variance: 232.7810",
+      "eigenvector_pattern": "Red dominant  |  R (-0.6462) leads  |  G (-0.5960), B (-0.4766)"
+    }
+  },
+  "kodim07": {
+    "metadata": {
+      "image_id": "kodim07",
+      "subject": "Hibiscus and Shuttered Window",
+      "suite": "Kodak Lossless True Color Image Suite (PCD0992)",
+      "resolution": "768x512",
+      "resolution_array": [
+        768,
+        512
+      ],
+      "pixel_count": 393216,
+      "bit_depth": 24,
+      "color_space": "sRGB",
+      "color_mode": "RGB",
+      "format": "PNG (lossless)",
+      "provenance": "Kodak PCD Film Scanner 2000, 35mm film, PhotoYCC decode to 8-bit RGB"
+    },
+    "channel_statistics": {
+      "red": {
+        "mean": 117.559,
+        "std_dev": 41.0769,
+        "variance": 1687.3098,
+        "kurtosis": -0.1489,
+        "skewness": -0.0814,
+        "min": 0,
+        "max": 255
+      },
+      "green": {
+        "mean": 110.7168,
+        "std_dev": 37.6093,
+        "variance": 1414.4593,
+        "kurtosis": -0.2555,
+        "skewness": -0.3645,
+        "min": 0,
+        "max": 255
+      },
+      "blue": {
+        "mean": 85.3725,
+        "std_dev": 39.2547,
+        "variance": 1540.9309,
+        "kurtosis": -0.7214,
+        "skewness": -0.5796,
+        "min": 0,
+        "max": 255
+      }
+    },
+    "covariance_matrix": {
+      "RR": 1687.3141,
+      "RG": 1286.8483,
+      "RB": 1231.0152,
+      "GG": 1414.4629,
+      "GB": 1341.0937,
+      "BB": 1540.9348
+    },
+    "correlations": {
+      "R_G": 0.832978,
+      "R_B": 0.763437,
+      "G_B": 0.908388,
+      "average_absolute": 0.834934
+    },
+    "eigendecomposition": {
+      "PC1": {
+        "eigenvalue": 4121.3682,
+        "variance_explained_pct": 88.77,
+        "eigenvector": {
+          "R": -0.5903,
+          "G": -0.5658,
+          "B": -0.5757
+        }
+      },
+      "PC2": {
+        "eigenvalue": 402.8998,
+        "variance_explained_pct": 8.68,
+        "eigenvector": {
+          "R": -0.7823,
+          "G": 0.2253,
+          "B": 0.5807
+        }
+      },
+      "PC3": {
+        "eigenvalue": 118.4439,
+        "variance_explained_pct": 2.55,
+        "eigenvector": {
+          "R": 0.1989,
+          "G": -0.7931,
+          "B": 0.5756
+        }
+      }
+    },
+    "derived_metrics": {
+      "condition_number": 34.8,
+      "eigenvalue_ratio_PC1_PC2": 10.23,
+      "eigenvalue_ratio_PC2_PC3": 3.4,
+      "dimensionality_tier": "Weakly One-Dimensional",
+      "pc1_dominant_channel": "Red",
+      "pc1_dominant_loading": -0.5903,
+      "blue_channel_independence_pct": 11.4,
+      "eigenvector_pattern": "Balanced"
+    },
+    "spatial_autocorrelation": {
+      "red": {
+        "horizontal": 0.968958,
+        "vertical": 0.953892,
+        "average": 0.961425
+      },
+      "green": {
+        "horizontal": 0.963485,
+        "vertical": 0.940606,
+        "average": 0.952046
+      },
+      "blue": {
+        "horizontal": 0.966136,
+        "vertical": 0.947753,
+        "average": 0.956945
+      }
+    },
+    "average_local_variance_3x3": {
+      "red": 117.9877,
+      "green": 124.3319,
+      "blue": 120.8266
+    },
+    "residual_correlations_pca_space": {
+      "PC1_PC2": 0.0,
+      "PC1_PC3": 0.0,
+      "PC2_PC3": 0.0
+    },
+    "redundancy_profile": {
+      "classification": "Weakly One-Dimensional  |  Condition Number: 34.80  |  PC1: 88.77%",
+      "correlation_structure": "G\u2013B pair leads at r = 0.908388  |  R\u2013G: 0.832978  |  R\u2013B: 0.763437",
+      "blue_channel": "11.4% independent  |  Moderate decoupling from PC1",
+      "spatial_structure": "Avg autocorrelation: 0.956805  |  Avg local variance: 121.0487",
+      "eigenvector_pattern": "Balanced  |  R (-0.5903), G (-0.5658), B (-0.5757) near-equal loading"
+    }
+  },
+  "kodim08": {
+    "metadata": {
+      "image_id": "kodim08",
+      "subject": "Seifenfabrikation Street Buildings",
+      "suite": "Kodak Lossless True Color Image Suite (PCD0992)",
+      "resolution": "768x512",
+      "resolution_array": [
+        768,
+        512
+      ],
+      "pixel_count": 393216,
+      "bit_depth": 24,
+      "color_space": "sRGB",
+      "color_mode": "RGB",
+      "format": "PNG (lossless)",
+      "provenance": "Kodak PCD Film Scanner 2000, 35mm film, PhotoYCC decode to 8-bit RGB"
+    },
+    "channel_statistics": {
+      "red": {
+        "mean": 127.9621,
+        "std_dev": 63.7385,
+        "variance": 4062.5961,
+        "kurtosis": -0.7074,
+        "skewness": 0.5369,
+        "min": 0,
+        "max": 255
+      },
+      "green": {
+        "mean": 121.0786,
+        "std_dev": 65.2947,
+        "variance": 4263.4034,
+        "kurtosis": -0.7235,
+        "skewness": 0.5882,
+        "min": 0,
+        "max": 255
+      },
+      "blue": {
+        "mean": 115.9959,
+        "std_dev": 57.3863,
+        "variance": 3293.1915,
+        "kurtosis": -0.2341,
+        "skewness": 0.6954,
+        "min": 0,
+        "max": 255
+      }
+    },
+    "covariance_matrix": {
+      "RR": 4062.6065,
+      "RG": 4022.2107,
+      "RB": 3351.2393,
+      "GG": 4263.4142,
+      "GB": 3651.9205,
+      "BB": 3293.1999
+    },
+    "correlations": {
+      "R_G": 0.96646,
+      "R_B": 0.916208,
+      "G_B": 0.974616,
+      "average_absolute": 0.952428
+    },
+    "eigendecomposition": {
+      "PC1": {
+        "eigenvalue": 11265.8584,
+        "variance_explained_pct": 96.96,
+        "eigenvector": {
+          "R": -0.5879,
+          "G": -0.613,
+          "B": -0.5279
+        }
+      },
+      "PC2": {
+        "eigenvalue": 310.1984,
+        "variance_explained_pct": 2.67,
+        "eigenvector": {
+          "R": -0.7265,
+          "G": 0.113,
+          "B": 0.6778
+        }
+      },
+      "PC3": {
+        "eigenvalue": 43.1638,
+        "variance_explained_pct": 0.37,
+        "eigenvector": {
+          "R": 0.3558,
+          "G": -0.782,
+          "B": 0.5118
+        }
+      }
+    },
+    "derived_metrics": {
+      "condition_number": 261.0,
+      "eigenvalue_ratio_PC1_PC2": 36.32,
+      "eigenvalue_ratio_PC2_PC3": 7.19,
+      "dimensionality_tier": "Strongly One-Dimensional",
+      "pc1_dominant_channel": "Green",
+      "pc1_dominant_loading": -0.613,
+      "blue_channel_independence_pct": 4.7,
+      "eigenvector_pattern": "Green dominant"
+    },
+    "spatial_autocorrelation": {
+      "red": {
+        "horizontal": 0.886158,
+        "vertical": 0.920963,
+        "average": 0.903561
+      },
+      "green": {
+        "horizontal": 0.888479,
+        "vertical": 0.923422,
+        "average": 0.905951
+      },
+      "blue": {
+        "horizontal": 0.862235,
+        "vertical": 0.906698,
+        "average": 0.884466
+      }
+    },
+    "average_local_variance_3x3": {
+      "red": 635.3855,
+      "green": 656.8125,
+      "blue": 605.4027
+    },
+    "residual_correlations_pca_space": {
+      "PC1_PC2": 0.0,
+      "PC1_PC3": 0.0,
+      "PC2_PC3": 0.0
+    },
+    "redundancy_profile": {
+      "classification": "Strongly One-Dimensional  |  Condition Number: 261.00  |  PC1: 96.96%",
+      "correlation_structure": "G\u2013B pair dominates at r = 0.974616  |  R\u2013G: 0.966460  |  R\u2013B: 0.916208",
+      "blue_channel": "4.7% independent  |  95.3% captured by PC1",
+      "spatial_structure": "Avg autocorrelation: 0.897993  |  Avg local variance: 632.5336",
+      "eigenvector_pattern": "Green dominant  |  G (-0.6130) leads  |  R (-0.5879), B (-0.5279)"
+    }
+  },
+  "kodim09": {
+    "metadata": {
+      "image_id": "kodim09",
+      "subject": "Spinnaker Sailboats Racing",
+      "suite": "Kodak Lossless True Color Image Suite (PCD0992)",
+      "resolution": "512x768",
+      "resolution_array": [
+        512,
+        768
+      ],
+      "pixel_count": 393216,
+      "bit_depth": 24,
+      "color_space": "sRGB",
+      "color_mode": "RGB",
+      "format": "PNG (lossless)",
+      "provenance": "Kodak PCD Film Scanner 2000, 35mm film, PhotoYCC decode to 8-bit RGB"
+    },
+    "channel_statistics": {
+      "red": {
+        "mean": 129.2367,
+        "std_dev": 40.6342,
+        "variance": 1651.1352,
+        "kurtosis": 0.5117,
+        "skewness": -0.345,
+        "min": 0,
+        "max": 255
+      },
+      "green": {
+        "mean": 134.352,
+        "std_dev": 39.5654,
+        "variance": 1565.4214,
+        "kurtosis": 0.4616,
+        "skewness": -0.4582,
+        "min": 0,
+        "max": 255
+      },
+      "blue": {
+        "mean": 125.9906,
+        "std_dev": 33.2819,
+        "variance": 1107.6857,
+        "kurtosis": 0.7139,
+        "skewness": -0.5961,
+        "min": 0,
+        "max": 255
+      }
+    },
+    "covariance_matrix": {
+      "RR": 1651.1394,
+      "RG": 1525.0105,
+      "RB": 991.2362,
+      "GG": 1565.4254,
+      "GB": 1127.231,
+      "BB": 1107.6885
+    },
+    "correlations": {
+      "R_G": 0.94856,
+      "R_B": 0.732954,
+      "G_B": 0.856028,
+      "average_absolute": 0.845847
+    },
+    "eigendecomposition": {
+      "PC1": {
+        "eigenvalue": 3928.741,
+        "variance_explained_pct": 90.85,
+        "eigenvector": {
+          "R": -0.6232,
+          "G": -0.6258,
+          "B": -0.469
+        }
+      },
+      "PC2": {
+        "eigenvalue": 353.1306,
+        "variance_explained_pct": 8.17,
+        "eigenvector": {
+          "R": -0.566,
+          "G": -0.053,
+          "B": 0.8227
+        }
+      },
+      "PC3": {
+        "eigenvalue": 42.3817,
+        "variance_explained_pct": 0.98,
+        "eigenvector": {
+          "R": 0.5398,
+          "G": -0.7781,
+          "B": 0.3211
+        }
+      }
+    },
+    "derived_metrics": {
+      "condition_number": 92.7,
+      "eigenvalue_ratio_PC1_PC2": 11.13,
+      "eigenvalue_ratio_PC2_PC3": 8.33,
+      "dimensionality_tier": "Weakly One-Dimensional",
+      "pc1_dominant_channel": "Green",
+      "pc1_dominant_loading": -0.6258,
+      "blue_channel_independence_pct": 22.0,
+      "eigenvector_pattern": "Green dominant"
+    },
+    "spatial_autocorrelation": {
+      "red": {
+        "horizontal": 0.952365,
+        "vertical": 0.966268,
+        "average": 0.959316
+      },
+      "green": {
+        "horizontal": 0.946314,
+        "vertical": 0.962531,
+        "average": 0.954422
+      },
+      "blue": {
+        "horizontal": 0.934099,
+        "vertical": 0.953785,
+        "average": 0.943942
+      }
+    },
+    "average_local_variance_3x3": {
+      "red": 117.563,
+      "green": 126.2179,
+      "blue": 104.9096
+    },
+    "residual_correlations_pca_space": {
+      "PC1_PC2": 0.0,
+      "PC1_PC3": 0.0,
+      "PC2_PC3": 0.0
+    },
+    "redundancy_profile": {
+      "classification": "Weakly One-Dimensional  |  Condition Number: 92.70  |  PC1: 90.85%",
+      "correlation_structure": "R\u2013G pair leads at r = 0.948560  |  G\u2013B: 0.856028  |  R\u2013B: 0.732954",
+      "blue_channel": "22.0% independent  |  Substantial independence from PC1",
+      "spatial_structure": "Avg autocorrelation: 0.952560  |  Avg local variance: 116.2302",
+      "eigenvector_pattern": "Green dominant  |  G (-0.6258) leads  |  R (-0.6232), B (-0.4690)"
+    }
+  },
+  "kodim10": {
+    "metadata": {
+      "image_id": "kodim10",
+      "subject": "Sailboat Race Close-Up",
+      "suite": "Kodak Lossless True Color Image Suite (PCD0992)",
+      "resolution": "512x768",
+      "resolution_array": [
+        512,
+        768
+      ],
+      "pixel_count": 393216,
+      "bit_depth": 24,
+      "color_space": "sRGB",
+      "color_mode": "RGB",
+      "format": "PNG (lossless)",
+      "provenance": "Kodak PCD Film Scanner 2000, 35mm film, PhotoYCC decode to 8-bit RGB"
+    },
+    "channel_statistics": {
+      "red": {
+        "mean": 115.6475,
+        "std_dev": 40.3658,
+        "variance": 1629.3985,
+        "kurtosis": 1.1267,
+        "skewness": 0.4697,
+        "min": 0,
+        "max": 255
+      },
+      "green": {
+        "mean": 124.7658,
+        "std_dev": 40.9145,
+        "variance": 1673.9978,
+        "kurtosis": 0.992,
+        "skewness": 0.1665,
+        "min": 0,
+        "max": 255
+      },
+      "blue": {
+        "mean": 118.2671,
+        "std_dev": 33.891,
+        "variance": 1148.6022,
+        "kurtosis": 1.3551,
+        "skewness": 0.2009,
+        "min": 0,
+        "max": 255
+      }
+    },
+    "covariance_matrix": {
+      "RR": 1629.4026,
+      "RG": 1577.9784,
+      "RB": 1217.8063,
+      "GG": 1674.0021,
+      "GB": 1344.3638,
+      "BB": 1148.6052
+    },
+    "correlations": {
+      "R_G": 0.955452,
+      "R_B": 0.890182,
+      "G_B": 0.969513,
+      "average_absolute": 0.938382
+    },
+    "eigendecomposition": {
+      "PC1": {
+        "eigenvalue": 4279.3978,
+        "variance_explained_pct": 96.12,
+        "eigenvector": {
+          "R": -0.601,
+          "G": -0.6226,
+          "B": -0.5011
+        }
+      },
+      "PC2": {
+        "eigenvalue": 153.9494,
+        "variance_explained_pct": 3.46,
+        "eigenvector": {
+          "R": -0.7275,
+          "G": 0.1666,
+          "B": 0.6656
+        }
+      },
+      "PC3": {
+        "eigenvalue": 18.6628,
+        "variance_explained_pct": 0.42,
+        "eigenvector": {
+          "R": 0.3309,
+          "G": -0.7646,
+          "B": 0.553
+        }
+      }
+    },
+    "derived_metrics": {
+      "condition_number": 229.3,
+      "eigenvalue_ratio_PC1_PC2": 27.8,
+      "eigenvalue_ratio_PC2_PC3": 8.25,
+      "dimensionality_tier": "Strongly One-Dimensional",
+      "pc1_dominant_channel": "Green",
+      "pc1_dominant_loading": -0.6226,
+      "blue_channel_independence_pct": 6.4,
+      "eigenvector_pattern": "Green dominant"
+    },
+    "spatial_autocorrelation": {
+      "red": {
+        "horizontal": 0.953891,
+        "vertical": 0.965941,
+        "average": 0.959916
+      },
+      "green": {
+        "horizontal": 0.953087,
+        "vertical": 0.963732,
+        "average": 0.95841
+      },
+      "blue": {
+        "horizontal": 0.93553,
+        "vertical": 0.951529,
+        "average": 0.943529
+      }
+    },
+    "average_local_variance_3x3": {
+      "red": 107.2469,
+      "green": 116.0858,
+      "blue": 103.432
+    },
+    "residual_correlations_pca_space": {
+      "PC1_PC2": 0.0,
+      "PC1_PC3": 0.0,
+      "PC2_PC3": 0.0
+    },
+    "redundancy_profile": {
+      "classification": "Strongly One-Dimensional  |  Condition Number: 229.30  |  PC1: 96.12%",
+      "correlation_structure": "G\u2013B pair dominates at r = 0.969513  |  R\u2013G: 0.955452  |  R\u2013B: 0.890182",
+      "blue_channel": "6.4% independent  |  Moderate decoupling from PC1",
+      "spatial_structure": "Avg autocorrelation: 0.953952  |  Avg local variance: 108.9216",
+      "eigenvector_pattern": "Green dominant  |  G (-0.6226) leads  |  R (-0.6010), B (-0.5011)"
+    }
+  },
+  "kodim11": {
+    "metadata": {
+      "image_id": "kodim11",
+      "subject": "Zentime Pier and Dock",
+      "suite": "Kodak Lossless True Color Image Suite (PCD0992)",
+      "resolution": "768x512",
+      "resolution_array": [
+        768,
+        512
+      ],
+      "pixel_count": 393216,
+      "bit_depth": 24,
+      "color_space": "sRGB",
+      "color_mode": "RGB",
+      "format": "PNG (lossless)",
+      "provenance": "Kodak PCD Film Scanner 2000, 35mm film, PhotoYCC decode to 8-bit RGB"
+    },
+    "channel_statistics": {
+      "red": {
+        "mean": 93.0274,
+        "std_dev": 39.8342,
+        "variance": 1586.7655,
+        "kurtosis": 1.2927,
+        "skewness": 0.4763,
+        "min": 0,
+        "max": 255
+      },
+      "green": {
+        "mean": 95.0619,
+        "std_dev": 45.2329,
+        "variance": 2046.0129,
+        "kurtosis": -0.6104,
+        "skewness": -0.3633,
+        "min": 0,
+        "max": 255
+      },
+      "blue": {
+        "mean": 82.3172,
+        "std_dev": 43.0273,
+        "variance": 1851.3476,
+        "kurtosis": -0.9188,
+        "skewness": -0.4345,
+        "min": 0,
+        "max": 255
+      }
+    },
+    "covariance_matrix": {
+      "RR": 1586.7695,
+      "RG": 1482.0621,
+      "RB": 1355.076,
+      "GG": 2046.0181,
+      "GB": 1896.4575,
+      "BB": 1851.3523
+    },
+    "correlations": {
+      "R_G": 0.822536,
+      "R_B": 0.79061,
+      "G_B": 0.974415,
+      "average_absolute": 0.86252
+    },
+    "eigendecomposition": {
+      "PC1": {
+        "eigenvalue": 5021.4392,
+        "variance_explained_pct": 91.56,
+        "eigenvector": {
+          "R": -0.5047,
+          "G": -0.6286,
+          "B": -0.5918
+        }
+      },
+      "PC2": {
+        "eigenvalue": 416.0334,
+        "variance_explained_pct": 7.59,
+        "eigenvector": {
+          "R": -0.8596,
+          "G": 0.3027,
+          "B": 0.4116
+        }
+      },
+      "PC3": {
+        "eigenvalue": 46.6673,
+        "variance_explained_pct": 0.85,
+        "eigenvector": {
+          "R": 0.0796,
+          "G": -0.7164,
+          "B": 0.6931
+        }
+      }
+    },
+    "derived_metrics": {
+      "condition_number": 107.6,
+      "eigenvalue_ratio_PC1_PC2": 12.07,
+      "eigenvalue_ratio_PC2_PC3": 8.91,
+      "dimensionality_tier": "Weakly One-Dimensional",
+      "pc1_dominant_channel": "Green",
+      "pc1_dominant_loading": -0.6286,
+      "blue_channel_independence_pct": 5.0,
+      "eigenvector_pattern": "Green-Blue coupled"
+    },
+    "spatial_autocorrelation": {
+      "red": {
+        "horizontal": 0.936451,
+        "vertical": 0.914191,
+        "average": 0.925321
+      },
+      "green": {
+        "horizontal": 0.950674,
+        "vertical": 0.934059,
+        "average": 0.942366
+      },
+      "blue": {
+        "horizontal": 0.949338,
+        "vertical": 0.932529,
+        "average": 0.940933
+      }
+    },
+    "average_local_variance_3x3": {
+      "red": 182.4999,
+      "green": 181.8437,
+      "blue": 163.2886
+    },
+    "residual_correlations_pca_space": {
+      "PC1_PC2": 0.0,
+      "PC1_PC3": 0.0,
+      "PC2_PC3": 0.0
+    },
+    "redundancy_profile": {
+      "classification": "Weakly One-Dimensional  |  Condition Number: 107.60  |  PC1: 91.56%",
+      "correlation_structure": "G\u2013B pair dominates at r = 0.974415  |  R\u2013G: 0.822536  |  R\u2013B: 0.790610",
+      "blue_channel": "5.0% independent  |  Moderate decoupling from PC1",
+      "spatial_structure": "Avg autocorrelation: 0.936207  |  Avg local variance: 175.8774",
+      "eigenvector_pattern": "Green-Blue coupled  |  G (-0.6286), B (-0.5918) co-load  |  R offset (-0.5047)"
+    }
+  },
+  "kodim12": {
+    "metadata": {
+      "image_id": "kodim12",
+      "subject": "Beach Couple Walking",
+      "suite": "Kodak Lossless True Color Image Suite (PCD0992)",
+      "resolution": "768x512",
+      "resolution_array": [
+        768,
+        512
+      ],
+      "pixel_count": 393216,
+      "bit_depth": 24,
+      "color_space": "sRGB",
+      "color_mode": "RGB",
+      "format": "PNG (lossless)",
+      "provenance": "Kodak PCD Film Scanner 2000, 35mm film, PhotoYCC decode to 8-bit RGB"
+    },
+    "channel_statistics": {
+      "red": {
+        "mean": 161.5734,
+        "std_dev": 40.3806,
+        "variance": 1630.5965,
+        "kurtosis": 1.1058,
+        "skewness": -0.7565,
+        "min": 0,
+        "max": 255
+      },
+      "green": {
+        "mean": 166.9964,
+        "std_dev": 50.1228,
+        "variance": 2512.2992,
+        "kurtosis": 0.3809,
+        "skewness": -0.7898,
+        "min": 0,
+        "max": 255
+      },
+      "blue": {
+        "mean": 137.8578,
+        "std_dev": 46.17,
+        "variance": 2131.6692,
+        "kurtosis": 0.2495,
+        "skewness": -0.4877,
+        "min": 0,
+        "max": 255
+      }
+    },
+    "covariance_matrix": {
+      "RR": 1630.6007,
+      "RG": 1848.5032,
+      "RB": 1625.9443,
+      "GG": 2512.3056,
+      "GB": 2238.7707,
+      "BB": 2131.6746
+    },
+    "correlations": {
+      "R_G": 0.913293,
+      "R_B": 0.87211,
+      "G_B": 0.967415,
+      "average_absolute": 0.917606
+    },
+    "eigendecomposition": {
+      "PC1": {
+        "eigenvalue": 5966.2169,
+        "variance_explained_pct": 95.09,
+        "eigenvector": {
+          "R": -0.4937,
+          "G": -0.6434,
+          "B": -0.585
+        }
+      },
+      "PC2": {
+        "eigenvalue": 245.8155,
+        "variance_explained_pct": 3.92,
+        "eigenvector": {
+          "R": -0.8389,
+          "G": 0.1752,
+          "B": 0.5153
+        }
+      },
+      "PC3": {
+        "eigenvalue": 62.5484,
+        "variance_explained_pct": 1.0,
+        "eigenvector": {
+          "R": 0.229,
+          "G": -0.7452,
+          "B": 0.6263
+        }
+      }
+    },
+    "derived_metrics": {
+      "condition_number": 95.39,
+      "eigenvalue_ratio_PC1_PC2": 24.27,
+      "eigenvalue_ratio_PC2_PC3": 3.93,
+      "dimensionality_tier": "Strongly One-Dimensional",
+      "pc1_dominant_channel": "Green",
+      "pc1_dominant_loading": -0.6434,
+      "blue_channel_independence_pct": 4.2,
+      "eigenvector_pattern": "Green-Blue coupled"
+    },
+    "spatial_autocorrelation": {
+      "red": {
+        "horizontal": 0.97519,
+        "vertical": 0.959391,
+        "average": 0.96729
+      },
+      "green": {
+        "horizontal": 0.981558,
+        "vertical": 0.971839,
+        "average": 0.976698
+      },
+      "blue": {
+        "horizontal": 0.979094,
+        "vertical": 0.969349,
+        "average": 0.974221
+      }
+    },
+    "average_local_variance_3x3": {
+      "red": 88.4865,
+      "green": 101.6072,
+      "blue": 91.8665
+    },
+    "residual_correlations_pca_space": {
+      "PC1_PC2": 0.0,
+      "PC1_PC3": 0.0,
+      "PC2_PC3": 0.0
+    },
+    "redundancy_profile": {
+      "classification": "Strongly One-Dimensional  |  Condition Number: 95.39  |  PC1: 95.09%",
+      "correlation_structure": "G\u2013B pair dominates at r = 0.967415  |  R\u2013G: 0.913293  |  R\u2013B: 0.872110",
+      "blue_channel": "4.2% independent  |  95.8% captured by PC1",
+      "spatial_structure": "Avg autocorrelation: 0.972736  |  Avg local variance: 93.9867",
+      "eigenvector_pattern": "Green-Blue coupled  |  G (-0.6434), B (-0.5850) co-load  |  R offset (-0.4937)"
+    }
+  },
+  "kodim13": {
+    "metadata": {
+      "image_id": "kodim13",
+      "subject": "Mountain Stream and Rocks",
+      "suite": "Kodak Lossless True Color Image Suite (PCD0992)",
+      "resolution": "768x512",
+      "resolution_array": [
+        768,
+        512
+      ],
+      "pixel_count": 393216,
+      "bit_depth": 24,
+      "color_space": "sRGB",
+      "color_mode": "RGB",
+      "format": "PNG (lossless)",
+      "provenance": "Kodak PCD Film Scanner 2000, 35mm film, PhotoYCC decode to 8-bit RGB"
+    },
+    "channel_statistics": {
+      "red": {
+        "mean": 112.2371,
+        "std_dev": 52.0095,
+        "variance": 2704.984,
+        "kurtosis": 0.5293,
+        "skewness": 0.9326,
+        "min": 0,
+        "max": 255
+      },
+      "green": {
+        "mean": 110.5166,
+        "std_dev": 53.5862,
+        "variance": 2871.4856,
+        "kurtosis": 0.6601,
+        "skewness": 0.9991,
+        "min": 0,
+        "max": 255
+      },
+      "blue": {
+        "mean": 82.2896,
+        "std_dev": 54.7389,
+        "variance": 2996.3458,
+        "kurtosis": 0.9736,
+        "skewness": 1.2191,
+        "min": 0,
+        "max": 255
+      }
+    },
+    "covariance_matrix": {
+      "RR": 2704.9909,
+      "RG": 2736.24,
+      "RB": 2695.8463,
+      "GG": 2871.4929,
+      "GB": 2827.3473,
+      "BB": 2996.3535
+    },
+    "correlations": {
+      "R_G": 0.981787,
+      "R_B": 0.946925,
+      "G_B": 0.963893,
+      "average_absolute": 0.964202
+    },
+    "eigendecomposition": {
+      "PC1": {
+        "eigenvalue": 8367.1677,
+        "variance_explained_pct": 97.6,
+        "eigenvector": {
+          "R": -0.5614,
+          "G": -0.5821,
+          "B": -0.5882
+        }
+      },
+      "PC2": {
+        "eigenvalue": 161.629,
+        "variance_explained_pct": 1.89,
+        "eigenvector": {
+          "R": -0.5688,
+          "G": -0.2449,
+          "B": 0.7852
+        }
+      },
+      "PC3": {
+        "eigenvalue": 44.0405,
+        "variance_explained_pct": 0.51,
+        "eigenvector": {
+          "R": -0.6011,
+          "G": 0.7754,
+          "B": -0.1936
+        }
+      }
+    },
+    "derived_metrics": {
+      "condition_number": 189.99,
+      "eigenvalue_ratio_PC1_PC2": 51.77,
+      "eigenvalue_ratio_PC2_PC3": 3.67,
+      "dimensionality_tier": "Near-Degenerate",
+      "pc1_dominant_channel": "Blue",
+      "pc1_dominant_loading": -0.5882,
+      "blue_channel_independence_pct": 3.4,
+      "eigenvector_pattern": "Balanced"
+    },
+    "spatial_autocorrelation": {
+      "red": {
+        "horizontal": 0.894298,
+        "vertical": 0.83718,
+        "average": 0.865739
+      },
+      "green": {
+        "horizontal": 0.897359,
+        "vertical": 0.841415,
+        "average": 0.869387
+      },
+      "blue": {
+        "horizontal": 0.903094,
+        "vertical": 0.852387,
+        "average": 0.87774
+      }
+    },
+    "average_local_variance_3x3": {
+      "red": 497.599,
+      "green": 519.2852,
+      "blue": 492.1569
+    },
+    "residual_correlations_pca_space": {
+      "PC1_PC2": 0.0,
+      "PC1_PC3": 0.0,
+      "PC2_PC3": 0.0
+    },
+    "redundancy_profile": {
+      "classification": "Near-Degenerate  |  Condition Number: 189.99  |  PC1: 97.60%",
+      "correlation_structure": "R\u2013G pair dominates at r = 0.981787  |  G\u2013B: 0.963893  |  R\u2013B: 0.946925",
+      "blue_channel": "3.4% independent  |  96.6% captured by PC1",
+      "spatial_structure": "Avg autocorrelation: 0.870955  |  Avg local variance: 503.0137",
+      "eigenvector_pattern": "Balanced  |  R (-0.5614), G (-0.5821), B (-0.5882) near-equal loading"
+    }
+  },
+  "kodim14": {
+    "metadata": {
+      "image_id": "kodim14",
+      "subject": "Whitewater Rafting Group",
+      "suite": "Kodak Lossless True Color Image Suite (PCD0992)",
+      "resolution": "768x512",
+      "resolution_array": [
+        768,
+        512
+      ],
+      "pixel_count": 393216,
+      "bit_depth": 24,
+      "color_space": "sRGB",
+      "color_mode": "RGB",
+      "format": "PNG (lossless)",
+      "provenance": "Kodak PCD Film Scanner 2000, 35mm film, PhotoYCC decode to 8-bit RGB"
+    },
+    "channel_statistics": {
+      "red": {
+        "mean": 105.7633,
+        "std_dev": 54.3565,
+        "variance": 2954.6247,
+        "kurtosis": -0.4082,
+        "skewness": 0.5211,
+        "min": 0,
+        "max": 255
+      },
+      "green": {
+        "mean": 94.2856,
+        "std_dev": 50.9241,
+        "variance": 2593.2623,
+        "kurtosis": -0.7031,
+        "skewness": 0.3936,
+        "min": 0,
+        "max": 255
+      },
+      "blue": {
+        "mean": 68.6271,
+        "std_dev": 41.052,
+        "variance": 1685.269,
+        "kurtosis": -0.0027,
+        "skewness": 0.6833,
+        "min": 0,
+        "max": 255
+      }
+    },
+    "covariance_matrix": {
+      "RR": 2954.6322,
+      "RG": 2384.1802,
+      "RB": 1019.293,
+      "GG": 2593.2689,
+      "GB": 1485.8409,
+      "BB": 1685.2732
+    },
+    "correlations": {
+      "R_G": 0.861318,
+      "R_B": 0.456785,
+      "G_B": 0.710744,
+      "average_absolute": 0.676283
+    },
+    "eigendecomposition": {
+      "PC1": {
+        "eigenvalue": 5902.5075,
+        "variance_explained_pct": 81.6,
+        "eigenvector": {
+          "R": -0.6571,
+          "G": -0.647,
+          "B": -0.3868
+        }
+      },
+      "PC2": {
+        "eigenvalue": 1130.1467,
+        "variance_explained_pct": 15.62,
+        "eigenvector": {
+          "R": -0.5608,
+          "G": 0.0768,
+          "B": 0.8244
+        }
+      },
+      "PC3": {
+        "eigenvalue": 200.5202,
+        "variance_explained_pct": 2.77,
+        "eigenvector": {
+          "R": 0.5037,
+          "G": -0.7586,
+          "B": 0.4133
+        }
+      }
+    },
+    "derived_metrics": {
+      "condition_number": 29.44,
+      "eigenvalue_ratio_PC1_PC2": 5.22,
+      "eigenvalue_ratio_PC2_PC3": 5.64,
+      "dimensionality_tier": "Two-Dimensional",
+      "pc1_dominant_channel": "Red",
+      "pc1_dominant_loading": -0.6571,
+      "blue_channel_independence_pct": 47.6,
+      "eigenvector_pattern": "Red dominant"
+    },
+    "spatial_autocorrelation": {
+      "red": {
+        "horizontal": 0.96158,
+        "vertical": 0.942926,
+        "average": 0.952253
+      },
+      "green": {
+        "horizontal": 0.959062,
+        "vertical": 0.938324,
+        "average": 0.948693
+      },
+      "blue": {
+        "horizontal": 0.94584,
+        "vertical": 0.91484,
+        "average": 0.93034
+      }
+    },
+    "average_local_variance_3x3": {
+      "red": 228.0342,
+      "green": 209.8691,
+      "blue": 177.3103
+    },
+    "residual_correlations_pca_space": {
+      "PC1_PC2": 0.0,
+      "PC1_PC3": 0.0,
+      "PC2_PC3": 0.0
+    },
+    "redundancy_profile": {
+      "classification": "Two-Dimensional  |  Condition Number: 29.44  |  PC1: 81.60%",
+      "correlation_structure": "R\u2013G pair leads at r = 0.861318  |  G\u2013B: 0.710744  |  R\u2013B: 0.456785",
+      "blue_channel": "47.6% independent  |  3D color; major blue variance",
+      "spatial_structure": "Avg autocorrelation: 0.943762  |  Avg local variance: 205.0712",
+      "eigenvector_pattern": "Red dominant  |  R (-0.6571) leads  |  G (-0.6470), B (-0.3868)"
+    }
+  },
+  "kodim15": {
+    "metadata": {
+      "image_id": "kodim15",
+      "subject": "Face Paint Girl Portrait",
+      "suite": "Kodak Lossless True Color Image Suite (PCD0992)",
+      "resolution": "768x512",
+      "resolution_array": [
+        768,
+        512
+      ],
+      "pixel_count": 393216,
+      "bit_depth": 24,
+      "color_space": "sRGB",
+      "color_mode": "RGB",
+      "format": "PNG (lossless)",
+      "provenance": "Kodak PCD Film Scanner 2000, 35mm film, PhotoYCC decode to 8-bit RGB"
+    },
+    "channel_statistics": {
+      "red": {
+        "mean": 119.2734,
+        "std_dev": 71.0346,
+        "variance": 5045.9174,
+        "kurtosis": -1.2877,
+        "skewness": 0.2573,
+        "min": 0,
+        "max": 255
+      },
+      "green": {
+        "mean": 105.772,
+        "std_dev": 91.8071,
+        "variance": 8428.5387,
+        "kurtosis": -1.2306,
+        "skewness": 0.6876,
+        "min": 0,
+        "max": 255
+      },
+      "blue": {
+        "mean": 95.8575,
+        "std_dev": 82.3449,
+        "variance": 6780.6804,
+        "kurtosis": -1.1482,
+        "skewness": 0.766,
+        "min": 0,
+        "max": 255
+      }
+    },
+    "covariance_matrix": {
+      "RR": 5045.9302,
+      "RG": 5609.7318,
+      "RB": 5008.4767,
+      "GG": 8428.5601,
+      "GB": 7469.0397,
+      "BB": 6780.6977
+    },
+    "correlations": {
+      "R_G": 0.860191,
+      "R_B": 0.856245,
+      "G_B": 0.987986,
+      "average_absolute": 0.901474
+    },
+    "eigendecomposition": {
+      "PC1": {
+        "eigenvalue": 19133.4408,
+        "variance_explained_pct": 94.46,
+        "eigenvector": {
+          "R": -0.4709,
+          "G": -0.6573,
+          "B": -0.5884
+        }
+      },
+      "PC2": {
+        "eigenvalue": 1031.5917,
+        "variance_explained_pct": 5.09,
+        "eigenvector": {
+          "R": -0.8821,
+          "G": 0.3431,
+          "B": 0.3227
+        }
+      },
+      "PC3": {
+        "eigenvalue": 90.1555,
+        "variance_explained_pct": 0.45,
+        "eigenvector": {
+          "R": 0.0103,
+          "G": -0.671,
+          "B": 0.7414
+        }
+      }
+    },
+    "derived_metrics": {
+      "condition_number": 212.23,
+      "eigenvalue_ratio_PC1_PC2": 18.55,
+      "eigenvalue_ratio_PC2_PC3": 11.44,
+      "dimensionality_tier": "Strongly One-Dimensional",
+      "pc1_dominant_channel": "Green",
+      "pc1_dominant_loading": -0.6573,
+      "blue_channel_independence_pct": 2.3,
+      "eigenvector_pattern": "Green-Blue coupled"
+    },
+    "spatial_autocorrelation": {
+      "red": {
+        "horizontal": 0.981212,
+        "vertical": 0.988164,
+        "average": 0.984688
+      },
+      "green": {
+        "horizontal": 0.988726,
+        "vertical": 0.992572,
+        "average": 0.990649
+      },
+      "blue": {
+        "horizontal": 0.986591,
+        "vertical": 0.991229,
+        "average": 0.98891
+      }
+    },
+    "average_local_variance_3x3": {
+      "red": 124.1846,
+      "green": 130.6691,
+      "blue": 120.906
+    },
+    "residual_correlations_pca_space": {
+      "PC1_PC2": 0.0,
+      "PC1_PC3": 0.0,
+      "PC2_PC3": 0.0
+    },
+    "redundancy_profile": {
+      "classification": "Strongly One-Dimensional  |  Condition Number: 212.23  |  PC1: 94.46%",
+      "correlation_structure": "G\u2013B pair dominates at r = 0.987986  |  R\u2013G: 0.860191  |  R\u2013B: 0.856245",
+      "blue_channel": "2.3% independent  |  97.7% captured by PC1",
+      "spatial_structure": "Avg autocorrelation: 0.988082  |  Avg local variance: 125.2532",
+      "eigenvector_pattern": "Green-Blue coupled  |  G (-0.6573), B (-0.5884) co-load  |  R offset (-0.4709)"
+    }
+  },
+  "kodim16": {
+    "metadata": {
+      "image_id": "kodim16",
+      "subject": "Island Panorama Aerial",
+      "suite": "Kodak Lossless True Color Image Suite (PCD0992)",
+      "resolution": "768x512",
+      "resolution_array": [
+        768,
+        512
+      ],
+      "pixel_count": 393216,
+      "bit_depth": 24,
+      "color_space": "sRGB",
+      "color_mode": "RGB",
+      "format": "PNG (lossless)",
+      "provenance": "Kodak PCD Film Scanner 2000, 35mm film, PhotoYCC decode to 8-bit RGB"
+    },
+    "channel_statistics": {
+      "red": {
+        "mean": 102.8127,
+        "std_dev": 43.8151,
+        "variance": 1919.767,
+        "kurtosis": 1.1627,
+        "skewness": 0.9143,
+        "min": 0,
+        "max": 255
+      },
+      "green": {
+        "mean": 106.6684,
+        "std_dev": 44.019,
+        "variance": 1937.6721,
+        "kurtosis": 0.6672,
+        "skewness": 0.6923,
+        "min": 0,
+        "max": 255
+      },
+      "blue": {
+        "mean": 95.16,
+        "std_dev": 39.7373,
+        "variance": 1579.0502,
+        "kurtosis": -0.7313,
+        "skewness": -0.0325,
+        "min": 0,
+        "max": 249
+      }
+    },
+    "covariance_matrix": {
+      "RR": 1919.7718,
+      "RG": 1898.2915,
+      "RB": 1553.634,
+      "GG": 1937.6771,
+      "GB": 1663.6101,
+      "BB": 1579.0542
+    },
+    "correlations": {
+      "R_G": 0.984232,
+      "R_B": 0.89233,
+      "G_B": 0.95107,
+      "average_absolute": 0.942544
+    },
+    "eigendecomposition": {
+      "PC1": {
+        "eigenvalue": 5240.9414,
+        "variance_explained_pct": 96.4,
+        "eigenvector": {
+          "R": -0.5939,
+          "G": -0.6071,
+          "B": -0.5278
+        }
+      },
+      "PC2": {
+        "eigenvalue": 189.2029,
+        "variance_explained_pct": 3.48,
+        "eigenvector": {
+          "R": -0.6045,
+          "G": -0.0962,
+          "B": 0.7908
+        }
+      },
+      "PC3": {
+        "eigenvalue": 6.3588,
+        "variance_explained_pct": 0.12,
+        "eigenvector": {
+          "R": 0.5309,
+          "G": -0.7887,
+          "B": 0.3099
+        }
+      }
+    },
+    "derived_metrics": {
+      "condition_number": 824.2,
+      "eigenvalue_ratio_PC1_PC2": 27.7,
+      "eigenvalue_ratio_PC2_PC3": 29.75,
+      "dimensionality_tier": "Strongly One-Dimensional",
+      "pc1_dominant_channel": "Green",
+      "pc1_dominant_loading": -0.6071,
+      "blue_channel_independence_pct": 7.5,
+      "eigenvector_pattern": "Green dominant"
+    },
+    "spatial_autocorrelation": {
+      "red": {
+        "horizontal": 0.9837,
+        "vertical": 0.943618,
+        "average": 0.963659
+      },
+      "green": {
+        "horizontal": 0.983997,
+        "vertical": 0.945143,
+        "average": 0.96457
+      },
+      "blue": {
+        "horizontal": 0.981362,
+        "vertical": 0.935445,
+        "average": 0.958404
+      }
+    },
+    "average_local_variance_3x3": {
+      "red": 103.5563,
+      "green": 101.1993,
+      "blue": 94.582
+    },
+    "residual_correlations_pca_space": {
+      "PC1_PC2": 0.0,
+      "PC1_PC3": 0.0,
+      "PC2_PC3": 0.0
+    },
+    "redundancy_profile": {
+      "classification": "Strongly One-Dimensional  |  Condition Number: 824.20  |  PC1: 96.40%",
+      "correlation_structure": "R\u2013G pair dominates at r = 0.984232  |  G\u2013B: 0.951070  |  R\u2013B: 0.892330",
+      "blue_channel": "7.5% independent  |  Moderate decoupling from PC1",
+      "spatial_structure": "Avg autocorrelation: 0.962211  |  Avg local variance: 99.7792",
+      "eigenvector_pattern": "Green dominant  |  G (-0.6071) leads  |  R (-0.5939), B (-0.5278)"
+    }
+  },
+  "kodim17": {
+    "metadata": {
+      "image_id": "kodim17",
+      "subject": "Living Statue Street Performer",
+      "suite": "Kodak Lossless True Color Image Suite (PCD0992)",
+      "resolution": "512x768",
+      "resolution_array": [
+        512,
+        768
+      ],
+      "pixel_count": 393216,
+      "bit_depth": 24,
+      "color_space": "sRGB",
+      "color_mode": "RGB",
+      "format": "PNG (lossless)",
+      "provenance": "Kodak PCD Film Scanner 2000, 35mm film, PhotoYCC decode to 8-bit RGB"
+    },
+    "channel_statistics": {
+      "red": {
+        "mean": 82.6843,
+        "std_dev": 46.9409,
+        "variance": 2203.4435,
+        "kurtosis": -0.4375,
+        "skewness": 0.3475,
+        "min": 1,
+        "max": 255
+      },
+      "green": {
+        "mean": 77.0529,
+        "std_dev": 50.1148,
+        "variance": 2511.4934,
+        "kurtosis": -0.6389,
+        "skewness": 0.434,
+        "min": 0,
+        "max": 255
+      },
+      "blue": {
+        "mean": 69.02,
+        "std_dev": 47.927,
+        "variance": 2296.9984,
+        "kurtosis": -0.675,
+        "skewness": 0.4952,
+        "min": 0,
+        "max": 255
+      }
+    },
+    "covariance_matrix": {
+      "RR": 2203.4491,
+      "RG": 2317.6074,
+      "RB": 2099.9185,
+      "GG": 2511.4998,
+      "GB": 2348.4144,
+      "BB": 2297.0042
+    },
+    "correlations": {
+      "R_G": 0.985194,
+      "R_B": 0.933405,
+      "G_B": 0.977749,
+      "average_absolute": 0.965449
+    },
+    "eigendecomposition": {
+      "PC1": {
+        "eigenvalue": 6856.2614,
+        "variance_explained_pct": 97.78,
+        "eigenvector": {
+          "R": -0.5578,
+          "G": -0.6048,
+          "B": -0.5684
+        }
+      },
+      "PC2": {
+        "eigenvalue": 150.7549,
+        "variance_explained_pct": 2.15,
+        "eigenvector": {
+          "R": -0.6771,
+          "G": -0.0645,
+          "B": 0.733
+        }
+      },
+      "PC3": {
+        "eigenvalue": 4.9369,
+        "variance_explained_pct": 0.07,
+        "eigenvector": {
+          "R": 0.48,
+          "G": -0.7938,
+          "B": 0.3735
+        }
+      }
+    },
+    "derived_metrics": {
+      "condition_number": 1388.78,
+      "eigenvalue_ratio_PC1_PC2": 45.48,
+      "eigenvalue_ratio_PC2_PC3": 30.54,
+      "dimensionality_tier": "Near-Degenerate",
+      "pc1_dominant_channel": "Green",
+      "pc1_dominant_loading": -0.6048,
+      "blue_channel_independence_pct": 3.6,
+      "eigenvector_pattern": "Green dominant"
+    },
+    "spatial_autocorrelation": {
+      "red": {
+        "horizontal": 0.972133,
+        "vertical": 0.969784,
+        "average": 0.970959
+      },
+      "green": {
+        "horizontal": 0.972996,
+        "vertical": 0.970793,
+        "average": 0.971894
+      },
+      "blue": {
+        "horizontal": 0.971203,
+        "vertical": 0.969172,
+        "average": 0.970187
+      }
+    },
+    "average_local_variance_3x3": {
+      "red": 99.4767,
+      "green": 111.5929,
+      "blue": 105.5583
+    },
+    "residual_correlations_pca_space": {
+      "PC1_PC2": 0.0,
+      "PC1_PC3": 0.0,
+      "PC2_PC3": 0.0
+    },
+    "redundancy_profile": {
+      "classification": "Near-Degenerate  |  Condition Number: 1388.78  |  PC1: 97.78%",
+      "correlation_structure": "R\u2013G pair dominates at r = 0.985194  |  G\u2013B: 0.977749  |  R\u2013B: 0.933405",
+      "blue_channel": "3.6% independent  |  96.4% captured by PC1",
+      "spatial_structure": "Avg autocorrelation: 0.971013  |  Avg local variance: 105.5426",
+      "eigenvector_pattern": "Green dominant  |  G (-0.6048) leads  |  R (-0.5578), B (-0.5684)"
+    }
+  },
+  "kodim18": {
+    "metadata": {
+      "image_id": "kodim18",
+      "subject": "Fashion Portrait Woman",
+      "suite": "Kodak Lossless True Color Image Suite (PCD0992)",
+      "resolution": "512x768",
+      "resolution_array": [
+        512,
+        768
+      ],
+      "pixel_count": 393216,
+      "bit_depth": 24,
+      "color_space": "sRGB",
+      "color_mode": "RGB",
+      "format": "PNG (lossless)",
+      "provenance": "Kodak PCD Film Scanner 2000, 35mm film, PhotoYCC decode to 8-bit RGB"
+    },
+    "channel_statistics": {
+      "red": {
+        "mean": 80.5698,
+        "std_dev": 47.3467,
+        "variance": 2241.7069,
+        "kurtosis": 2.1586,
+        "skewness": 1.3143,
+        "min": 0,
+        "max": 255
+      },
+      "green": {
+        "mean": 71.8574,
+        "std_dev": 37.852,
+        "variance": 1432.7776,
+        "kurtosis": 4.2459,
+        "skewness": 1.6283,
+        "min": 0,
+        "max": 255
+      },
+      "blue": {
+        "mean": 49.5295,
+        "std_dev": 30.7754,
+        "variance": 947.1238,
+        "kurtosis": 9.5076,
+        "skewness": 2.0417,
+        "min": 0,
+        "max": 255
+      }
+    },
+    "covariance_matrix": {
+      "RR": 2241.7126,
+      "RG": 1641.3123,
+      "RB": 1096.5581,
+      "GG": 1432.7812,
+      "GB": 972.9193,
+      "BB": 947.1262
+    },
+    "correlations": {
+      "R_G": 0.915823,
+      "R_B": 0.752554,
+      "G_B": 0.835186,
+      "average_absolute": 0.834521
+    },
+    "eigendecomposition": {
+      "PC1": {
+        "eigenvalue": 4188.5703,
+        "variance_explained_pct": 90.63,
+        "eigenvector": {
+          "R": -0.7117,
+          "G": -0.5692,
+          "B": -0.4116
+        }
+      },
+      "PC2": {
+        "eigenvalue": 324.0742,
+        "variance_explained_pct": 7.01,
+        "eigenvector": {
+          "R": -0.5547,
+          "G": 0.0959,
+          "B": 0.8265
+        }
+      },
+      "PC3": {
+        "eigenvalue": 108.9754,
+        "variance_explained_pct": 2.36,
+        "eigenvector": {
+          "R": 0.431,
+          "G": -0.8166,
+          "B": 0.384
+        }
+      }
+    },
+    "derived_metrics": {
+      "condition_number": 38.44,
+      "eigenvalue_ratio_PC1_PC2": 12.92,
+      "eigenvalue_ratio_PC2_PC3": 2.97,
+      "dimensionality_tier": "Weakly One-Dimensional",
+      "pc1_dominant_channel": "Red",
+      "pc1_dominant_loading": -0.7117,
+      "blue_channel_independence_pct": 25.1,
+      "eigenvector_pattern": "Red dominant"
+    },
+    "spatial_autocorrelation": {
+      "red": {
+        "horizontal": 0.925773,
+        "vertical": 0.93564,
+        "average": 0.930707
+      },
+      "green": {
+        "horizontal": 0.879187,
+        "vertical": 0.894688,
+        "average": 0.886937
+      },
+      "blue": {
+        "horizontal": 0.82905,
+        "vertical": 0.848442,
+        "average": 0.838746
+      }
+    },
+    "average_local_variance_3x3": {
+      "red": 232.2003,
+      "green": 238.0022,
+      "blue": 212.52
+    },
+    "residual_correlations_pca_space": {
+      "PC1_PC2": 0.0,
+      "PC1_PC3": 0.0,
+      "PC2_PC3": 0.0
+    },
+    "redundancy_profile": {
+      "classification": "Weakly One-Dimensional  |  Condition Number: 38.44  |  PC1: 90.63%",
+      "correlation_structure": "R\u2013G pair leads at r = 0.915823  |  G\u2013B: 0.835186  |  R\u2013B: 0.752554",
+      "blue_channel": "25.1% independent  |  Substantial independence from PC1",
+      "spatial_structure": "Avg autocorrelation: 0.885463  |  Avg local variance: 227.5742",
+      "eigenvector_pattern": "Red dominant  |  R (-0.7117) leads  |  G (-0.5692), B (-0.4116)"
+    }
+  },
+  "kodim19": {
+    "metadata": {
+      "image_id": "kodim19",
+      "subject": "Lighthouse and Coast",
+      "suite": "Kodak Lossless True Color Image Suite (PCD0992)",
+      "resolution": "512x768",
+      "resolution_array": [
+        512,
+        768
+      ],
+      "pixel_count": 393216,
+      "bit_depth": 24,
+      "color_space": "sRGB",
+      "color_mode": "RGB",
+      "format": "PNG (lossless)",
+      "provenance": "Kodak PCD Film Scanner 2000, 35mm film, PhotoYCC decode to 8-bit RGB"
+    },
+    "channel_statistics": {
+      "red": {
+        "mean": 122.4976,
+        "std_dev": 51.1987,
+        "variance": 2621.3117,
+        "kurtosis": 0.2442,
+        "skewness": 0.855,
+        "min": 0,
+        "max": 255
+      },
+      "green": {
+        "mean": 115.5019,
+        "std_dev": 46.253,
+        "variance": 2139.3377,
+        "kurtosis": 0.053,
+        "skewness": 0.5868,
+        "min": 0,
+        "max": 255
+      },
+      "blue": {
+        "mean": 98.17,
+        "std_dev": 45.4169,
+        "variance": 2062.6919,
+        "kurtosis": -0.9406,
+        "skewness": -0.2592,
+        "min": 0,
+        "max": 255
+      }
+    },
+    "covariance_matrix": {
+      "RR": 2621.3184,
+      "RG": 2289.5494,
+      "RB": 1896.1883,
+      "GG": 2139.3431,
+      "GB": 1922.263,
+      "BB": 2062.6971
+    },
+    "correlations": {
+      "R_G": 0.96683,
+      "R_B": 0.815462,
+      "G_B": 0.915071,
+      "average_absolute": 0.899121
+    },
+    "eigendecomposition": {
+      "PC1": {
+        "eigenvalue": 6370.5766,
+        "variance_explained_pct": 93.36,
+        "eigenvector": {
+          "R": -0.6208,
+          "G": -0.577,
+          "B": -0.5307
+        }
+      },
+      "PC2": {
+        "eigenvalue": 428.1205,
+        "variance_explained_pct": 6.27,
+        "eigenvector": {
+          "R": -0.612,
+          "G": -0.0664,
+          "B": 0.7881
+        }
+      },
+      "PC3": {
+        "eigenvalue": 24.6615,
+        "variance_explained_pct": 0.36,
+        "eigenvector": {
+          "R": 0.49,
+          "G": -0.814,
+          "B": 0.3119
+        }
+      }
+    },
+    "derived_metrics": {
+      "condition_number": 258.32,
+      "eigenvalue_ratio_PC1_PC2": 14.88,
+      "eigenvalue_ratio_PC2_PC3": 17.36,
+      "dimensionality_tier": "Strongly One-Dimensional",
+      "pc1_dominant_channel": "Red",
+      "pc1_dominant_loading": -0.6208,
+      "blue_channel_independence_pct": 13.0,
+      "eigenvector_pattern": "Red dominant"
+    },
+    "spatial_autocorrelation": {
+      "red": {
+        "horizontal": 0.934066,
+        "vertical": 0.952822,
+        "average": 0.943444
+      },
+      "green": {
+        "horizontal": 0.921641,
+        "vertical": 0.941917,
+        "average": 0.931779
+      },
+      "blue": {
+        "horizontal": 0.926385,
+        "vertical": 0.945151,
+        "average": 0.935768
+      }
+    },
+    "average_local_variance_3x3": {
+      "red": 247.2722,
+      "green": 239.9454,
+      "blue": 211.154
+    },
+    "residual_correlations_pca_space": {
+      "PC1_PC2": 0.0,
+      "PC1_PC3": 0.0,
+      "PC2_PC3": 0.0
+    },
+    "redundancy_profile": {
+      "classification": "Strongly One-Dimensional  |  Condition Number: 258.32  |  PC1: 93.36%",
+      "correlation_structure": "R\u2013G pair dominates at r = 0.966830  |  G\u2013B: 0.915071  |  R\u2013B: 0.815462",
+      "blue_channel": "13.0% independent  |  Moderate decoupling from PC1",
+      "spatial_structure": "Avg autocorrelation: 0.936997  |  Avg local variance: 232.7905",
+      "eigenvector_pattern": "Red dominant  |  R (-0.6208) leads  |  G (-0.5770), B (-0.5307)"
+    }
+  },
+  "kodim20": {
+    "metadata": {
+      "image_id": "kodim20",
+      "subject": "P-51 Six-Shooter Aircraft",
+      "suite": "Kodak Lossless True Color Image Suite (PCD0992)",
+      "resolution": "768x512",
+      "resolution_array": [
+        768,
+        512
+      ],
+      "pixel_count": 393216,
+      "bit_depth": 24,
+      "color_space": "sRGB",
+      "color_mode": "RGB",
+      "format": "PNG (lossless)",
+      "provenance": "Kodak PCD Film Scanner 2000, 35mm film, PhotoYCC decode to 8-bit RGB"
+    },
+    "channel_statistics": {
+      "red": {
+        "mean": 180.5355,
+        "std_dev": 86.6838,
+        "variance": 7514.0811,
+        "kurtosis": -1.4473,
+        "skewness": -0.5175,
+        "min": 0,
+        "max": 255
+      },
+      "green": {
+        "mean": 176.2617,
+        "std_dev": 87.3215,
+        "variance": 7625.0418,
+        "kurtosis": -1.4833,
+        "skewness": -0.4703,
+        "min": 0,
+        "max": 255
+      },
+      "blue": {
+        "mean": 154.6573,
+        "std_dev": 90.9038,
+        "variance": 8263.5089,
+        "kurtosis": -1.6533,
+        "skewness": -0.3103,
+        "min": 0,
+        "max": 255
+      }
+    },
+    "covariance_matrix": {
+      "RR": 7514.1002,
+      "RG": 7535.4115,
+      "RB": 7551.8563,
+      "GG": 7625.0611,
+      "GB": 7750.8951,
+      "BB": 8263.53
+    },
+    "correlations": {
+      "R_G": 0.995513,
+      "R_B": 0.958368,
+      "G_B": 0.976444,
+      "average_absolute": 0.976775
+    },
+    "eigendecomposition": {
+      "PC1": {
+        "eigenvalue": 23033.4748,
+        "variance_explained_pct": 98.42,
+        "eigenvector": {
+          "R": -0.5664,
+          "G": -0.5743,
+          "B": -0.591
+        }
+      },
+      "PC2": {
+        "eigenvalue": 355.9724,
+        "variance_explained_pct": 1.52,
+        "eigenvector": {
+          "R": -0.5779,
+          "G": -0.2345,
+          "B": 0.7817
+        }
+      },
+      "PC3": {
+        "eigenvalue": 13.244,
+        "variance_explained_pct": 0.06,
+        "eigenvector": {
+          "R": -0.5875,
+          "G": 0.7843,
+          "B": -0.1991
+        }
+      }
+    },
+    "derived_metrics": {
+      "condition_number": 1739.16,
+      "eigenvalue_ratio_PC1_PC2": 64.71,
+      "eigenvalue_ratio_PC2_PC3": 26.88,
+      "dimensionality_tier": "Near-Degenerate",
+      "pc1_dominant_channel": "Blue",
+      "pc1_dominant_loading": -0.591,
+      "blue_channel_independence_pct": 2.6,
+      "eigenvector_pattern": "Balanced"
+    },
+    "spatial_autocorrelation": {
+      "red": {
+        "horizontal": 0.990422,
+        "vertical": 0.986693,
+        "average": 0.988557
+      },
+      "green": {
+        "horizontal": 0.990321,
+        "vertical": 0.986742,
+        "average": 0.988531
+      },
+      "blue": {
+        "horizontal": 0.991471,
+        "vertical": 0.988794,
+        "average": 0.990133
+      }
+    },
+    "average_local_variance_3x3": {
+      "red": 141.6667,
+      "green": 142.8929,
+      "blue": 129.5373
+    },
+    "residual_correlations_pca_space": {
+      "PC1_PC2": 0.0,
+      "PC1_PC3": 0.0,
+      "PC2_PC3": 0.0
+    },
+    "redundancy_profile": {
+      "classification": "Near-Degenerate  |  Condition Number: 1739.16  |  PC1: 98.42%",
+      "correlation_structure": "R\u2013G pair dominates at r = 0.995513  |  G\u2013B: 0.976444  |  R\u2013B: 0.958368",
+      "blue_channel": "2.6% independent  |  97.4% captured by PC1",
+      "spatial_structure": "Avg autocorrelation: 0.989074  |  Avg local variance: 138.0323",
+      "eigenvector_pattern": "Balanced  |  R (-0.5664), G (-0.5743), B (-0.5910) near-equal loading"
+    }
+  },
+  "kodim21": {
+    "metadata": {
+      "image_id": "kodim21",
+      "subject": "Portland Head Lighthouse",
+      "suite": "Kodak Lossless True Color Image Suite (PCD0992)",
+      "resolution": "768x512",
+      "resolution_array": [
+        768,
+        512
+      ],
+      "pixel_count": 393216,
+      "bit_depth": 24,
+      "color_space": "sRGB",
+      "color_mode": "RGB",
+      "format": "PNG (lossless)",
+      "provenance": "Kodak PCD Film Scanner 2000, 35mm film, PhotoYCC decode to 8-bit RGB"
+    },
+    "channel_statistics": {
+      "red": {
+        "mean": 111.6135,
+        "std_dev": 41.6961,
+        "variance": 1738.5686,
+        "kurtosis": 1.8853,
+        "skewness": 0.8139,
+        "min": 0,
+        "max": 255
+      },
+      "green": {
+        "mean": 118.0137,
+        "std_dev": 44.594,
+        "variance": 1988.6265,
+        "kurtosis": 0.5278,
+        "skewness": 0.0245,
+        "min": 0,
+        "max": 255
+      },
+      "blue": {
+        "mean": 114.5361,
+        "std_dev": 47.97,
+        "variance": 2301.1177,
+        "kurtosis": -0.9321,
+        "skewness": -0.4663,
+        "min": 0,
+        "max": 255
+      }
+    },
+    "covariance_matrix": {
+      "RR": 1738.573,
+      "RG": 1665.4993,
+      "RB": 1330.2193,
+      "GG": 1988.6316,
+      "GB": 1958.391,
+      "BB": 2301.1235
+    },
+    "correlations": {
+      "R_G": 0.895717,
+      "R_B": 0.665054,
+      "G_B": 0.915487,
+      "average_absolute": 0.825419
+    },
+    "eigendecomposition": {
+      "PC1": {
+        "eigenvalue": 5346.8877,
+        "variance_explained_pct": 88.7,
+        "eigenvector": {
+          "R": -0.5061,
+          "G": -0.6078,
+          "B": -0.6119
+        }
+      },
+      "PC2": {
+        "eigenvalue": 663.5249,
+        "variance_explained_pct": 11.01,
+        "eigenvector": {
+          "R": -0.7421,
+          "G": -0.0545,
+          "B": 0.668
+        }
+      },
+      "PC3": {
+        "eigenvalue": 17.9155,
+        "variance_explained_pct": 0.3,
+        "eigenvector": {
+          "R": 0.4394,
+          "G": -0.7922,
+          "B": 0.4235
+        }
+      }
+    },
+    "derived_metrics": {
+      "condition_number": 298.45,
+      "eigenvalue_ratio_PC1_PC2": 8.06,
+      "eigenvalue_ratio_PC2_PC3": 37.04,
+      "dimensionality_tier": "Weakly One-Dimensional",
+      "pc1_dominant_channel": "Blue",
+      "pc1_dominant_loading": -0.6119,
+      "blue_channel_independence_pct": 13.0,
+      "eigenvector_pattern": "Green-Blue coupled"
+    },
+    "spatial_autocorrelation": {
+      "red": {
+        "horizontal": 0.94597,
+        "vertical": 0.89427,
+        "average": 0.92012
+      },
+      "green": {
+        "horizontal": 0.951766,
+        "vertical": 0.905705,
+        "average": 0.928736
+      },
+      "blue": {
+        "horizontal": 0.960706,
+        "vertical": 0.924619,
+        "average": 0.942662
+      }
+    },
+    "average_local_variance_3x3": {
+      "red": 216.4076,
+      "green": 220.4911,
+      "blue": 197.4763
+    },
+    "residual_correlations_pca_space": {
+      "PC1_PC2": 0.0,
+      "PC1_PC3": 0.0,
+      "PC2_PC3": 0.0
+    },
+    "redundancy_profile": {
+      "classification": "Weakly One-Dimensional  |  Condition Number: 298.45  |  PC1: 88.70%",
+      "correlation_structure": "G\u2013B pair leads at r = 0.915487  |  R\u2013G: 0.895717  |  R\u2013B: 0.665054",
+      "blue_channel": "13.0% independent  |  Moderate decoupling from PC1",
+      "spatial_structure": "Avg autocorrelation: 0.930506  |  Avg local variance: 211.4583",
+      "eigenvector_pattern": "Green-Blue coupled  |  G (-0.6078), B (-0.6119) co-load  |  R offset (-0.5061)"
+    }
+  },
+  "kodim22": {
+    "metadata": {
+      "image_id": "kodim22",
+      "subject": "Red Barn and Fences",
+      "suite": "Kodak Lossless True Color Image Suite (PCD0992)",
+      "resolution": "768x512",
+      "resolution_array": [
+        768,
+        512
+      ],
+      "pixel_count": 393216,
+      "bit_depth": 24,
+      "color_space": "sRGB",
+      "color_mode": "RGB",
+      "format": "PNG (lossless)",
+      "provenance": "Kodak PCD Film Scanner 2000, 35mm film, PhotoYCC decode to 8-bit RGB"
+    },
+    "channel_statistics": {
+      "red": {
+        "mean": 121.783,
+        "std_dev": 44.5188,
+        "variance": 1981.9227,
+        "kurtosis": 1.1508,
+        "skewness": 0.9451,
+        "min": 0,
+        "max": 255
+      },
+      "green": {
+        "mean": 112.4031,
+        "std_dev": 40.9399,
+        "variance": 1676.0753,
+        "kurtosis": 0.4604,
+        "skewness": 0.4691,
+        "min": 0,
+        "max": 255
+      },
+      "blue": {
+        "mean": 88.6816,
+        "std_dev": 46.6028,
+        "variance": 2171.818,
+        "kurtosis": -0.7035,
+        "skewness": 0.7033,
+        "min": 0,
+        "max": 255
+      }
+    },
+    "covariance_matrix": {
+      "RR": 1981.9277,
+      "RG": 1588.2027,
+      "RB": 1659.882,
+      "GG": 1676.0796,
+      "GB": 1669.754,
+      "BB": 2171.8235
+    },
+    "correlations": {
+      "R_G": 0.871394,
+      "R_B": 0.800057,
+      "G_B": 0.875171,
+      "average_absolute": 0.848874
+    },
+    "eigendecomposition": {
+      "PC1": {
+        "eigenvalue": 5232.6152,
+        "variance_explained_pct": 89.76,
+        "eigenvector": {
+          "R": -0.5769,
+          "G": -0.5438,
+          "B": -0.6095
+        }
+      },
+      "PC2": {
+        "eigenvalue": 414.479,
+        "variance_explained_pct": 7.11,
+        "eigenvector": {
+          "R": -0.7151,
+          "G": -0.0243,
+          "B": 0.6986
+        }
+      },
+      "PC3": {
+        "eigenvalue": 182.7367,
+        "variance_explained_pct": 3.13,
+        "eigenvector": {
+          "R": 0.3947,
+          "G": -0.8389,
+          "B": 0.3748
+        }
+      }
+    },
+    "derived_metrics": {
+      "condition_number": 28.63,
+      "eigenvalue_ratio_PC1_PC2": 12.62,
+      "eigenvalue_ratio_PC2_PC3": 2.27,
+      "dimensionality_tier": "Weakly One-Dimensional",
+      "pc1_dominant_channel": "Blue",
+      "pc1_dominant_loading": -0.6095,
+      "blue_channel_independence_pct": 10.5,
+      "eigenvector_pattern": "Blue dominant"
+    },
+    "spatial_autocorrelation": {
+      "red": {
+        "horizontal": 0.955737,
+        "vertical": 0.959898,
+        "average": 0.957817
+      },
+      "green": {
+        "horizontal": 0.94379,
+        "vertical": 0.948469,
+        "average": 0.94613
+      },
+      "blue": {
+        "horizontal": 0.956775,
+        "vertical": 0.963268,
+        "average": 0.960022
+      }
+    },
+    "average_local_variance_3x3": {
+      "red": 129.035,
+      "green": 137.59,
+      "blue": 130.4296
+    },
+    "residual_correlations_pca_space": {
+      "PC1_PC2": 0.0,
+      "PC1_PC3": 0.0,
+      "PC2_PC3": 0.0
+    },
+    "redundancy_profile": {
+      "classification": "Weakly One-Dimensional  |  Condition Number: 28.63  |  PC1: 89.76%",
+      "correlation_structure": "G\u2013B pair leads at r = 0.875171  |  R\u2013G: 0.871394  |  R\u2013B: 0.800057",
+      "blue_channel": "10.5% independent  |  Moderate decoupling from PC1",
+      "spatial_structure": "Avg autocorrelation: 0.954656  |  Avg local variance: 132.3515",
+      "eigenvector_pattern": "Blue dominant  |  B (-0.6095) leads  |  R (-0.5769), G (-0.5438)"
+    }
+  },
+  "kodim23": {
+    "metadata": {
+      "image_id": "kodim23",
+      "subject": "Macaw Pair on Perch",
+      "suite": "Kodak Lossless True Color Image Suite (PCD0992)",
+      "resolution": "768x512",
+      "resolution_array": [
+        768,
+        512
+      ],
+      "pixel_count": 393216,
+      "bit_depth": 24,
+      "color_space": "sRGB",
+      "color_mode": "RGB",
+      "format": "PNG (lossless)",
+      "provenance": "Kodak PCD Film Scanner 2000, 35mm film, PhotoYCC decode to 8-bit RGB"
+    },
+    "channel_statistics": {
+      "red": {
+        "mean": 121.6621,
+        "std_dev": 57.4511,
+        "variance": 3300.6241,
+        "kurtosis": -0.3263,
+        "skewness": 0.8485,
+        "min": 0,
+        "max": 255
+      },
+      "green": {
+        "mean": 109.596,
+        "std_dev": 50.801,
+        "variance": 2580.7367,
+        "kurtosis": -0.3619,
+        "skewness": 0.5988,
+        "min": 0,
+        "max": 255
+      },
+      "blue": {
+        "mean": 75.794,
+        "std_dev": 53.6149,
+        "variance": 2874.5523,
+        "kurtosis": 1.5599,
+        "skewness": 1.4627,
+        "min": 0,
+        "max": 255
+      }
+    },
+    "covariance_matrix": {
+      "RR": 3300.6325,
+      "RG": 1794.1847,
+      "RB": 1303.31,
+      "GG": 2580.7432,
+      "GB": 1745.2565,
+      "BB": 2874.5596
+    },
+    "correlations": {
+      "R_G": 0.614747,
+      "R_B": 0.42312,
+      "G_B": 0.640769,
+      "average_absolute": 0.559545
+    },
+    "eigendecomposition": {
+      "PC1": {
+        "eigenvalue": 6155.8496,
+        "variance_explained_pct": 70.3,
+        "eigenvector": {
+          "R": -0.61,
+          "G": -0.5732,
+          "B": -0.5472
+        }
+      },
+      "PC2": {
+        "eigenvalue": 1784.8463,
+        "variance_explained_pct": 20.38,
+        "eigenvector": {
+          "R": -0.717,
+          "G": 0.1051,
+          "B": 0.6891
+        }
+      },
+      "PC3": {
+        "eigenvalue": 815.2394,
+        "variance_explained_pct": 9.31,
+        "eigenvector": {
+          "R": 0.3375,
+          "G": -0.8126,
+          "B": 0.4751
+        }
+      }
+    },
+    "derived_metrics": {
+      "condition_number": 7.55,
+      "eigenvalue_ratio_PC1_PC2": 3.45,
+      "eigenvalue_ratio_PC2_PC3": 2.19,
+      "dimensionality_tier": "Three-Dimensional",
+      "pc1_dominant_channel": "Red",
+      "pc1_dominant_loading": -0.61,
+      "blue_channel_independence_pct": 35.9,
+      "eigenvector_pattern": "Red dominant"
+    },
+    "spatial_autocorrelation": {
+      "red": {
+        "horizontal": 0.988969,
+        "vertical": 0.98464,
+        "average": 0.986804
+      },
+      "green": {
+        "horizontal": 0.986138,
+        "vertical": 0.980135,
+        "average": 0.983137
+      },
+      "blue": {
+        "horizontal": 0.986545,
+        "vertical": 0.984012,
+        "average": 0.985279
+      }
+    },
+    "average_local_variance_3x3": {
+      "red": 76.9947,
+      "green": 75.5735,
+      "blue": 75.0538
+    },
+    "residual_correlations_pca_space": {
+      "PC1_PC2": 0.0,
+      "PC1_PC3": 0.0,
+      "PC2_PC3": 0.0
+    },
+    "redundancy_profile": {
+      "classification": "Three-Dimensional  |  Condition Number: 7.55  |  PC1: 70.30%",
+      "correlation_structure": "G\u2013B pair leads at r = 0.640769  |  R\u2013G: 0.614747  |  R\u2013B: 0.423120",
+      "blue_channel": "35.9% independent  |  3D color; major blue variance",
+      "spatial_structure": "Avg autocorrelation: 0.985073  |  Avg local variance: 75.8740",
+      "eigenvector_pattern": "Red dominant  |  R (-0.6100) leads  |  G (-0.5732), B (-0.5472)"
+    }
+  },
+  "kodim24": {
+    "metadata": {
+      "image_id": "kodim24",
+      "subject": "Bavarian Painted House",
+      "suite": "Kodak Lossless True Color Image Suite (PCD0992)",
+      "resolution": "768x512",
+      "resolution_array": [
+        768,
+        512
+      ],
+      "pixel_count": 393216,
+      "bit_depth": 24,
+      "color_space": "sRGB",
+      "color_mode": "RGB",
+      "format": "PNG (lossless)",
+      "provenance": "Kodak PCD Film Scanner 2000, 35mm film, PhotoYCC decode to 8-bit RGB"
+    },
+    "channel_statistics": {
+      "red": {
+        "mean": 113.4662,
+        "std_dev": 53.345,
+        "variance": 2845.6931,
+        "kurtosis": 1.3742,
+        "skewness": 1.3082,
+        "min": 20,
+        "max": 255
+      },
+      "green": {
+        "mean": 109.5455,
+        "std_dev": 54.5518,
+        "variance": 2975.8954,
+        "kurtosis": 1.1848,
+        "skewness": 1.2183,
+        "min": 10,
+        "max": 255
+      },
+      "blue": {
+        "mean": 94.2684,
+        "std_dev": 53.1052,
+        "variance": 2820.1571,
+        "kurtosis": 2.3358,
+        "skewness": 1.5677,
+        "min": 0,
+        "max": 255
+      }
+    },
+    "covariance_matrix": {
+      "RR": 2845.7003,
+      "RG": 2840.4995,
+      "RB": 2659.7188,
+      "GG": 2975.9029,
+      "GB": 2795.3752,
+      "BB": 2820.1643
+    },
+    "correlations": {
+      "R_G": 0.976092,
+      "R_B": 0.938867,
+      "G_B": 0.964925,
+      "average_absolute": 0.959961
+    },
+    "eigendecomposition": {
+      "PC1": {
+        "eigenvalue": 8413.5006,
+        "variance_explained_pct": 97.36,
+        "eigenvector": {
+          "R": -0.5728,
+          "G": -0.5911,
+          "B": -0.5678
+        }
+      },
+      "PC2": {
+        "eigenvalue": 175.8511,
+        "variance_explained_pct": 2.03,
+        "eigenvector": {
+          "R": -0.6349,
+          "G": -0.1181,
+          "B": 0.7635
+        }
+      },
+      "PC3": {
+        "eigenvalue": 52.4158,
+        "variance_explained_pct": 0.61,
+        "eigenvector": {
+          "R": 0.5184,
+          "G": -0.7979,
+          "B": 0.3077
+        }
+      }
+    },
+    "derived_metrics": {
+      "condition_number": 160.51,
+      "eigenvalue_ratio_PC1_PC2": 47.84,
+      "eigenvalue_ratio_PC2_PC3": 3.35,
+      "dimensionality_tier": "Near-Degenerate",
+      "pc1_dominant_channel": "Green",
+      "pc1_dominant_loading": -0.5911,
+      "blue_channel_independence_pct": 3.8,
+      "eigenvector_pattern": "Balanced"
+    },
+    "spatial_autocorrelation": {
+      "red": {
+        "horizontal": 0.942699,
+        "vertical": 0.932641,
+        "average": 0.93767
+      },
+      "green": {
+        "horizontal": 0.936831,
+        "vertical": 0.926359,
+        "average": 0.931595
+      },
+      "blue": {
+        "horizontal": 0.925966,
+        "vertical": 0.914864,
+        "average": 0.920415
+      }
+    },
+    "average_local_variance_3x3": {
+      "red": 253.8905,
+      "green": 292.1783,
+      "blue": 312.6529
+    },
+    "residual_correlations_pca_space": {
+      "PC1_PC2": 0.0,
+      "PC1_PC3": 0.0,
+      "PC2_PC3": 0.0
+    },
+    "redundancy_profile": {
+      "classification": "Near-Degenerate  |  Condition Number: 160.51  |  PC1: 97.36%",
+      "correlation_structure": "R\u2013G pair dominates at r = 0.976092  |  G\u2013B: 0.964925  |  R\u2013B: 0.938867",
+      "blue_channel": "3.8% independent  |  96.2% captured by PC1",
+      "spatial_structure": "Avg autocorrelation: 0.929893  |  Avg local variance: 286.2406",
+      "eigenvector_pattern": "Balanced  |  R (-0.5728), G (-0.5911), B (-0.5678) near-equal loading"
+    }
+  },
+  "_metadata": {
+    "generated_by": "Baetzel (2026) Kodak PCA Master Script",
+    "image_count": 24,
+    "suite": "Kodak Lossless True Color Image Suite (PCD0992)",
+    "references": [
+      "[1] Eastman Kodak Company. Kodak Publication No. PCD-042, 1992.",
+      "[2] Baetzel, J. (2026). Statistical Characterization of Inter-Channel Redundancy Structure in the Kodak Lossless True Color Image Suite.",
+      "[3] Watanabe, S. Karhunen-Loeve Expansion and Factor Analysis, pp. 635-660, 1965.",
+      "[4] Giorgianni, E.J. and Madden, T.E. Digital Color Management. Addison-Wesley, 1998."
+    ]
+  }
+}
