@@ -96,7 +96,7 @@ The 24 images span nearly the full range of inter-channel redundancy configurati
 
 |Metric               |Low            |High               |
 |---------------------|---------------|-------------------|
-|Avg                  |r              |                   |
+| Avg \|r\| | kodim23: 0.5595 | kodim20: 0.9903 |
 |Condition Number     |kodim23: 7.55  |kodim20: 1,739.16  |
 |PC1 Variance         |kodim03: 69.27%|kodim20: 98.42%    |
 |Blue Independence    |kodim15: 2.3%  |kodim03: 52.0%     |
@@ -135,7 +135,7 @@ The 24 images span nearly the full range of inter-channel redundancy configurati
     kodim24_stats.json
     kodak_suite_master_stats.json
 /docs/
-    METHODOLOGY.md
+    methodology.md
 ```
 
 **Root**: The parent PCA characterization paper and repository README.
