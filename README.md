@@ -3,6 +3,9 @@
 **Per-Image PCA and Inter-Channel Redundancy Analysis of the Kodak Lossless True Color Image Suite**
 
 Baetzel, J. (2026)
+
+-----
+
 > **Follow-up (2026b):** For per-image measurement of how BT.601 performs against these KLT ceilings, see [BT.601 Decorrelation Gap Analysis](https://github.com/PearsonZero/kodak-pcd0992-bt601-decorrelation-gap).
 
 -----
@@ -142,6 +145,34 @@ The 24 images span nearly the full range of inter-channel redundancy configurati
 **Root**: The parent PCA characterization paper and repository README.
 **`/baseline/`**: 24 two-page PDF reference data sheets and 25 JSON files (24 individual + 1 master).
 **`/docs/`**: Computation pipeline documentation for full reproducibility.
+
+-----
+
+## Reproducing These Results
+
+### Requirements
+
+- Python 3.8+
+- NumPy
+- Pillow
+
+### Installation
+
+```pip install numpy Pillow```
+
+
+### Usage
+
+Download the 24 Kodak PNGs from http://r0k.us/graphics/kodak/ and run:
+
+```python paper1_pca_characterization.py --input-dir ./kodak_images --output-dir ./results```
+
+
+The script computes the full PCA decomposition for all 24 images and outputs per-image JSON files plus a suite master JSON. The console prints a summary table matching the published results.
+
+### Verification
+
+All values are computed from raw 8-bit RGB pixel values with no preprocessing; any machine running the code will produce identical results.
 
 -----
 
