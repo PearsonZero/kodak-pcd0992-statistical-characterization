@@ -3,6 +3,7 @@
 **Per-Image PCA and Inter-Channel Redundancy Analysis of the Kodak Lossless True Color Image Suite**
 
 Baetzel, J. (2026)
+> **Follow-up (2026b):** For per-image measurement of how BT.601 performs against these KLT ceilings, see [BT.601 Decorrelation Gap Analysis](https://github.com/PearsonZero/kodak-pcd0992-bt601-decorrelation-gap).
 
 -----
 
